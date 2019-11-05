@@ -337,7 +337,9 @@
 "Can not fill the soil because there are building.", "建物があるため盛り土を行えません。"
 "Can not dig the soil because there are turret.", "タレットがあるため掘削できません。"
 "Can not dig the soil because there are building.", "建物があるため掘削できません。"
+"Fill the soil first to build the ishigaki.", "石垣にするための盛り土を行ってください。"
 "Can not build the ishigaki deeper than this.", "これ以上深い位置には石垣を作成できません。"
+
 "Can not build because the building is too close to the boundary.", "境界に近いため建築できません。"
 "Can not fill the soil because the grid is too close to the boundary.", "境界に近いため盛り土を行えません。"
 "Can not dig the soil because the grid is too close to the boundary.", "境界に近いため掘削できません。"
