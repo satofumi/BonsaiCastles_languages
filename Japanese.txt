@@ -1,0 +1,436 @@
+"Japanese", "日本語"
+
+
+# Title
+"Continue", "再開する"
+"Play Game", "ゲームを始める"
+"Map Editor", "マップエディタ"
+"Castle Editor", "お城エディタ"
+"Option", "オプション"
+"Credit", "クレジット"
+"Quit", "終了"
+
+"New Game", "新規ゲーム"
+"Load Game", "ゲームの読み込み"
+"Tutorial", "チュートリアル"
+"Additional Scenario", "追加シナリオ"
+"Back", "戻る"
+
+## Title.Option
+"Audio volume", "音量"
+"Music", "曲"
+"Sound Effects", "効果音"
+
+"Mouse", "マウス"
+"Wheel", "ホイール"
+
+"Key config", "キーコンフィグ"
+"Game controller", "コントローラ"
+"Keyboard", "キーボード"
+
+"Close", "閉じる"
+
+## Title.Load
+"Delete", "削除"
+"Load", "読み込み"
+"Loading...", "読み込み中..."
+
+
+
+# Credit
+"Credit.Sound", "音楽"
+"Credit.Image", "画像"
+"Credit.Font", "フォント"
+"Credit.Libray", "ライブラリ"
+
+"Music Atelier Amacha", "甘茶の音楽工房"
+"Pipoya", "ぴぽや"
+
+
+
+# MapSelect
+"Previous Map", "前のマップ"
+"Next Map", "次のマップ"
+"Map Code", "マップコード"
+
+"Map Type", "マップタイプ"
+"Plane", "平野"
+"Sea", "海辺"
+"River", "川"
+"Mountain", "山岳"
+
+"Difficulty", "難易度"
+"No enemies", "敵が出現しない<size=11>（クリエイティブ）</size>"
+"Normal", "普通"
+"Difficult", "難しい"
+"Insane", "むり"
+
+"Shield direction", "防衛結界の方角"
+"North", "北"
+"South", "南"
+"East", "東"
+"West", "西"
+"None", "なし"
+
+"Start Game", "ゲーム開始"
+"Map drawing...", "フィールドを描画しています..."
+
+
+# Game
+"year:{0}, month:{1}", "{0}年目 {1}の月"
+"Phase.FirstHelp", "ヘルプ表示"
+"Phase.Build", "建築フェーズ"
+"Phase.BeforeBuild", "建築フェーズ"
+"Phase.Defense", "防衛フェーズ"
+"Phase.BeforeDefense", "防衛フェーズ"
+"Phase.AfterDefense", "防衛フェーズ"
+"Phase.BeforeGather", "収集フェーズ"
+"Phase.Gather", "収集フェーズ"
+"Phase.GameOver", "防衛失敗"
+
+
+"Population", "住民の数"
+"Resources", "資源"
+"Spirit point", "霊力"
+"Build point", "建築ポイント"
+
+"Complete Phase", "フェーズ終了"
+
+
+## Game.Dialog
+"Cancel", "キャンセル"
+"OK", "OK"
+"Skip", "スキップ"
+
+
+## Game.Menu
+"Back to Game", "ゲームに戻る"
+"Restart Phase", "フェーズをやり直す"
+"Save", "保存"
+"Help", "ヘルプ"
+"Back to Title", "タイトルに戻る"
+
+"Back to title?", "タイトルに戻りますか？"
+"Restart this phase?", "このフェーズをやり直しますか？"
+
+
+## Game.Worker
+"Aono", "葵乃"
+"Chikage", "千景"
+"Ibuki", "伊吹"
+
+
+## Game.Help
+"Help.Keyboard", "キーボード"
+"Help.description.Keyboard", "左クリック: 決定、右ドラッグ: カメラ操作\nホイール: 表示範囲の拡大と縮小\nESC: キャンセル、メニューを開く\nWASD: 視点の移動、Enter: 視点リセット、M: 全体マップ\nE: 建築・研究パネルを開く\nTab: 建築・研究パネルの切り替え\nR: 建築物の 90度回転、T: 45度回転（壁のみ）\nQ: カーソル先の建物を選択、V: 盛り土を選択\nShift: 建築と撤去のトグル\nCtrl + s: クイックセーブ"
+
+"Help.Joystick", "ジョイスティック"
+"Help.description.Joystick", "Lスティック、方向ボタン: 視点の移動、ボタン選択の移動\nRスティック: カメラ操作、Rスティック押下: 視点リセット\nRトリガー + Rスティック: 拡大縮小\nB: 決定、A: キャンセル、Back: メニューを開く\nY: 建築・研究パネルを開く、X: カーソル先の建物を選択\nLボタン: 盛り土を選択、Start: 全体マップ\nL, Rボタン: 建築・研究パネルの切り替え\nRトリガー: 建築物の 90度回転、Rボタン: 45度回転\nLトリガー: 建築と撤去のトグル\nLトリガー + Back: クイックセーブ"
+
+"Help.Build and Remove", "建築と撤去"
+"Help.description.Build and Remove", "建物の建築と撤去は建築フェーズで行えます。\n間違って建築を行った場合、その建物を撤去すれば資源は払い戻されます。"
+
+"Help.Enemy Research", "敵の研究"
+"Help.description.Enemy Research", "研究パネルにある「敵の研究」を全て終えるとゲームクリアです。防衛フェーズで敵を倒し、収集フェーズで資源を集め、研究フェーズで資源を使って研究を行いましょう。"
+
+"Help.Base", "拠点"
+"Help.description.Base", "最初に建てた住居が拠点になり、拠点を壊されるとゲームオーバーになります。拠点を変更するには変更先の住居を左クリックして右下のパネルの「拠点に設定する」ボタンを押します。拠点から移動できない位置にある建物やタレットは適切に機能しません。"
+
+"Help.Turret", "タレット"
+"Help.description.Turret", "タレットには弓・火縄銃・大筒があります。タレットにはそれぞれ射程があり、射線が建物や地形で遮られると射程は制限されます。弓と火縄銃の射線は直線で、大筒の射線は放物線です。"
+
+"Help.Vision and Range", "視野と敵の初期位置"
+"Help.description.Vision and Range", "敵は防衛フェーズの開始時にタレットの射程か物見櫓の視野まで移動してきます。"
+
+"Help.Enemies defense", "敵の向きと防御力"
+"Help.description.Enemies defense", "敵は向きごとに防御力がありタレットによるダメージを減らします。横や後ろから敵を攻撃できる位置にタレットを配置することで防衛を有利に行なえます。"
+
+"Help.Wall", "塀"
+"Help.description.Wall", "塀は壊されるまで敵の攻撃を防ぎます。壁と同じ位置に弓・火縄銃タレットを配置するとその壁に狭間が作られて壁向こうの敵を攻撃することができます。"
+
+"Help.Gate", "門"
+"Help.description.Gate", "門は防衛フェーズでは塀として機能し、収集フェーズでは通り抜けられる建物として機能します。"
+
+"Help.Skill", "スキル"
+"Help.description.Skill", "研究することで攻撃スキルと防御スキルを使えるようになります。\n攻撃スキルは範囲内の敵にダメージを与えて移動速度を遅くします。防御スキルは範囲内の建物にシールドを付与します。スキルの発動には霊力を消費します。"
+
+"Help.Enemy and Resources", "敵と資源"
+"Help.description.Enemy and Resources", "防衛フェーズで敵を倒すと資源を落とします。資源は収集フェーズで住民が住居まで運び込むことで収集できます。"
+
+"Help.Worker", "住民"
+"Help.description.Worker", "建築ポイントと霊力は住民の数に比例して増加します。また住民は収集フェーズで資源収集を行います。住民は防衛フェーズ中は拠点に避難しています。"
+
+
+## Game.Save
+"Save Game", "ゲームの保存"
+"Overwrite", "上書き保存"
+"Cannot use characters: \ / : * ? " < > |", "これらの文字は使用できません: \ / : * ? " < > |"
+"Overwrite '{0}' file?", "ファイル '{0}' を上書きしますか？"
+"Delete '{0}' file?", "ファイル {0} を削除しますか？"
+"{0} saved.", "{0} に保存しました。"
+"Saved.", "保存しました。"
+"Removed.", "削除しました。"
+
+
+## Game.Build
+"Build", "建築"
+
+"Residence (Base)", "住居（拠点）"
+"Wall", "壁"
+"Gate", "門"
+"OneWaySign", "一方通行"
+"Water", "水"
+"Ground", "地面"
+"Ishigaki", "石垣"
+"Remove building", "建物の撤去"
+"Turrets", "タレット"
+"Remove turret", "タレットの撤去"
+
+"Hut", "小屋"
+"House", "邸宅"
+"Palace", "御殿"
+"FlatYagura", "平櫓"
+"DoubleYagura", "二重櫓"
+"Castle", "天守閣"
+"WoodenFence", "木柵"
+"WoodenWall", "板塀"
+"SoilWall", "土塀"
+"KabukiGate", "冠木門"
+"KouraiGate", "高麗門"
+"YaguraGate", "櫓門"
+"Watchtower", "物見櫓"
+"Road", "道"
+"Slope", "斜面"
+"Stairs", "階段"
+"SmallBridge", "小さな橋"
+"Bridge", "橋"
+"WaterDrain", "排水口"
+"WaterSource", "水源"
+"DigSoil", "掘削"
+"FillSoil", "盛り土"
+"RemoveBuilding", "建物の撤去"
+
+"BowTurret", "弓タレット"
+"HinawaGunTurret", "火縄銃タレット"
+"CannonTurret", "大筒タレット"
+"RemoveTurret", "タレットの撤去"
+
+## Game.Research
+"Research", "研究"
+
+"Yet", "要研究"
+"Done", "研究済み"
+"Researching", "研究中"
+
+"Base", "拠点"
+"Spirit", "霊力"
+"Skill", "スキル"
+"Analyze", "敵の研究"
+"Enemy weaken", "敵の弱体化"
+
+"Build_Palace", "御殿"
+"Build_FlatYagura", "平櫓"
+"Build_DoubleYagura", "二重櫓"
+"Build_Castle", "天守閣"
+"Build_SoilWall", "土塀"
+"Build_KabukiGate", "冠木門"
+"Build_KouraiGate", "高麗門"
+"Build_YaguraGate", "櫓門"
+"Build_Ishigaki", "石垣"
+"Build_Bridge", "橋"
+"Build_Waters", "水源、排水口"
+"Build_HinawaGunTurret", "火縄銃タレット"
+"Build_CannonTurret", "大筒タレット"
+
+"Tech_Spirit_0", "研鑽１"
+"Tech_Spirit_1", "研鑽２"
+"Tech_Spirit_2", "研鑽３"
+"Tech_Spirit_3", "研鑽４"
+"Tech_Spirit_4", "研鑽５"
+"Tech_Damage_0", "攻撃スキル１"
+"Tech_Shield_0", "防御スキル１"
+"Tech_Damage_1", "攻撃スキル２"
+"Tech_Shield_1", "防御スキル２"
+"Tech_Enemy_0", "敵の研究１"
+"Tech_Enemy_1", "敵の研究２"
+"Tech_Enemy_2", "敵の研究３"
+"Tech_Enemy_3", "敵の研究４"
+"Tech_Enemy_4", "敵の研究５"
+"Tech_Enemy_5", "敵の研究６"
+"Tech_Enemy_last", "敵の研究７"
+"Tech_Weaken_0", "敵の弱体化１"
+"Tech_Weaken_1", "敵の弱体化２"
+"Tech_Weaken_2", "敵の弱体化３"
+"Tech_Weaken_3", "敵の弱体化４"
+"Tech_Weaken_4", "敵の弱体化５"
+
+"Build_KabukiGate description", "冠木門が建築できるようにな\nる。"
+"Build_KouraiGate description", "高麗門が建築できるようにな\nる。"
+"Build_YaguraGate description", "櫓門が建築できるようになる。"
+"Build_SoilWall description", "土塀が建築できるようになる。"
+"Build_FlatYagura description", "平櫓が建築できるようになる。"
+"Build_DoubleYagura description", "二重櫓が建築できるようにな\nる。"
+"Build_Castle description", "天守閣が建築できるようにな\nる。"
+"Build_Ishigaki description", "石垣が建築できるようになる。"
+"Build_Bridge description", "橋が建築できるようになる。"
+"Build_Waters description", "排水口、水源が建築できるようになる。"
+"Build_HinawaGunTurret description", "火縄銃タレットが建築できるようになる。"
+"Build_CannonTurret description", "大筒タレットが建築できるようになる。"
+
+"Tech_Spirit_0 description", "追加の霊力を得る。"
+"Tech_Spirit_1 description", "追加の霊力を得る。"
+"Tech_Spirit_2 description", "追加の霊力を得る。"
+"Tech_Spirit_3 description", "追加の霊力を得る。"
+"Tech_Spirit_4 description", "追加の霊力を得る。"
+"Tech_Spirit_5 description", "追加の霊力を得る。"
+
+"Tech_Damage_0 description", "攻撃スキルが使えるようにな\nる。"
+"Tech_Damage_1 description", "攻撃スキルのダメージ量が増える。"
+"Tech_Shield_0 description", "建物にシールドを付与する防御スキルが使えるようになる。"
+"Tech_Shield_1 description", "防御スキルで付与するシールド量が増える。"
+
+"Tech_Enemy_0 description", "敵の解析を進める。"
+"Tech_Enemy_1 description", "敵の解析を進める。"
+"Tech_Enemy_2 description", "敵の解析を進める。"
+"Tech_Enemy_3 description", "敵の解析を進める。"
+"Tech_Enemy_4 description", "敵の解析を進める。"
+"Tech_Enemy_5 description", "敵の解析を進める。"
+"Tech_Enemy_last description", "敵の解析を完成させる。\nこのスキルの研究を開始すると「最後の防衛戦」が始まりま\nす。"
+
+"Tech_Weaken_0 description", "敵の防御力が減る。"
+"Tech_Weaken_1 description", "敵の移動速度が下がる。"
+"Tech_Weaken_2 description", "敵の攻撃力が減る。"
+"Tech_Weaken_3 description", "敵の耐久値が減る。"
+"Tech_Weaken_4 description", "敵の耐久値がさらに減る。"
+
+
+## Game.Messages
+"The build phase begins.", "建築フェーズを開始します。"
+"The defense phase begins.", "防衛フェーズを開始します。"
+"Population increased by {0}.", "人口が {0}人 増加しました。"
+"Do you finish the build phase?", "建築フェーズを終了しますか？"
+"You succeeded in defense!", "防衛に成功しました！"
+"Victory!", "勝利しました！"
+"The gather phase begins.", "収集フェーズを開始します。"
+"You have gathered {0} resources.", "資源を {0} 収集しました。"
+"Game Over", "防衛に失敗しました。"
+"Press 'E' key to open the control panel.", "操作パネルを開くには 'E' キーを押します。"
+"Click 'Complete Phase' button to end this phase.", "建築フェーズを終了するには 'フェーズ終了' ボタンを押します。"
+"Build a residence that will be your base.", "拠点となる住居を建築してください。"
+"Build some turrets to defend your base.", "防衛のためにタレットの建築が必要です。"
+"Used {0} build points for repair buildings.", "建物の復旧に労働力を {0} ポイント消費しました。"
+
+"Cannot found any gather route.", "資源を収集できる経路がありません。"
+"The gather phase ends.", "収集フェーズを終了します。"
+"The Base cannot be removed.", "拠点は撤去できません。"
+"Skip the gather phase because there are no enemy resources.", "敵資源がないため、収集フェーズをスキップします。"
+"Skip the defense and gather phases because there are no enemies.", "敵がいないため、防衛フェーズと収集フェーズをスキップします。"
+
+"Can not build because there are building.", "建物があるため建築できません。"
+"Can not build because there are other turret.", "他のタレットがあるため建築できません。"
+"Can not build because of water.", "水位が高いため建築できません。"
+"Can not fill the soil higher than this.", "これ以上は盛り土を行えません。"
+"Can not dig the soil deeper than this.", "これ以上は掘削できません。"
+"Can not build because the height is not aligned.", "地面の高さが同じでないため建築できません。"
+"Can not build because there are other building.", "他の建物があるため建築できません。"
+"Can not fill the soil because there are turret.", "タレットがあるため盛り土を行えません。"
+"Can not fill the soil because there are building.", "建物があるため盛り土を行えません。"
+"Can not dig the soil because there are turret.", "タレットがあるため掘削できません。"
+"Can not dig the soil because there are building.", "建物があるため掘削できません。"
+"Can not build the ishigaki deeper than this.", "これ以上深い位置には石垣を作成できません。"
+"Can not build because the building is too close to the boundary.", "境界に近いため建築できません。"
+"Can not fill the soil because the grid is too close to the boundary.", "境界に近いため盛り土を行えません。"
+"Can not dig the soil because the grid is too close to the boundary.", "境界に近いため掘削できません。"
+"Can not level the ground because the grid is too close to the boundary.", "境界に近いため整地できません。"
+"There are not enough points to build.", "建築するためのポイントが不足しています。"
+
+"Left time", "残り時間"
+"Left enemies:  {0}", "残敵の数:  {0}"
+"Collected resources:  {0}/{1}", "収集した資源:  {0} / <size=14>{1}</size>"
+"Back to Build phase", "建築フェーズに戻る"
+
+"Research period: {0} months.", "研究期間:  {0}ヶ月"
+"Research completed: '{0}'", "「{0}」の研究が完了しました。"
+
+"No more resources to construct.", "工事するためのリソースが不足しています。"
+"Research left {0} months.", "研究完了まで {0}ヶ月"
+"Housing shortage.", "住居が不足しています。"
+
+"Defense.Start", "防衛開始"
+"Enemy count", "敵の数"
+"Enemy ratio", "敵の割合"
+"Placement.Auto.Ratio", "敵の割合を自動で決定する。"
+"Placement.Manual.Ratio", "敵の割合を手動で調整する。"
+
+"Hut description", "資源や矢弾の保管に適してい\nる。"
+"House description", "一般的な住居。"
+"Palace description", "政務に適した施設。"
+"FlatYagura description", "頑丈な防衛施設。"
+"DoubleYagura description", "より頑丈な防衛施設。"
+"Castle description", "城郭の象徴となる防衛施設。"
+
+"WoodenFence description", "移動を阻害する。遠距離攻撃は妨げない。"
+"WoodenWall description", "移動と矢弾を防ぐ壁。狭間を設置できる。"
+"SoilWall description", "移動と矢弾を防ぐ頑丈な壁。狭間を設置できる。"
+"KabukiGate description", "基本的な門。"
+"KouraiGate description", "屋根付きの威厳のある門。"
+"YaguraGate description", "櫓を備えた頑強な門。"
+
+"Watchtower description", "敵の侵入を監視できる。"
+"Road description", "整地された地面。"
+"Slope description", "段差よりも移動しやすい地面。"
+"Stairs description", "歩きやすいように舗装されている。"
+"SmallBridge description", "水深が低いところに建築する\n橋。"
+"Bridge description", "水深が深いところに建築する\n橋。"
+
+"OneWaySign description", "矢印の方向から侵入できなくなる。"
+"WaterDrain description", "このブロック上の水を排水す\nる。"
+"WaterSource description", "１ブロックぶんの高さの水が湧き出る。"
+
+"DigSoil description", "地面を１ブロック掘り下げる。"
+"FillSoil description", "地面を１ブロック盛り上げる。"
+"Ishigaki description", "地面を石で補強する。"
+
+"RemoveBuilding description", "建物を撤去する。"
+
+"BowTurret description", "矢を発射する。"
+"HinawaGunTurret description", "火薬で鉛弾を発射する。"
+"CannonTurret description", "命中した敵だけでなく着弾位置の全ての敵に追加ダメージを与える。"
+"RemoveTurret description", "タレットを撤去する。"
+"Your base is under attack!", "拠点が攻撃されています！"
+
+## Game.InformationPanels
+"Set as a base", "拠点に設定する"
+"Last durability:  {0}/{1}", "直前の耐久力:  {0} <size=14>/ {1}</size>""
+"Durability:  {0}/{1}", "耐久値:  {0} <size=14>/ {1}</size>"
+"Durability:  {0}", "耐久値:  {0}"
+"Max residents:  {0}", "居住可能人数:  {0}"
+"Max storage capacity:  {0}", "最大貯蔵量:  {0}"
+"Last defeats:  {0}", "直前の撃破数:  {0}"
+"Total defeats:  {0}", "総撃破数:  {0}"
+
+"Bullets:  {0}/{1}", "残弾数:  {0} <size=14>/ {1}</size>"
+"Max Turrets:  {0}", "設置可能タレット数:  {0}"
+"<color=red>Lack of Spirits</color>", "<color=red>霊力不足</color>"
+"<color=red>No route to base</color>", "<color=red>拠点への経路なし</color>"
+
+"Enemy.Counts:  {0}", "出現数:  {0}"
+
+"Damage:  {0}", "攻撃力:  {0}"
+"Range:  {0}", "射程:  {0}"
+
+"DPS:  {0}", "DPS:  {0}"
+"Defense", "防御"
+"  Front: {0} %", "  前面:  {0} <size=12>%</size>"
+"  Side: {0} %", "  側面:  {0} <size=12>%</size>"
+"  Back: {0} %", "  背面:  {0} <size=12>%</size>"
+"Move speed:  {0}", "移動速度:  {0}"
+
+"State:  {0}", "状態:  {0}"
+"Worker.Idle", "待機中"
+"Worker.GoToWork", "移動中"
+"Worker.Gathering", "収集中"
+"Worker.ExitGathering", "収集中"
+"Worker.GoBack", "運搬中"
+"Worker.WorkEnd", "待機中"
+"Holding:  {0}/{1}", "運搬量:  {0} <size=14>/ {1}</size>"

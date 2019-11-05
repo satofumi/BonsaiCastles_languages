@@ -1,0 +1,197 @@
+"English", "English"
+
+
+# Title
+
+
+# Credit
+"Credit.Sound", "Sound"
+"Credit.Image", "Image"
+"Credit.Font", "Font"
+"Credit.Library", "Library"
+
+
+# MapSelect
+"No enemies", "No enemies (Creative mode)"
+
+
+# Game
+"year:{0}, month:{1}", "Year {0}, Month {1}"
+"Phase.FirstHelp", "Help"
+"Phase.Build", "Build phase"
+"Phase.BeforeBuild", "Build phase"
+"Phase.Defense", "Defense phase"
+"Phase.BeforeDefense", "Defense phase"
+"Phase.AfterDefense", "Defense phase"
+"Phase.Gather", "Gather phase"
+
+
+## Game.Help
+"Help.Build and Remove", "Build and Remove"
+"Help.description.Build and Remove", "Building and removal can be done during the construction phase. If you make a mistake, you can remove the building and the resources will be refunded."
+
+"Help.Enemy Research", "Enemy Research"
+"Help.description.Enemy Research", "The game is complete when you have completed all of the “Enemy Research” on the research panel. Defeat enemies in the defense phase, collect resources in the collection phase, and research using resources in the research phase."
+
+"Help.Base", "Base"
+"Help.description.Base", "The first residence will be the base, and if the base is destroyed, the game will be over. To change the location, left-click on the new residence and click the 'Set as location' button in the lower right panel. Buildings and turrets that cannot be moved from the base will not function properly."
+
+"Help.Turret", "Turret"
+"Help.description.Turret", "Turrets include bows, rope guns, and large tubes. Each turret has a range, and the range is limited if the ray is blocked by buildings or terrain. The bow and line guns have a straight line, and the large tube has a parabola."
+
+"Help.Vision and Range", "Vision and Range"
+"Help.description.Vision and Range", "The enemy moves to the turret range or the sight of the spectator at the beginning of the defense phase."
+
+"Help.Enemies defense", "Enemies defense"
+"Help.description.Enemies defense", "Enemies are defensive in every direction and reduce turret damage. By placing turrets where you can attack enemies from the side or from behind, you can gain an advantage in defense."
+
+"Help.Wall", "Wall"
+"Help.description.Wall", "The spider prevents enemy attacks until it is destroyed. If you place a bow turret and matchlock turret at the same position as the wall, a space will be created on the wall and you can attack the enemy behind the wall."
+
+"Help.Gate", "Gate"
+"Help.description.Gate", "The gate functions as a fence during the defense phase and as a building that can be passed through during the collection phase."
+
+"Help.Skill", "Skill"
+"Help.description.Skill", "By studying, you will be able to use attack and defense skills. Attack skills damage enemies within range and slow down their movement speed. Defense skills grant shields to buildings within range. Spirit power is consumed to activate skills."
+
+"Help.Enemy and Resources", "Enemy and Resources"
+"Help.description.Enemy and Resources", "Defeat enemies in the defense phase and you will lose resources. Resources can be collected by the residents in the collection phase, bringing them to their homes."
+
+"Help.Worker", "Worker"
+"Help.description.Worker", "Architectural points and spiritual power increase in proportion to the number of inhabitants. Residents also collect resources during the collection phase. Residents are evacuated to the base during the defense phase."
+
+
+## Game.Build
+"FlatYagura", "Single-story yagura"
+"DoubleYagura", "Two-story yagura"
+"Castle", "The keep of a castle"
+"WoodenFence", "Wooden fence"
+"WoodenWall", "Wooden wall"
+"SoilWall", "Soil wall"
+"KabukiGate", "Kabuki gate"
+"KouraiGate", "Kourai gate"
+"YaguraGate", "Yagura gate"
+"SmallBridge", "Small bridge"
+"OneWaySign", "One way sign"
+"WaterDrain", "Water drain"
+"WaterSource", "Water source"
+"Ishigaki", "Stone wall"
+"RemoveBuilding", "Remove building"
+
+"BowTurret", "Bow turret"
+"HinawaGunTurret", "Matchlock turret"
+"CannonTurret", "Cannon turret"
+"RemoveTurret", "Remove turret"
+
+"Hut description", "Suitable for storing resources and ammunition."
+"House description", "General residence."
+"Palace description", "A facility suitable for government affairs."
+"FlatYagura description", "A sturdy defense facility."
+"DoubleYagura description", "A more sturdy defense facility."
+"Castle description", "A defense faility that symbolizes the castle."
+
+"WoodenFence description", "Inhibits movement. Does not interfere with the ranged attack."
+"WoodenWall description", "A wall that prevents movement and ammunition. A loophole can be set up."
+"SoilWall description", "A sturdy wall that prevents movement and ammunition. A loophole can be set up."
+"KabukiGate description", "Basic gate."
+"KouraiGate description", "A sturdy gate with a roof."
+"YaguraGate description", "A sturdy gate with a yagura."
+
+"Watchtower description", "Monitor enemy intrusions."
+"Road description", "Leveled ground."
+"Slope description", "The ground is easier to move than steps."
+"Stairs description", "Paved for easy walking."
+"SmallBridge description", "A bridge build at a low water depth."
+"Bridge description", "A bridge build at a deep water."
+
+"OneWaySign description", "Cannot enter from the direction of the arrow."
+"WaterDrain description", "Drain the water on this block."
+"WaterSource description", "One block of water rises."
+
+"DigSoil description", "Dig a block of ground."
+"FillSoil description", "Raise a block of ground."
+"Ishigaki description", "Reinforce the ground with stones."
+
+"RemoveBuilding description", "Remove the building."
+
+"BowTurret description", "Fire an arrow."
+"HinawaGunTurret description", "Fire lead bullets with gunpowder."
+"CannonTurret description", "Inflict additional damage not only on the hit enemy but also on all enemies at the landing position."
+"RemoveTurret description", "Remove the turret."
+
+
+## Game.Research
+"Build_Palace", "Palace"
+"Build_FlatYagura", "Single-story yagura"
+"Build_DoubleYagura", "Two-story yagura"
+"Build_Castle", "The keep of castle"
+"Build_SoilWall", "Soil wall"
+"Build_KabukiGate", "Kabuki gate"
+"Build_KouraiGate", "Kourai gate"
+"Build_YaguraGate", "Yagura gate"
+"Build_Ishigaki", "Stone wall"
+"Build_Bridge", "Bridge"
+"Build_Waters", "Water source, Water drain"
+"Build_HinawaGunTurret", "Matchlock turret"
+"Build_CannonTurret", "Cannon turret"
+
+"Tech_Spirit_0", "Mediation 1"
+"Tech_Spirit_1", "Mediation 2"
+"Tech_Spirit_2", "Mediation 3"
+"Tech_Spirit_3", "Mediation 4"
+"Tech_Spirit_4", "Mediation 5"
+"Tech_Damage_0", "Attack skill 1"
+"Tech_Shield_0", "Defense skill 1"
+"Tech_Damage_1", "Attack skill 2"
+"Tech_Shield_1", "Defense skill 2"
+"Tech_Enemy_0", "Enemy research 1"
+"Tech_Enemy_1", "Enemy research 2"
+"Tech_Enemy_2", "Enemy research 3"
+"Tech_Enemy_3", "Enemy research 4"
+"Tech_Enemy_4", "Enemy research 5"
+"Tech_Enemy_5", "Enemy research 6"
+"Tech_Enemy_last", "Enemy research 7"
+"Tech_Weaken_0", "Weaken enemies 1"
+"Tech_Weaken_1", "Weaken enemies 2"
+"Tech_Weaken_2", "Weaken enemies 3"
+"Tech_Weaken_3", "Weaken enemies 4"
+"Tech_Weaken_4", "Weaken enemies 5"
+
+"Build_KabukiGate description", "Kabuki gate can be built."
+"Build_KouraiGate description", "Kourai gate can be build."
+"Build_YaguraGate description", "Yagura gate can be build."
+"Build_SoilWall description", "Soil wall gate can be build."
+"Build_FlatYagura description", "Single-story yagura gate can be build."
+"Build_DoubleYagura description", "Two-story yagura can be build."
+"Build_Castle description", "The keep of castle can be build."
+"Build_Ishigaki description", "Stone wall can be build."
+"Build_Bridge description", "Bridge can be build."
+"Build_Waters description", "Water drain and Water source can be build."
+"Build_HinawaGunTurret description", "Matchlock turret can be build."
+"Build_CannonTurret description", "Cannon turret can be build."
+
+"Tech_Spirit_0 description", "Gain additional spirits."
+"Tech_Spirit_1 description", "Gain additional spirits."
+"Tech_Spirit_2 description", "Gain additional spirits."
+"Tech_Spirit_3 description", "Gain additional spirits."
+"Tech_Spirit_4 description", "Gain additional spirits."
+"Tech_Spirit_5 description", "Gain additional spirits."
+
+"Tech_Damage_0 description", "Attack skill can be used."
+"Tech_Damage_1 description", "Increases attack skill damage."
+"Tech_Shield_0 description", "Defense skill which grant shields to buildings can be used."
+"Tech_Shield_1 description", "Increases the amount of shield granted with defense skill."
+
+"Tech_Enemy_0 description", "Process with enemy analysis."
+"Tech_Enemy_1 description", "Process with enemy analysis."
+"Tech_Enemy_2 description", "Process with enemy analysis."
+"Tech_Enemy_3 description", "Process with enemy analysis."
+"Tech_Enemy_4 description", "Process with enemy analysis."
+"Tech_Enemy_5 description", "Process with enemy analysis."
+"Tech_Enemy_last description", "Complete the enemy analysis. When you start researching this skill, the 'last defense' begins."
+
+"Tech_Weaken_0 description", "Reduces enemy defense."
+"Tech_Weaken_1 description", "Enemy movement speed decreases."
+"Tech_Weaken_2 description", "Enemy's attack power is redused."
+"Tech_Weaken_3 description", "Reduces enemy durability."
+"Tech_Weaken_4 description", "More reduces enemy durability."
