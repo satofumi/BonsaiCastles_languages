@@ -88,7 +88,6 @@
 "Phase.Gather", "収集フェーズ"
 "Phase.GameOver", "防衛失敗"
 
-
 "Population", "住民の数"
 "Resources", "資源"
 "Spirit point", "霊力"
