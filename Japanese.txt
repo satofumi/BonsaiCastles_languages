@@ -54,7 +54,7 @@
 "Map Code", "マップコード"
 
 "Map Type", "マップタイプ"
-"Plane", "平野"
+"Plain", "平野"
 "Sea", "海辺"
 "River", "川"
 "Mountain", "山岳"
