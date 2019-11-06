@@ -27,6 +27,9 @@
 
 
 ## Game.Help
+"Help.Keyboard", "Keyboard"
+"Help.description.Keyboard", "left click: submit, right dragging: camera control\nwheel: zoom in/out\nESC: cancel, menu\nWASD: camera move, Enter: reset camera, M: map\nE: show build/research panel\nTab: toggle build and research panels\nR: rotate the preview 90 degrees, T: rotate 45 degrees(wall only)\nQ: sekect focused building, V: select fill the soil\nShift: toggle build and remove, Ctrl + s: quick save\nShift + Space: next phase, skip button"
+
 "Help.Build and Remove", "Build and Remove"
 "Help.description.Build and Remove", "Building and removal can be done during the construction phase. If you make a mistake, you can remove the building and the resources will be refunded."
 
