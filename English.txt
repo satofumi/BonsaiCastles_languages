@@ -67,7 +67,7 @@
 "Help.description.Resource type", "Population: Increase before the construction phase. The upper limit is determined by the number of houses.\nBuild points: Consumed when building, filling and excavating. This value will be restored before the build phase.\nSpirit points: Necessary for turret placement and skill activation.\nResources: Used when conducting research and building some buildings. The upper limit is determined by the base building."
 
 "Help.Worker", "Worker"
-"Help.description.Worker", "Architectural points and spiritual power increase in proportion to the number of inhabitants. Residents also collect resources during the collection phase. Residents are evacuated to the base during the defense phase."
+"Help.description.Worker", "Build points and Spirit power increase in proportion to population. Worker also collect resources during the collection phase. Worker can only climb up to one step above and below and are evacuated to the base during the defense phase."
 
 
 ## Game.Build
