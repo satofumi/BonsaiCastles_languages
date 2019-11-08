@@ -63,6 +63,9 @@
 "Help.Enemy and Resources", "Enemy and Resources"
 "Help.description.Enemy and Resources", "Defeat enemies in the defense phase and you will lose resources. Resources can be collected by the residents in the collection phase, bringing them to their homes."
 
+"Help.Resource type", "Resource type"
+"Help.description.Resource type", "Population: Increase before the construction phase. The upper limit is determined by the number of houses.\nBuild points: Consumed when building, filling and excavating. This value will be restored before the build phase.\nSpirit points: Necessary for turret placement and skill activation.\nResources: Used when conducting research and building some buildings. The upper limit is determined by the base building."
+
 "Help.Worker", "Worker"
 "Help.description.Worker", "Architectural points and spiritual power increase in proportion to the number of inhabitants. Residents also collect resources during the collection phase. Residents are evacuated to the base during the defense phase."
 
