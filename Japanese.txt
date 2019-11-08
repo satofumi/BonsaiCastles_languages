@@ -308,6 +308,7 @@
 
 
 ## Game.Messages
+"- ", "・"
 "The build phase begins.", "建築フェーズを開始します。"
 "The defense phase begins.", "防衛フェーズを開始します。"
 "Population increased by {0}.", "人口が {0}人 増加しました。"
