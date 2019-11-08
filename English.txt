@@ -127,6 +127,9 @@
 
 
 ## Game.Research
+"Yet", "Locked"
+"Done", "Unlocked"
+
 "Build_Palace", "Palace"
 "Build_FlatYagura", "Single-story yagura"
 "Build_DoubleYagura", "Two-story yagura"
