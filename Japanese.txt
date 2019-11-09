@@ -283,12 +283,12 @@
 "Build_HinawaGunTurret description", "火縄銃タレットが建築できるようになる。"
 "Build_CannonTurret description", "大筒タレットが建築できるようになる。"
 
-"Tech_Spirit_0 description", "追加の霊力を得る。"
-"Tech_Spirit_1 description", "追加の霊力を得る。"
-"Tech_Spirit_2 description", "追加の霊力を得る。"
-"Tech_Spirit_3 description", "追加の霊力を得る。"
-"Tech_Spirit_4 description", "追加の霊力を得る。"
-"Tech_Spirit_5 description", "追加の霊力を得る。"
+"Tech_Spirit_0 description", "追加の霊力を {0} 得る。"
+"Tech_Spirit_1 description", "追加の霊力を {0} 得る。"
+"Tech_Spirit_2 description", "追加の霊力を {0} 得る。"
+"Tech_Spirit_3 description", "追加の霊力を {0} 得る。"
+"Tech_Spirit_4 description", "追加の霊力を {0} 得る。"
+"Tech_Spirit_5 description", "追加の霊力を {0} 得る。"
 
 "Tech_Damage_0 description", "攻撃スキルが使えるようにな\nる。"
 "Tech_Damage_1 description", "攻撃スキルのダメージ量が増える。"
@@ -360,6 +360,7 @@
 "Back to Build phase", "建築フェーズに戻る"
 
 "Research period: {0} months.", "研究期間:  {0}ヶ月"
+"Researching: {0}", "{0} の研究を開始しました。"
 "Research completed: '{0}'", "「{0}」の研究が完了しました。"
 
 "No more resources to construct.", "工事するためのリソースが不足しています。"

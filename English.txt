@@ -182,12 +182,12 @@
 "Build_HinawaGunTurret description", "Matchlock turret can be build."
 "Build_CannonTurret description", "Cannon turret can be build."
 
-"Tech_Spirit_0 description", "Gain additional spirits."
-"Tech_Spirit_1 description", "Gain additional spirits."
-"Tech_Spirit_2 description", "Gain additional spirits."
-"Tech_Spirit_3 description", "Gain additional spirits."
-"Tech_Spirit_4 description", "Gain additional spirits."
-"Tech_Spirit_5 description", "Gain additional spirits."
+"Tech_Spirit_0 description", "Gain additional {0} spirits."
+"Tech_Spirit_1 description", "Gain additional {0} spirits."
+"Tech_Spirit_2 description", "Gain additional {0} spirits."
+"Tech_Spirit_3 description", "Gain additional {0} spirits."
+"Tech_Spirit_4 description", "Gain additional {0} spirits."
+"Tech_Spirit_5 description", "Gain additional {0} spirits."
 
 "Tech_Damage_0 description", "Attack skill can be used."
 "Tech_Damage_1 description", "Increases attack skill damage."
