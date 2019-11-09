@@ -362,7 +362,7 @@
 "Research period: {0} months.", "研究期間:  {0}ヶ月"
 "Researching: {0}", "{0} の研究を開始しました。"
 "Research completed: '{0}'", "「{0}」の研究が完了しました。"
-"You have enough resources to research.", "研究可能です。"
+"You have enough resources to research.", "研究を開始できます。"
 
 
 "No more resources to construct.", "工事するためのリソースが不足しています。"
