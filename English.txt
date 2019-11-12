@@ -40,7 +40,7 @@
 "Help.description.Build and Remove", "Building and removal can be done during the construction phase. If you make a mistake, you can remove the building and the resources will be refunded."
 
 "Help.Enemy Research", "Enemy Research"
-"Help.description.Enemy Research", "The game is complete when you have completed all of the “Enemy Research” on the research panel. Defeat enemies in the defense phase, collect resources in the collection phase, and research using resources in the research phase."
+"Help.description.Enemy Research", "The game is complete when you have completed all of the “Enemy Research” on the research panel. Defeat enemies in the defense phase, collect resources in the gather phase, and research using resources in the research phase."
 
 "Help.Base", "Base"
 "Help.description.Base", "The first residence will be the base, and if the base is destroyed, the game will be over. Buildings and turrets that cannot be moved from the base will not function properly.\nTo change the location, left-click on the new residence and click the 'Set as a base' button in the lower right panel."
@@ -58,7 +58,7 @@
 "Help.description.Wall", "The spider prevents enemy attacks until it is destroyed. If you place a bow turret and matchlock turret at the same position as the wall, a space will be created on the wall and you can attack the enemy behind the wall."
 
 "Help.Gate", "Gate"
-"Help.description.Gate", "The gate functions as a fence during the defense phase and as a building that can be passed through during the collection phase."
+"Help.description.Gate", "The gate functions as a fence during the defense phase and as a building that can be passed through during the gather phase."
 
 "Help.Machicolation", "Machicolation"
 "Help.description.Machicolation", "The single-story yagura, two-story yagura, and the keep of a castle are equipped with machicolation. This allows these defensive facilities to attack their position even if the adjacent grid is low, unlike turrets."
@@ -67,13 +67,13 @@
 "Help.description.Skill", "By studying, you will be able to use attack and defense skills. Attack skills damage enemies within range and slow down their movement speed. Defense skills grant shields to buildings within range. Spirit power is consumed to activate skills."
 
 "Help.Enemy and Resources", "Enemy and Resources"
-"Help.description.Enemy and Resources", "Defeat enemies in the defense phase and you will lose resources. Resources can be collected by the residents in the collection phase, bringing them to their homes."
+"Help.description.Enemy and Resources", "Defeat enemies in the defense phase and you will lose resources. Resources can be collected by the residents in the gather phase, bringing them to their homes."
 
 "Help.Resource type", "Resource type"
-"Help.description.Resource type", "Population: Increase before the construction phase. The upper limit is determined by the number of houses.\nBuild points: Consumed when building, filling and excavating. This value will be restored before the build phase.\nSpirit points: Necessary for turret placement and skill activation.\nResources: Used when conducting research and building some buildings. The upper limit is determined by the base building."
+"Help.description.Resource type", "Population: Increase before the build phase. The upper limit is determined by the number of residences.\nBuild points: Consumed when building, filling and excavating. Restored before the build phase.\nSpirit points: Necessary for turret placement and skill activation. Temporarily increases over time during the defense phase.\nResources: Used when conducting research and building some buildings. The upper limit is determined by the base building."
 
 "Help.Worker", "Worker"
-"Help.description.Worker", "Build points and Spirit power increase in proportion to population. Worker also collect resources during the collection phase. Worker can only climb up to one step above and below and are evacuated to the base during the defense phase."
+"Help.description.Worker", "Build points and Spirit power increase in proportion to population. Worker also collect resources during the gather phase. Worker can only climb up to one step above and below and are evacuated to the base during the defense phase."
 
 
 ## Game.Build
