@@ -316,6 +316,7 @@
 "The defense phase begins.", "防衛フェーズを開始します。"
 "Population increased by {0}.", "人口が {0}人 増加しました。"
 "Do you finish the build phase?", "建築フェーズを終了しますか？"
+"The population is reduced to {0}.", "人口が {0}人に減少します。"
 "You succeeded in defense!", "防衛に成功しました！"
 "Victory!", "勝利しました！"
 "The gather phase begins.", "収集フェーズを開始します。"
