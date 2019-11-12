@@ -2,6 +2,12 @@
 
 
 # Title
+"Quality.Very Low", "Very Low"
+"Quality.Low", "Low"
+"Quality.Medium", "Medium"
+"Quality.High", "High"
+"Quality.Very High", "Very High"
+"Quality.Ultra", "Ultra"
 
 
 # Credit
@@ -37,7 +43,7 @@
 "Help.description.Enemy Research", "The game is complete when you have completed all of the “Enemy Research” on the research panel. Defeat enemies in the defense phase, collect resources in the collection phase, and research using resources in the research phase."
 
 "Help.Base", "Base"
-"Help.description.Base", "The first residence will be the base, and if the base is destroyed, the game will be over. To change the location, left-click on the new residence and click the 'Set as location' button in the lower right panel. Buildings and turrets that cannot be moved from the base will not function properly."
+"Help.description.Base", "The first residence will be the base, and if the base is destroyed, the game will be over. Buildings and turrets that cannot be moved from the base will not function properly.\nTo change the location, left-click on the new residence and click the 'Set as a base' button in the lower right panel."
 
 "Help.Turret", "Turret"
 "Help.description.Turret", "Turrets include bows, rope guns, and large tubes. Each turret has a range, and the range is limited if the ray is blocked by buildings or terrain. The bow and line guns have a straight line, and the large tube has a parabola."
