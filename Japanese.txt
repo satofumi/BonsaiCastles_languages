@@ -330,6 +330,8 @@
 "The gather phase begins.", "収集フェーズを開始します。"
 "You have gathered {0} resources.", "資源を {0} 収集しました。"
 "Game Over", "防衛に失敗しました。"
+"Do you want to start the final battle?", "最後の戦いを開始しますか？"
+
 "Press 'E' key to open the control panel.", "操作パネルを開くには 'E' キーを押します。"
 "Click 'Complete Phase' button to end this phase.", "建築フェーズを終了するには 'フェーズ終了' ボタンを押します。"
 "Build a residence that will be your base.", "拠点となる住居を建築してください。"
