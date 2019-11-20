@@ -52,6 +52,9 @@
 "Help.Turret", "Turret"
 "Help.description.Turret", "Turrets include bows, rope guns, and large tubes. Each turret has a range, and the range is limited if the ray is blocked by buildings or terrain. The bow and line guns have a straight line, and the large tube has a parabola."
 
+"Help.Reload", "Ammunition supply"
+"Help.description.Reload", "Turret bullets are supplied by supply units that come out of the house. The number of supply units that appear at the same time increases depending on the size of the residence. Supply units will not appear from residences that are not in contact with the base."
+
 "Help.Vision and Range", "Vision and Range"
 "Help.description.Vision and Range", "The enemy moves to the turret range or the sight of the spectator at the beginning of the defense phase."
 
