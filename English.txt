@@ -22,7 +22,7 @@
 
 
 # Game
-"year:{0}, month:{1}", "Year {0}, Month {1}"
+"round: {0}", "Round {0}"
 "Phase.FirstHelp", "Help"
 "Phase.Build", "Build phase"
 "Phase.BeforeBuild", "Build phase"

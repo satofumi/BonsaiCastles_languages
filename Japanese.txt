@@ -86,7 +86,7 @@
 
 # Game
 "Creative", "クリエイティブ"
-"year:{0}, month:{1}", "{0}年目 {1}の月"
+"round: {0}", "{0} ラウンド"
 "Phase.FirstHelp", "ヘルプ表示"
 "Phase.Build", "建築フェーズ"
 "Phase.BeforeBuild", "建築フェーズ"
