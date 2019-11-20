@@ -83,6 +83,9 @@
 "Start Game", "ゲーム開始"
 "Map drawing...", "フィールドを描画しています..."
 
+"difficult description.", "難しい: ラウンドごとの敵体力の上昇量が増えます。"
+"insane description.", "むり: 敵の防御力が増加します。"
+
 
 # Game
 "Creative", "クリエイティブ"

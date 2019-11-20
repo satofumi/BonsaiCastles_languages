@@ -20,6 +20,10 @@
 # MapSelect
 "No enemies", "No enemies (Creative mode)"
 
+"difficult description.", "Difficult: Increases enemy health per round."
+"insane description.", "Insane: Increase enemy defense."
+
+
 
 # Game
 "round: {0}", "Round {0}"
