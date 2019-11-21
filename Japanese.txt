@@ -13,6 +13,7 @@
 "New Game", "新規ゲーム"
 "Load Game", "ゲームの読み込み"
 "Tutorial", "チュートリアル"
+"Campaign", "キャンペーン"
 "Additional Scenario", "追加シナリオ"
 "Back", "戻る"
 
