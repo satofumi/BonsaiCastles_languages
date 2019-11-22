@@ -88,6 +88,12 @@
 "insane description.", "むり: 敵の防御力が増加します。"
 
 
+
+# MapEditor
+"MapEditor.Size", "マップの広さ"
+"MapEditor.Start", "開始"
+
+
 # Game
 "Creative", "クリエイティブ"
 "round: {0}", "{0} ラウンド"

@@ -25,6 +25,12 @@
 
 
 
+# MapEditor
+"MapEditor.Size", "Map size"
+"MapEditor.Start", "Start"
+
+
+
 # Game
 "round: {0}", "Round {0}"
 "Phase.FirstHelp", "Help"
