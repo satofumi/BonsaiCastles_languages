@@ -227,6 +227,7 @@
 "YaguraGate", "櫓門"
 "Watchtower", "物見櫓"
 "Road", "道"
+"Grass", "草"
 "Slope", "斜面"
 "Stairs", "階段"
 "SmallBridge", "小さな橋"
