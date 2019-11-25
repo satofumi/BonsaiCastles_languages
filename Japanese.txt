@@ -243,6 +243,9 @@
 "CannonTurret", "大筒タレット"
 "RemoveTurret", "タレットの撤去"
 
+"Shrine", "祠"
+
+
 ## Game.Research
 "Research", "研究"
 
