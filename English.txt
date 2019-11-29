@@ -40,6 +40,8 @@
 "Phase.BeforeDefense", "Defense phase"
 "Phase.AfterDefense", "Defense phase"
 "Phase.Gather", "Gather phase"
+"Phase.GameOver", "Defeat"
+"Phase.GameClear", "Victory"
 
 
 ## Game.Help

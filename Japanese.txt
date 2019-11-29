@@ -105,7 +105,8 @@
 "Phase.AfterDefense", "防衛フェーズ"
 "Phase.BeforeGather", "収集フェーズ"
 "Phase.Gather", "収集フェーズ"
-"Phase.GameOver", "防衛失敗"
+"Phase.GameOver", "敗北"
+"Phase.GameClear", "勝利"
 
 "Population", "住民の数"
 "Resources", "資源"
@@ -335,6 +336,10 @@
 "Tech_Weaken_4 description", "敵の耐久値がさらに減る。"
 
 
+## Game.Campaign
+"Survive to round {0}.", "{0} ラウンドほど拠点を防衛せよ。"
+
+
 ## Game.Messages
 "- ", "・"
 "The build phase begins.", "建築フェーズを開始します。"
@@ -344,6 +349,7 @@
 "The population is reduced to {0}.", "人口が {0}人に減少します。"
 "You succeeded in defense!", "防衛に成功しました！"
 "Victory!", "勝利しました！"
+"Mission complete!", "目標を達成しました！"
 "The gather phase begins.", "収集フェーズを開始します。"
 "You have gathered {0} resources.", "資源を {0} 収集しました。"
 "Game Over", "防衛に失敗しました。"
