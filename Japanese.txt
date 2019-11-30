@@ -46,6 +46,11 @@
 
 
 
+# Campaign
+"Campaign.Start", "開始"
+
+
+
 # Credit
 "Credit.Sound", "音楽"
 "Credit.Image", "画像"
@@ -338,6 +343,7 @@
 
 ## Game.Campaign
 "Survive to round {0}.", "{0} ラウンドほど拠点を防衛せよ。"
+"Research '{0}'.", "「{0}」を研究せよ。"
 
 
 ## Game.Messages

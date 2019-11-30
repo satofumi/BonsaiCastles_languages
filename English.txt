@@ -10,6 +10,12 @@
 "Quality.Ultra", "Ultra"
 
 
+
+# Campaign
+"Campaign.Start", "Start"
+
+
+
 # Credit
 "Credit.Sound", "Sound"
 "Credit.Image", "Image"
