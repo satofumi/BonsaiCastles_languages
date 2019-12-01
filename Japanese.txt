@@ -344,6 +344,7 @@
 ## Game.Campaign
 "Survive to round {0}.", "{0} ラウンドほど拠点を防衛せよ。"
 "Research '{0}'.", "「{0}」を研究せよ。"
+"Research '{0}'. (Done!)", "「{0}」を研究せよ（完了）"
 
 
 ## Game.Messages
