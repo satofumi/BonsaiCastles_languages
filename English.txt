@@ -17,6 +17,7 @@
 
 
 # Credit
+"Credit.Model", "Model"
 "Credit.Sound", "Sound"
 "Credit.Image", "Image"
 "Credit.Font", "Font"

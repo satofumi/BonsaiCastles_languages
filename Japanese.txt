@@ -52,10 +52,11 @@
 
 
 # Credit
+"Credit.Model", "モデル"
 "Credit.Sound", "音楽"
 "Credit.Image", "画像"
 "Credit.Font", "フォント"
-"Credit.Libray", "ライブラリ"
+"Credit.Library", "ライブラリ"
 
 "Music Atelier Amacha", "甘茶の音楽工房"
 "Pipoya", "ぴぽや"
