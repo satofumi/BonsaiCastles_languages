@@ -365,6 +365,8 @@
 "The final defense begins.", "最後の防衛戦を開始します。"
 
 "Press 'E' key to open the control panel.", "操作パネルを開くには 'E' キーを押します。"
+"Press 'E' then press 'Tab' key to research.", "研究をするには E キーの後に TAB キーを押します。"
+
 "Click 'Complete Phase' button to end this phase.", "建築フェーズを終了するには 'フェーズ終了' ボタンを押します。"
 "Build a residence that will be your base.", "拠点となる住居を建築してください。"
 "Build some turrets to defend your base.", "防衛のためにタレットの建築が必要です。"
