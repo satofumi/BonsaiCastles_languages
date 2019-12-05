@@ -386,6 +386,7 @@
 "Can not dig the soil deeper than this.", "これ以上は掘削できません。"
 "Can not build because the height is not aligned.", "地面の高さが同じでないため建築できません。"
 "Can not build because there are other building.", "他の建物があるため建築できません。"
+"Can not build because there are the turret.", "タレットがあるため建築できません。"
 "Can not fill the soil because there are turret.", "タレットがあるため盛り土を行えません。"
 "Can not fill the soil because there are building.", "建物があるため盛り土を行えません。"
 "Can not dig the soil because there are turret.", "タレットがあるため掘削できません。"
