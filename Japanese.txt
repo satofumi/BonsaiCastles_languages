@@ -5,7 +5,7 @@
 "Continue", "再開する"
 "Play Game", "ゲームを始める"
 "Map Editor", "マップエディタ"
-"Castle Editor", "お城エディタ"
+"Building Editor", "建物エディタ"
 "Option", "オプション"
 "Credit", "クレジット"
 "Quit", "終了"
@@ -14,7 +14,9 @@
 "Load Game", "ゲームの読み込み"
 "Tutorial", "チュートリアル"
 "Campaign", "キャンペーン"
-"Additional Scenario", "追加シナリオ"
+"Additional Campaign", "追加キャンペーン"
+"Steal Into Mode", "隠密モード"
+"Siege Mode", "攻城モード"
 "Back", "戻る"
 
 ## Title.Option
