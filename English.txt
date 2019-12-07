@@ -90,7 +90,7 @@
 "Help.description.Skill", "By studying, you will be able to use attack and defense skills. Attack skills damage enemies within range and slow down their movement speed. Defense skills grant shields to buildings within range. Spirit power is consumed to activate skills."
 
 "Help.Enemy and Resources", "Enemy and Resources"
-"Help.description.Enemy and Resources", "Defeat enemies in the defense phase and you will lose resources. Resources can be collected by the residents in the gather phase, bringing them to their homes."
+"Help.description.Enemy and Resources", "Defeat enemies in the defense phase and you will lose resources. Resources can be collected by the residents in the gather phase, bringing them to their homes. Enemies that are attacking are halved."
 
 "Help.Resource type", "Resource type"
 "Help.description.Resource type", "Population: Increase before the build phase. The upper limit is determined by the number of residences.\nBuild points: Consumed when building, filling and excavating. Restored before the build phase.\nSpirit points: Necessary for turret placement and skill activation. Temporarily increases over time during the defense phase.\nResources: Used when conducting research and building some buildings. The upper limit is determined by the base building."
