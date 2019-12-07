@@ -325,9 +325,9 @@
 "Tech_Spirit_5 description", "追加の霊力を {0} 得る。"
 
 "Tech_Damage_0 description", "攻撃スキルが使えるようにな\nる。"
-"Tech_Damage_1 description", "攻撃スキルのダメージ量が増える。"
+"Tech_Damage_1 description", "攻撃スキルが敵体力の {0}% のダメージを追加で与えるようになる。"
 "Tech_Shield_0 description", "建物にシールドを付与する防御スキルが使えるようになる。"
-"Tech_Shield_1 description", "防御スキルで付与するシールド量が増える。"
+"Tech_Shield_1 description", "防御スキルが建物の耐久の {0}% のシールドを追加で付与するようになる。"
 
 "Tech_Enemy_0 description", "敵の解析を進める。"
 "Tech_Enemy_1 description", "敵の解析を進める。"

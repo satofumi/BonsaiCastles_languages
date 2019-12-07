@@ -219,9 +219,10 @@
 "Tech_Spirit_5 description", "Gain additional {0} spirits."
 
 "Tech_Damage_0 description", "Attack skill can be used."
-"Tech_Damage_1 description", "Increases attack skill damage."
+"Tech_Damage_1 description", "Attack skill now deals {0}% additional damage to enemy health."
 "Tech_Shield_0 description", "Defense skill which grant shields to buildings can be used."
-"Tech_Shield_1 description", "Increases the amount of shield granted with defense skill."
+"Tech_Shield_1 description", "Defense skill now grant an additional {0}% of the building's endurance shield."
+
 
 "Tech_Enemy_0 description", "Process with enemy analysis."
 "Tech_Enemy_1 description", "Process with enemy analysis."
