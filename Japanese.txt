@@ -380,6 +380,7 @@
 "The Base cannot be removed.", "拠点は撤去できません。"
 "Skip the gather phase because there are no enemy resources.", "敵資源がないため、収集フェーズをスキップします。"
 "Skip the defense and gather phases because there are no enemies.", "敵がいないため、防衛フェーズと収集フェーズをスキップします。"
+"The enemies are advancing.", "敵が進軍しています。"
 
 "Can not build because there are building.", "建物があるため建築できません。"
 "Can not build because there are other turret.", "他のタレットがあるため建築できません。"
