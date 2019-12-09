@@ -231,6 +231,7 @@
 "WoodenFence", "木柵"
 "WoodenWall", "板塀"
 "SoilWall", "土塀"
+"DoubleSoilWall", "土塀"
 "KabukiGate", "冠木門"
 "KouraiGate", "高麗門"
 "YaguraGate", "櫓門"

@@ -106,6 +106,7 @@
 "WoodenFence", "Wooden fence"
 "WoodenWall", "Wooden wall"
 "SoilWall", "Soil wall"
+"DoubleSoilWall", "Soil wall"
 "KabukiGate", "Kabuki gate"
 "KouraiGate", "Kourai gate"
 "YaguraGate", "Yagura gate"
