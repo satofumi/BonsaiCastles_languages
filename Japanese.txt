@@ -1,6 +1,5 @@
 "Japanese", "日本語"
 
-
 # Title
 "Continue", "再開する"
 "Play Game", "ゲームを始める"
@@ -46,12 +45,8 @@
 "Load", "読み込み"
 "Loading...", "読み込み中..."
 
-
-
 # Campaign
 "Campaign.Start", "開始"
-
-
 
 # Credit
 "Credit.Model", "モデル"
@@ -62,8 +57,6 @@
 
 "Music Atelier Amacha", "甘茶の音楽工房"
 "Pipoya", "ぴぽや"
-
-
 
 # MapSelect
 "Previous Map", "前のマップ"
@@ -95,12 +88,9 @@
 "difficult description.", "難しい: ラウンドごとの敵体力の上昇量が増えます。"
 "insane description.", "むり: 敵の防御力が増加します。"
 
-
-
 # MapEditor
 "MapEditor.Size", "マップの広さ"
 "MapEditor.Start", "開始"
-
 
 # Game
 "Creative", "クリエイティブ"
@@ -123,12 +113,10 @@
 
 "Complete Phase", "フェーズ終了"
 
-
 ## Game.Dialog
 "Cancel", "キャンセル"
 "OK", "OK"
 "Skip", "スキップ"
-
 
 ## Game.Menu
 "Back to Game", "ゲームに戻る"
@@ -140,12 +128,10 @@
 "Back to title?", "タイトルに戻りますか？"
 "Restart this phase?", "このフェーズをやり直しますか？"
 
-
 ## Game.Worker
 "Aono", "葵乃"
 "Chikage", "千景"
 "Ibuki", "伊吹"
-
 
 ## Game.Help
 "Help.Keyboard", "キーボード"
@@ -196,7 +182,6 @@
 "Help.Worker", "住民"
 "Help.description.Worker", "建築ポイントと霊力は住民の数に比例して増加します。また住民は収集フェーズで資源収集を行います。住民は上下１段の段差までしか乗り越えられず、防衛フェーズ中は拠点に避難しています。"
 
-
 ## Game.Save
 "Save Game", "ゲームの保存"
 "Overwrite", "上書き保存"
@@ -206,7 +191,6 @@
 "{0} saved.", "{0} に保存しました。"
 "Saved.", "保存しました。"
 "Removed.", "削除しました。"
-
 
 ## Game.Build
 "Build", "建築"
@@ -254,7 +238,6 @@
 "RemoveTurret", "タレットの撤去"
 
 "Shrine", "祠"
-
 
 ## Game.Research
 "Research", "研究"
@@ -344,12 +327,10 @@
 "Tech_Weaken_3 description", "敵の耐久値が減る。"
 "Tech_Weaken_4 description", "敵の耐久値がさらに減る。"
 
-
 ## Game.Campaign
 "Survive to round {0}.", "{0} ラウンドほど拠点を防衛せよ。"
 "Research '{0}'.", "「{0}」を研究せよ。"
 "Research '{0}'. (Done!)", "「{0}」を研究せよ（完了）"
-
 
 ## Game.Messages
 "- ", "・"
@@ -413,7 +394,6 @@
 "Researching: {0}", "{0} の研究を開始しました。"
 "Research completed: '{0}'", "「{0}」の研究が完了しました。"
 "You have enough resources to research.", "研究を開始できます。"
-
 
 "No more resources to construct.", "工事するためのリソースが不足しています。"
 "Research left {0} months.", "研究完了まで {0}ヶ月"

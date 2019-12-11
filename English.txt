@@ -1,6 +1,5 @@
 "English", "English"
 
-
 # Title
 "Quality.Very Low", "Very Low"
 "Quality.Low", "Low"
@@ -9,12 +8,8 @@
 "Quality.Very High", "Very High"
 "Quality.Ultra", "Ultra"
 
-
-
 # Campaign
 "Campaign.Start", "Start"
-
-
 
 # Credit
 "Credit.Model", "Model"
@@ -23,20 +18,15 @@
 "Credit.Font", "Font"
 "Credit.Library", "Library"
 
-
 # MapSelect
 "No enemies", "No enemies (Creative mode)"
 
 "difficult description.", "Difficult: Increases enemy health per round."
 "insane description.", "Insane: Increase enemy defense."
 
-
-
 # MapEditor
 "MapEditor.Size", "Map size"
 "MapEditor.Start", "Start"
-
-
 
 # Game
 "round: {0}", "Round {0}"
@@ -49,7 +39,6 @@
 "Phase.Gather", "Gather phase"
 "Phase.GameOver", "Defeat"
 "Phase.GameClear", "Victory"
-
 
 ## Game.Help
 "Help.Keyboard", "Keyboard"
@@ -69,7 +58,6 @@
 
 "Help.Reload", "Ammunition supply"
 "Help.description.Reload", "Turret bullets are supplied by supply units that come out of the house. The number of supply units that appear at the same time is the same as the number of turrets that can be placed in the residence. Supply units will not appear from residences that are not in contact with the base."
-
 
 "Help.Vision and Range", "Vision and Range"
 "Help.description.Vision and Range", "The enemy moves to the turret range or the sight of the spectator at the beginning of the defense phase."
@@ -97,7 +85,6 @@
 
 "Help.Worker", "Worker"
 "Help.description.Worker", "Build points and Spirit power increase in proportion to population. Worker also collect resources during the gather phase. Worker can only climb up to one step above and below and are evacuated to the base during the defense phase."
-
 
 ## Game.Build
 "FlatYagura", "Single-story yagura"
@@ -157,7 +144,6 @@
 "HinawaGunTurret description", "Fire lead bullets with gunpowder."
 "CannonTurret description", "Inflict additional damage not only on the hit enemy but also on all enemies at the landing position."
 "RemoveTurret description", "Remove the turret."
-
 
 ## Game.Research
 "Yet", "Locked"
@@ -223,7 +209,6 @@
 "Tech_Damage_1 description", "Attack skill now deals {0}% additional damage to enemy health."
 "Tech_Shield_0 description", "Defense skill which grant shields to buildings can be used."
 "Tech_Shield_1 description", "Defense skill now grant an additional {0}% of the building's endurance shield."
-
 
 "Tech_Enemy_0 description", "Process with enemy analysis."
 "Tech_Enemy_1 description", "Process with enemy analysis."
