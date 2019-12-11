@@ -367,6 +367,7 @@
 "Can not build because there are building.", "建物があるため建築できません。"
 "Can not build because there are other turret.", "他のタレットがあるため建築できません。"
 "Can not build because of water.", "水位が高いため建築できません。"
+"Can not build the wall because there are the wall.", "そこにはすでに壁があるため建築できません。"
 "Can not fill the soil higher than this.", "これ以上は盛り土を行えません。"
 "Can not dig the soil deeper than this.", "これ以上は掘削できません。"
 "Can not build because the height is not aligned.", "地面の高さが同じでないため建築できません。"
