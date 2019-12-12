@@ -167,6 +167,9 @@
 "Help.Gate", "門"
 "Help.description.Gate", "門は防衛フェーズでは塀として機能し、収集フェーズでは通り抜けられる建物として機能します。"
 
+"Help.Ishigaki", "石垣"
+"Help.description.Ishigaki", "石垣は敵の攻撃で地形が破壊されるのを所定の回数だけ防ぎます。もし地形が破壊された場合、その地形の上にある建物も破壊されます。"
+
 "Help.Machicolation", "石落とし"
 "Help.description.Machicolation", "平櫓、二重櫓、天守閣は石落としを備えています。これにより、これらの防衛施設はタレットと違って隣接するグリッドが低くてもその位置を攻撃できます。"
 
@@ -174,7 +177,7 @@
 "Help.description.Skill", "研究することで攻撃スキルと防御スキルを使えるようになります。\n攻撃スキルは範囲内の敵にダメージを与えて移動速度を遅くします。防御スキルは範囲内の建物にシールドを付与します。スキルの発動には霊力を消費します。"
 
 "Help.Enemy and Resources", "敵と資源"
-"Help.description.Enemy and Resources", "防衛フェーズで敵を倒すと資源を落とします。資源は収集フェーズで住民が住居まで運び込むことで収集できます。攻撃中の敵は防御力が半減します。"
+"Help.description.Enemy and Resources", "防衛フェーズで敵を倒すと敵は資源を落とします。資源は収集フェーズで住民が住居まで運び込むことで収集できます。建物を攻撃中の敵は防御力が半減します。"
 
 "Help.Resource type", "資源の種類"
 "Help.description.Resource type", "住民の数、建築ポイント、霊力、資源があります。\n・住民の数 … 建築フェーズ前に増加します。住居の数で\n　上限値が決まります。\n・建築ポイント … 建物の建築と盛り土と掘削を行うときに\n　消費します。この値は建築フェーズ前に復活します。\n・霊力 … タレット配置とスキル発動に必要です。\n　防衛フェーズ中に時間経過で一時的に増加します。\n・資源 … 研究を行うときと一部の建物の建築を行うときに\n　消費します。上限値は拠点の建物によって決まります。"
@@ -354,7 +357,7 @@
 "Click 'Complete Phase' button to end this phase.", "建築フェーズを終了するには 'フェーズ終了' ボタンを押します。"
 "Build a residence that will be your base.", "拠点となる住居を建築してください。"
 "Build some turrets to defend your base.", "防衛のためにタレットの建築が必要です。"
-"Used {0} build points for repair buildings.", "建物の復旧に労働力を {0} ポイント消費しました。"
+"Used {0} build points for repair buildings.", "建物の復旧に建築ポイントを {0} 消費しました。"
 
 "Cannot found any gather route.", "資源を収集できる経路がありません。"
 "Collected resource up to the limit.", "資源を上限まで収集しました。"
