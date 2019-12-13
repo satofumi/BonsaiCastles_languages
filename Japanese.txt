@@ -57,6 +57,7 @@
 
 "Music Atelier Amacha", "甘茶の音楽工房"
 "Pipoya", "ぴぽや"
+"KUUSOU-KYOKUSEN", "空想曲線"
 
 # MapSelect
 "Previous Map", "前のマップ"
