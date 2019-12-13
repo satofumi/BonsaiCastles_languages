@@ -20,9 +20,11 @@
 
 # MapSelect
 "No enemies", "No enemies <size=11>(Creative mode)</size>"
+"Shield direction", "Barrier direction"
 
 "difficult description.", "Difficult: Increases enemy health point per round."
 "insane description.", "Insane: Increase enemy defense."
+"shield description.", "Enemy nests will no longer be placed in directions with a defensive barrier."
 
 # MapEditor
 "MapEditor.Size", "Map size"

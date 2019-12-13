@@ -88,6 +88,7 @@
 
 "difficult description.", "難しい: ラウンドごとの敵体力の上昇量が増えます。"
 "insane description.", "むり: 敵の防御力が増加します。"
+"shield description.", "防御結界のある方向に敵の巣が配置されなくなります。"
 
 # MapEditor
 "MapEditor.Size", "マップの広さ"
