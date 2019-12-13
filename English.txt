@@ -19,9 +19,9 @@
 "Credit.Library", "Library"
 
 # MapSelect
-"No enemies", "No enemies (Creative mode)"
+"No enemies", "No enemies <size=11>(Creative mode)</size>"
 
-"difficult description.", "Difficult: Increases enemy health per round."
+"difficult description.", "Difficult: Increases enemy health point per round."
 "insane description.", "Insane: Increase enemy defense."
 
 # MapEditor
@@ -208,9 +208,9 @@
 "Tech_Spirit_4 description", "Gain additional {0} spirits."
 "Tech_Spirit_5 description", "Gain additional {0} spirits."
 
-"Tech_Damage_0 description", "Attack skill can be used."
-"Tech_Damage_1 description", "Attack skill now deals {0}% additional damage to enemy health."
-"Tech_Shield_0 description", "Defense skill which grant shields to buildings can be used."
+"Tech_Damage_0 description", "Attack skills that deal {0} damage to all enemies within range are now available."
+"Tech_Damage_1 description", "Attack skill now deals {0}% additional damage to enemy health point."
+"Tech_Shield_0 description", "Defensive skill that grants {0} shield to buildings in range is now available."
 "Tech_Shield_1 description", "Defense skill now grant an additional {0}% of the building's endurance shield."
 
 "Tech_Enemy_0 description", "Process with enemy analysis."
@@ -221,8 +221,22 @@
 "Tech_Enemy_5 description", "Process with enemy analysis."
 "Tech_Enemy_last description", "Complete the enemy analysis. When you start researching this skill, the 'last defense' begins."
 
-"Tech_Weaken_0 description", "Reduces enemy defense."
-"Tech_Weaken_1 description", "Enemy movement speed decreases."
-"Tech_Weaken_2 description", "Enemy's attack power is redused."
-"Tech_Weaken_3 description", "Reduces enemy durability."
-"Tech_Weaken_4 description", "More reduces enemy durability."
+"Tech_Weaken_0 description", "Reduces enemy defense by 10%."
+"Tech_Weaken_1 description", "Reduces enemy movement speed by {0}%."
+"Tech_Weaken_2 description", "Reduces enemy attack power by {0}%."
+"Tech_Weaken_3 description", "Reduces enemy health point by {0}%."
+"Tech_Weaken_4 description", "Reduces enemy health point by {0}%."
+
+## Game.Messages
+"Collected resources:  {0}/{1}", "Collected resources:  {0} <size=14>/ {1}</size>"
+
+## Game.Information
+"Last durability:  {0}/{1}", "Last durability:  {0} <size=14>/ {1}</size>"
+"Durability:  {0}/{1}", "Durability:  {0} <size=14>/ {1}</size>"
+"Health point:  {0}/{1}", "Health point:  {0} <size=14>/ {1}</size>"
+"Bullets:  {0}/{1}", "Bullets:  {0} <size=14>/ {1}</size>"
+
+"  Front: {0} %", "  Front: {0} <size=12>%</size>"
+"  Side: {0} %", "  Side: {0} <size=12>%</size>"
+"  Back: {0} %", "  Back: {0} <size=12>%</size>"
+"Holding:  {0}/{1}", "Holding:  {0} <size=14>/ {1}</size>"

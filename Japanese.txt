@@ -312,9 +312,9 @@
 "Tech_Spirit_4 description", "追加の霊力を {0} 得る。"
 "Tech_Spirit_5 description", "追加の霊力を {0} 得る。"
 
-"Tech_Damage_0 description", "攻撃スキルが使えるようにな\nる。"
-"Tech_Damage_1 description", "攻撃スキルが敵体力の {0}% のダメージを追加で与えるようになる。"
-"Tech_Shield_0 description", "建物にシールドを付与する防御スキルが使えるようになる。"
+"Tech_Damage_0 description", "範囲内の全敵に {0} ダメージを\n与える攻撃スキルが使えるようになる。"
+"Tech_Damage_1 description", "攻撃スキルが敵体力の {0}% の\nダメージを追加で与えるようになる。"
+"Tech_Shield_0 description", "範囲内の建物にシールドを {0} 付与する防御スキルが使えるようになる。"
 "Tech_Shield_1 description", "防御スキルが建物の耐久の {0}% のシールドを追加で付与するようになる。"
 
 "Tech_Enemy_0 description", "敵の解析を進める。"
@@ -325,11 +325,11 @@
 "Tech_Enemy_5 description", "敵の解析を進める。"
 "Tech_Enemy_last description", "敵の解析を完成させる。\nこのスキルの研究を開始すると「最後の防衛戦」が始まりま\nす。"
 
-"Tech_Weaken_0 description", "敵の防御力が減る。"
-"Tech_Weaken_1 description", "敵の移動速度が下がる。"
-"Tech_Weaken_2 description", "敵の攻撃力が減る。"
-"Tech_Weaken_3 description", "敵の耐久値が減る。"
-"Tech_Weaken_4 description", "敵の耐久値がさらに減る。"
+"Tech_Weaken_0 description", "敵の防御力が {0}% 下がる。"
+"Tech_Weaken_1 description", "敵の移動速度が {0}% 下がる。"
+"Tech_Weaken_2 description", "敵の攻撃力が {0}% 減る。"
+"Tech_Weaken_3 description", "敵の耐久値が {0}% 減る。"
+"Tech_Weaken_4 description", "敵の耐久値がさらに {0}% 減る。"
 
 ## Game.Campaign
 "Survive to round {0}.", "{0} ラウンドほど拠点を防衛せよ。"
@@ -392,16 +392,16 @@
 
 "Left time", "残り時間"
 "Left enemies:  {0}", "残敵の数:  {0}"
-"Collected resources:  {0}/{1}", "収集した資源:  {0} / <size=14>{1}</size>"
+"Collected resources:  {0}/{1}", "収集した資源:  {0} <size=14>/ {1}</size>"
 "Back to Build phase", "建築フェーズに戻る"
 
-"Research period: {0} months.", "研究期間:  {0}ヶ月"
+"Research period: {0} months.", "研究期間:  {0} ラウンド"
 "Researching: {0}", "{0} の研究を開始しました。"
 "Research completed: '{0}'", "「{0}」の研究が完了しました。"
 "You have enough resources to research.", "研究を開始できます。"
 
 "No more resources to construct.", "工事するためのリソースが不足しています。"
-"Research left {0} months.", "研究完了まで {0}ヶ月"
+"Research left {0} months.", "研究完了まで {0} ラウンド"
 "Housing shortage.", "住居が不足しています。"
 
 "Defense.Start", "防衛開始"
@@ -451,6 +451,7 @@
 "Set as a base", "拠点に設定する"
 "Last durability:  {0}/{1}", "直前の耐久力:  {0} <size=14>/ {1}</size>""
 "Durability:  {0}/{1}", "耐久値:  {0} <size=14>/ {1}</size>"
+"Health point:  {0}/{1}", "体力:  {0} <size=14>/ {1}</size>"
 "Durability:  {0}", "耐久値:  {0}"
 "Max residents:  {0}", "居住可能人数:  {0}"
 "Max storage capacity:  {0}", "最大貯蔵量:  {0}"
