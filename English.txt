@@ -19,11 +19,12 @@
 "Credit.Library", "Library"
 
 # MapSelect
-"No enemies", "No enemies <size=11>(Creative mode)</size>"
+"No enemies", "No enemies (Creative mode)"
 "Shield direction", "Barrier direction"
 
-"difficult description.", "Difficult: Increases enemy health point per round."
-"insane description.", "Insane: Increase enemy defense."
+"difficult description.", "Increases enemy health point per round."
+"insane description 1.", "Increase enemy defense."
+"insane description 2.", "The construction points required for restoration are now 100% instead of 50% destroyed."
 "shield description.", "Enemy nests will no longer be placed in directions with a defensive barrier."
 
 # MapEditor
