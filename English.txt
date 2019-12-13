@@ -41,8 +41,12 @@
 "Phase.GameClear", "Victory"
 
 ## Game.Help
-"Help.Keyboard", "Keyboard"
-"Help.description.Keyboard", "left click: submit, right dragging: camera control\nwheel: zoom in/out,  ESC: cancel, menu\nWASD: camera move,  Enter: reset camera,  M: map\nE:  show build/research panel\nTab:  toggle build and research panels\nR:  rotate the preview 90 degrees,  T: rotate 45 degrees (wall only),  Q: select focused building\nV: select fill the soil\nShift: toggle build and remove, Ctrl + s: quick save\nShift + Space: next phase, skip button"
+"Help.Keyboard (1)", "Keyboard (1)"
+"Help.Keyboard (2)", "Keyboard (2)"
+
+"Help.description.Keyboard_1", "ESC: Cancel, menu open / close\nLeft click: Confirm,              Right drag: Camera operation\nWheel operation: Zoom in / out camera\nWASD: Move viewpoint,    Enter: Reset viewpoint\nE: Control panel open / close,   M: Entire map open / close\nTab: Switch between build and research panel\nR: 90 degree rotation of building\nT: 45 degree rotation (wall only)"
+
+"Help.description.Keyboard_2", "Q: Select the building at the cursor\nV: Select the fill\nShift: Switch to the selection of removal if the building is selected, Switch to the selection of dig when the raise is selected\nSpace: Press the enter button\nShift + Space : Press the button to end the phase and skip\nCtrl + s: Quick save"
 
 "Help.Build and Remove", "Build and Remove"
 "Help.description.Build and Remove", "Building and removal can be done during the construction phase. If you make a mistake, you can remove the building and the resources will be refunded."
