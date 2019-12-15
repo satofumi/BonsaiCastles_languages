@@ -490,3 +490,6 @@
 "Worker.GoBack", "運搬中"
 "Worker.WorkEnd", "待機中"
 "Holding:  {0}/{1}", "運搬量:  {0} <size=14>/ {1}</size>"
+
+"Round {0}", "ラウンド {0}"
+"Replay finished.", "リプレイ終了"
