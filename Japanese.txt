@@ -12,6 +12,7 @@
 
 "New Game", "新規ゲーム"
 "Load Game", "ゲームの読み込み"
+"Load Replay", "リプレイの読み込み"
 "Tutorial", "チュートリアル"
 "Campaign", "キャンペーン"
 "Additional Campaign", "追加キャンペーン"
