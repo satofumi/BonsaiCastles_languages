@@ -42,6 +42,7 @@
 "Phase.Gather", "Gather phase"
 "Phase.GameOver", "Defeat"
 "Phase.GameClear", "Victory"
+"Phase.Replay", "Replay"
 
 ## Game.Help
 "Help.Keyboard (1)", "Keyboard (1)"

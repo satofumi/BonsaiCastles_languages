@@ -109,6 +109,7 @@
 "Phase.Gather", "収集フェーズ"
 "Phase.GameOver", "敗北"
 "Phase.GameClear", "勝利"
+"Phase.Replay", "リプレイ"
 
 "Population", "住民の数"
 "Resources", "資源"
@@ -491,5 +492,4 @@
 "Worker.WorkEnd", "待機中"
 "Holding:  {0}/{1}", "運搬量:  {0} <size=14>/ {1}</size>"
 
-"Round {0}", "ラウンド {0}"
 "Replay finished.", "リプレイ終了"
