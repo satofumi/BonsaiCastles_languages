@@ -409,8 +409,8 @@
 "Researching: {0}", "{0} の研究を開始しました。"
 "Research completed: '{0}'", "「{0}」の研究が完了しました。"
 "You have enough resources to research.", "研究を開始できます。"
-
-"No more resources to construct.", "工事するためのリソースが不足しています。"
+"No more resources to construct.", "リソースが不足しています。"
+"No more spirits to construct.", "霊力が不足しています。"
 "Research left {0} months.", "研究完了まで {0} ラウンド"
 "Housing shortage.", "住居が不足しています。"
 
