@@ -441,7 +441,7 @@
 "SmallBridge description", "水深が低いところに建築する\n橋。"
 "Bridge description", "水深が深いところに建築する\n橋。"
 
-"OneWaySign description", "矢印の方向から侵入できなくなる。"
+"OneWaySign description", "住民が矢印の方向から侵入できなくなる。"
 "WaterDrain description", "このブロック上の水を排水す\nる。"
 "WaterSource description", "１ブロックぶんの高さの水が湧き出る。"
 
