@@ -408,6 +408,7 @@
 "Research period: {0} months.", "研究期間:  {0} ラウンド"
 "Researching: {0}", "{0} の研究を開始しました。"
 "Research completed: '{0}'", "「{0}」の研究が完了しました。"
+"You have enough resources to start the final battle.", "最後の防衛戦を開始できます。"
 "You have enough resources to research.", "研究を開始できます。"
 "No more resources to construct.", "リソースが不足しています。"
 "No more spirits to construct.", "霊力が不足しています。"
