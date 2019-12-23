@@ -15,7 +15,7 @@
 "Load Replay", "リプレイの読み込み"
 "Tutorial", "チュートリアル"
 "Campaign", "キャンペーン"
-"Additional Campaign", "追加キャンペーン"
+"Endless Mode", "エンドレスモード"
 "Steal Into Mode", "隠密モード"
 "Siege Mode", "攻城モード"
 "Back", "戻る"
