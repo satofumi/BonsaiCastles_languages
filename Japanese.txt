@@ -65,6 +65,7 @@
 "Previous Map", "前のマップ"
 "Next Map", "次のマップ"
 "Map Code", "マップコード"
+"Normal Mode", "通常モード"
 
 "Map Type", "マップタイプ"
 "Plain", "平野"
@@ -77,6 +78,7 @@
 "Normal", "普通"
 "Difficult", "難しい"
 "Insane", "むり"
+"Endless", "エンドレスモード"
 
 "Shield direction", "防衛結界の方角"
 "North", "北"
