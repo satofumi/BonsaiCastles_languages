@@ -10,8 +10,8 @@
 "Credit", "クレジット"
 "Quit", "終了"
 
-"New Game", "新規ゲーム"
-"Load Game", "ゲームの読み込み"
+"New Game", "通常モード"
+"Load Game", "読み込み"
 "Load Replay", "リプレイの読み込み"
 "Tutorial", "チュートリアル"
 "Campaign", "キャンペーン"
