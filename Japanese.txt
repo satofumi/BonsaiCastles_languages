@@ -260,6 +260,7 @@
 "Yet", "要研究"
 "Done", "研究済み"
 "Researching", "研究中"
+"Impossible", "研究不可"
 
 "Base", "拠点"
 "Spirit", "霊力"
