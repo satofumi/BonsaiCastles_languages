@@ -100,6 +100,7 @@
 "MapEditor.Start", "開始"
 
 # Game
+"No Enemy Mode", "敵が出現しない"
 "Creative", "クリエイティブ"
 "round: {0}", "{0} ラウンド"
 "Phase.FirstHelp", "ヘルプ表示"
