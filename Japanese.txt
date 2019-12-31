@@ -245,6 +245,7 @@
 "Bridge", "橋"
 "WaterDrain", "排水口"
 "WaterSource", "水源"
+"TerrainWaterSource", "マップ境界用の水源"
 "DigSoil", "掘削"
 "FillSoil", "盛り土"
 "RemoveBuilding", "建物の撤去"
@@ -454,6 +455,7 @@
 "OneWaySign description", "住民が矢印の方向から侵入できなくなる。"
 "WaterDrain description", "このブロック上の水を排水す\nる。"
 "WaterSource description", "１ブロックぶんの高さの水が湧き出る。"
+"TerrainWaterSource description", ""
 
 "DigSoil description", "地面を１ブロック掘り下げる。"
 "FillSoil description", "地面を１ブロック盛り上げる。"

@@ -144,6 +144,7 @@
 "OneWaySign description", "Cannot enter from the direction of the arrow."
 "WaterDrain description", "Drain the water on this block."
 "WaterSource description", "One block of water rises."
+"TerrainWaterSource description", ""
 
 "DigSoil description", "Dig a block of ground."
 "FillSoil description", "Raise a block of ground."
