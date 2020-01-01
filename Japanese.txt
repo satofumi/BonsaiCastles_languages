@@ -140,7 +140,8 @@
 "Restart this phase?", "このフェーズをやり直しますか？"
 
 ## Game.Menu.PlayData
-"Total defeats:", "総撃破数:"
+"Map code:", "マップコード"
+"Total defeats:", "総撃破数"
 "Max defeats per round:", "最大撃破数"
 "Total gathers:", "総収集量"
 "Max gathers per round:", "最大収集量"
