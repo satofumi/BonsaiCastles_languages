@@ -99,6 +99,7 @@
 # MapEditor
 "MapEditor.Size", "マップの広さ"
 "MapEditor.Start", "開始"
+"The size must be {0} or more on one side.", "サイズの１辺は {0} 以上にしてください。"
 
 # Game
 "No Enemy Mode", "敵が出現しない"
