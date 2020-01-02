@@ -120,6 +120,8 @@
 "CannonTurret", "Cannon turret"
 "RemoveTurret", "Remove turret"
 
+"CherryTree", "Cherry tree"
+
 "Hut description", "Suitable for storing resources and ammunition."
 "House description", "General residence."
 "Palace description", "A facility suitable for government affairs."
@@ -156,6 +158,8 @@
 "HinawaGunTurret description", "Fire lead bullets with gunpowder."
 "CannonTurret description", "Inflict additional damage not only on the hit enemy but also on all enemies at the landing position."
 "RemoveTurret description", "Remove the turret."
+
+"CherryTree description", "Tasteful"
 
 ## Game.Research
 "Yet", "Locked"

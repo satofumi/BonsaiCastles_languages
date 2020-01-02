@@ -233,6 +233,7 @@
 "Remove building", "建物の撤去"
 "Turrets", "タレット"
 "Remove turret", "タレットの撤去"
+"Decoration", "飾り"
 
 "Hut", "小屋"
 "House", "邸宅"
@@ -266,7 +267,7 @@
 "CannonTurret", "大筒タレット"
 "RemoveTurret", "タレットの撤去"
 
-"Shrine", "祠"
+"CherryTree", "桜の木"
 
 ## Game.Research
 "Research", "研究"
@@ -478,7 +479,13 @@
 "HinawaGunTurret description", "火薬で鉛弾を発射する。"
 "CannonTurret description", "命中した敵だけでなく着弾位置の全ての敵に追加ダメージを与える。"
 "RemoveTurret description", "タレットを撤去する。"
+
+"CherryTree description", "風情がある。"
+
 "Your base is under attack!", "拠点が攻撃されています！"
+
+
+
 
 ## Game.InformationPanels
 "Set as a base", "拠点に設定する"
