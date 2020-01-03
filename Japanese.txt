@@ -267,7 +267,17 @@
 "CannonTurret", "大筒タレット"
 "RemoveTurret", "タレットの撤去"
 
-"CherryTree", "桜の木"
+"Flag", "旗指し物"
+"CropRow", "畑"
+"Well", "井戸"
+"Flower", "花"
+"Bamboo", "竹"
+"CherryTree", "桜"
+"Rock", "岩"
+"Jizo", "地蔵"
+"KomaInu", "狛犬"
+"StoneLantern", "石灯籠"
+"Archway", "鳥居"
 
 ## Game.Research
 "Research", "研究"
@@ -480,7 +490,17 @@
 "CannonTurret description", "命中した敵だけでなく着弾位置の全ての敵に追加ダメージを与える。"
 "RemoveTurret description", "タレットを撤去する。"
 
-"CherryTree description", "風情がある。"
+"Flag description", ""
+"CropRow description", ""
+"Well description", ""
+"Flower description", ""
+"Bamboo description", ""
+"CherryTree description", ""
+"Rock description", ""
+"Jizo description", ""
+"KomaInu description", ""
+"StoneLantern description", ""
+"Archway description", ""
 
 "Your base is under attack!", "拠点が攻撃されています！"
 
