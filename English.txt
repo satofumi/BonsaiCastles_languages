@@ -48,7 +48,7 @@
 "Help.Keyboard (1)", "Keyboard (1)"
 "Help.Keyboard (2)", "Keyboard (2)"
 
-"Help.description.Keyboard_1", "ESC: Cancel, menu open / close\nLeft click: Confirm,              Right drag: Camera operation\nWheel operation: Zoom in / out camera\nWASD: Move viewpoint,    Enter: Reset viewpoint\nE: Control panel open / close,   M: Entire map open / close\nTab: Switch between build and research panel\nR: 90 degree rotation of building\nT: 45 degree rotation (wall only)"
+"Help.description.Keyboard_1", "ESC: Cancel, menu open / close\nLeft click: Confirm,              Right drag: Camera operation\nWheel operation: Zoom in / out camera\nWASD: Move viewpoint,    Enter: Reset viewpoint\nE: Control panel open / close,   M: Entire map open / close\nTab: Switch between build and research panel\nR: 90 degree rotation of building\nT: 45 degree rotation (wall only), change (decoration only)"
 
 "Help.description.Keyboard_2", "Q: Select the building at the cursor\nV: Select the fill\nShift: Switch to the selection of removal if the building is selected, Switch to the selection of dig when the raise is selected\nSpace: Press the enter button\nShift + Space : Press the button to end the phase and skip\nCtrl + s: Quick save"
 
