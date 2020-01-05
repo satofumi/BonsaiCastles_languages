@@ -377,6 +377,8 @@
 "- ", "・"
 "Research enemies and win the final battle.", "敵の研究を進め、最後の防衛戦に勝利しましょう。"
 "Expand the fortress and keep the enemy from attacking!", "城郭を拡張し、敵の襲撃を防ぎ続けましょう！"
+"Place enemies and destroy the base.", "敵を配置して本拠地を破壊しましょう。"
+
 "The build phase begins.", "建築フェーズを開始します。"
 "The defense phase begins.", "防衛フェーズを開始します。"
 "Population increased by {0}.", "人口が {0}人 増加しました。"
