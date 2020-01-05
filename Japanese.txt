@@ -148,6 +148,7 @@
 "Max gathers per round:", "最大収集量"
 "Total damage skill used:", "攻撃スキル使用回数"
 "Total shield skill used:", "防御スキル使用回数"
+"Enemy weaken stage:", "敵弱体化の段階"
 
 ## Game.Worker
 "Aono", "葵乃"
