@@ -434,6 +434,8 @@
 "Can not fill the soil due to object.", "建物があるため盛り土を行えません。"
 "Can not dig the soil due to object.", "建物があるため掘削を行えません。"
 
+"The unit cannot be placed on grids with a field of view.", "視野があるグリッドにはユニットを配置できません。"
+
 "Paused", "ポーズ中"
 "Left time", "残り時間"
 "Left enemies:  {0}", "残敵の数:  {0}"
