@@ -123,6 +123,7 @@
 "Build point", "建築ポイント"
 
 "Complete Phase", "フェーズ終了"
+"Start Battle", "攻撃開始"
 
 ## Game.Dialog
 "Cancel", "キャンセル"
@@ -384,6 +385,7 @@
 "The defense phase begins.", "防衛フェーズを開始します。"
 "Population increased by {0}.", "人口が {0}人 増加しました。"
 "Do you finish the build phase?", "建築フェーズを終了しますか？"
+"Do you want to siege?", "攻城を開始しますか？"
 "The population is reduced to {0}.", "人口が {0}人に減少します。"
 "You succeeded in defense!", "防衛に成功しました！"
 "Victory!", "勝利しました！"
