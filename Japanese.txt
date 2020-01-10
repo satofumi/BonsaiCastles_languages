@@ -389,6 +389,7 @@
 "The population is reduced to {0}.", "人口が {0}人に減少します。"
 "You succeeded in defense!", "防衛に成功しました！"
 "Victory!", "勝利しました！"
+"Defeat", "撃退されました。"
 "Mission complete!", "目標を達成しました！"
 "The gather phase begins.", "収集フェーズを開始します。"
 "You have gathered {0} resources.", "資源を {0} 収集しました。"
@@ -443,6 +444,7 @@
 "Left enemies:  {0}", "残敵の数:  {0}"
 "Collected resources:  {0}/{1}", "収集した資源:  {0} <size=14>/ {1}</size>"
 "Back to Build phase", "建築フェーズに戻る"
+"Back to Place enemies", "敵の配置に戻る"
 
 "Research period: {0} months.", "研究期間:  {0} ラウンド"
 "Researching: {0}", "{0} の研究を開始しました。"
