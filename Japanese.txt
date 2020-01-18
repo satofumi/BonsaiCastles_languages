@@ -13,6 +13,8 @@
 "New Game", "通常モード"
 "Load Game", "読み込み"
 "Load Replay", "リプレイの読み込み"
+"Start a Siege", "攻城の開始"
+"Start infiltration", "潜入の開始"
 "Tutorial", "チュートリアル"
 "Campaign", "キャンペーン"
 "Creative Mode", "クリエイティブモード"
@@ -565,3 +567,4 @@
 "Tutorial.Description", "基本的なルールと操作方法を学ぶためのゲームモードです。"
 "CreativeMode.Description", "築城を自由に行うために資源が無限に使えるゲームモードです。指定した数の敵を出現させて城を攻撃させることもできます。"
 "EndlessMode.Description", "城郭を拡張して防衛を行い、防衛できたラウンドを競うゲームモードです。入手できる各種ポイントは通常モードより多めです。"
+"SiegeMode.Description", "保存されている城郭データを読み込み、敵側のユニットを配置して攻城を行うゲームモードです。"

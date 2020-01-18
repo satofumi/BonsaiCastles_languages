@@ -282,3 +282,4 @@
 "Tutorial.Description", "A game mode for learning basic rules and operation methods."
 "CreativeMode.Description", "This is a game mode where resources can be used indefinitely in order to build a castle freely. You can also spawn a specified number of enemies to attack the castle."
 "EndlessMode.Description", "This is a game mode in which the castle is extended to defend and compete in the rounds where the defense was successful. Various available points are set more than the normal mode."
+"SiegeMode.Description", "This is a game mode in which the saved castle and enemy units are placed to siege."
