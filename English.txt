@@ -32,7 +32,7 @@
 "MapEditor.Start", "Start"
 
 # Game
-"round: {0}", "Round {0}"
+"Round: {0}", "Round {0}"
 "Phase.FirstHelp", "Help"
 "Phase.Build", "Build phase"
 "Phase.BeforeBuild", "Build phase"

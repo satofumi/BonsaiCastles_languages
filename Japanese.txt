@@ -104,7 +104,8 @@
 # Game
 "No Enemy Mode", "敵が出現しない"
 "Creative", "クリエイティブ"
-"round: {0}", "{0} ラウンド"
+"Round: {0}", "{0} ラウンド"
+"Round: --", "ラウンド --"
 "Phase.FirstHelp", "ヘルプ表示"
 "Phase.Build", "建築フェーズ"
 "Phase.BeforeBuild", "建築フェーズ"
