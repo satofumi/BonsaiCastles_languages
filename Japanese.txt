@@ -445,9 +445,10 @@
 "Paused", "ポーズ中"
 "Left time", "残り時間"
 "Left enemies:  {0}", "残敵の数:  {0}"
+"Left units:  {0}", "ユニットの数:  {0}"
 "Collected resources:  {0}/{1}", "収集した資源:  {0} <size=14>/ {1}</size>"
 "Back to Build phase", "建築フェーズに戻る"
-"Back to Place enemies", "敵の配置に戻る"
+"Back to Place units", "ユニットの配置に戻る"
 
 "Research period: {0} months.", "研究期間:  {0} ラウンド"
 "Researching: {0}", "{0} の研究を開始しました。"
