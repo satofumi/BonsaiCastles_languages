@@ -76,6 +76,7 @@
 "River", "川"
 "Mountain", "山岳"
 
+"Normal Mode ({0})", "通常モード ({0})"
 "Difficulty", "難易度"
 "No enemies", "敵が出現しない<size=11>（クリエイティブ）</size>"
 "Normal", "普通"
