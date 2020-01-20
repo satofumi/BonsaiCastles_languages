@@ -24,6 +24,10 @@
 "Back", "戻る"
 
 ## Title.Option
+"Option.VideoAndAudio", "ビデオ・音量"
+"Option.Control", "コントロール"
+"Option.Server", "サーバ"
+
 "Audio volume", "音量"
 "Music", "曲"
 "Sound Effects", "効果音"

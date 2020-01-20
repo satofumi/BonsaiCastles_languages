@@ -1,6 +1,10 @@
 "English", "English"
 
 # Title
+"Option.VideoAndAudio", "Video, Audio"
+"Option.Control", "Control"
+"Option.Server", "Server"
+
 "Quality.Very Low", "Very Low"
 "Quality.Low", "Low"
 "Quality.Medium", "Medium"
