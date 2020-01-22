@@ -7,6 +7,7 @@
 "Watch Replay", "リプレイを見る"
 "Building Editor", "建物エディタ"
 "Option", "オプション"
+"Server", "サーバ"
 "Credit", "クレジット"
 "Quit", "終了"
 
@@ -573,3 +574,4 @@
 "CreativeMode.Description", "築城を自由に行うために資源が無限に使えるゲームモードです。指定した数の敵を出現させて城を攻撃させることもできます。"
 "EndlessMode.Description", "城郭を拡張して防衛を行い、防衛できたラウンドを競うゲームモードです。入手できる各種ポイントは通常モードより多めです。"
 "SiegeMode.Description", "保存されている城郭データを読み込み、敵側のユニットを配置して攻城を行うゲームモードです。"
+"WatchReplay.Description", "城郭が増築される様子を眺めることができます。"
