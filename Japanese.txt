@@ -59,7 +59,7 @@
 
 "Connected.", "サーバに接続しました。"
 "Failed to create a new account on this server.", "サーバへの接続に失敗しました。"
-"Your account has been created on this server.", "サーバにアカウントを作成しました。"
+"Connection successful!", "接続に成功しました！"
 "Failed to connect to Steam service.", "Steam サービスとの接続に失敗しました。"
 "The server address has not been entered.", "サーバのアドレスが入力されていません。"
 "No passphrase has been entered.", "パスフレーズが入力されていません。"
