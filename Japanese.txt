@@ -48,6 +48,13 @@
 "Game controller", "コントローラ"
 "Keyboard", "キーボード"
 
+"User ID", "ユーザ ID"
+"Server address", "サーバアドレス"
+"Passphrase", "パスフレーズ"
+"Nickname", "ニックネーム"
+"Connect", "接続"
+"Change", "変更"
+
 "Close", "閉じる"
 
 ## Title.Load
