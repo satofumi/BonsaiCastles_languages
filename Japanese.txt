@@ -58,7 +58,7 @@
 "Close", "閉じる"
 
 "Connected.", "サーバに接続しました。"
-"Failed to create a new account on this server.", "サーバへの接続に失敗しました。"
+"Connection failure.", "サーバへの接続に失敗しました。"
 "Connection successful!", "接続に成功しました！"
 "Failed to connect to Steam service.", "Steam サービスとの接続に失敗しました。"
 "The server address has not been entered.", "サーバのアドレスが入力されていません。"
@@ -465,6 +465,8 @@
 
 "The unit cannot be placed on grids with a fog.", "フォグのグリッドにはユニットを配置できません。"
 
+"Connecting to server.", "サーバに接続しています。"
+"The ranking has ended.", "このランキングは終了しました。"
 "{0} days left until the rankings ends.", "ランキング終了まで {0}日"
 "{0} hours left until the rankings ends.", "ランキング終了まで {0}時間"
 "{0} minutes left until the rankings ends.", "ランキング終了まで {0}分"
