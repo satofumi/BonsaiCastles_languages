@@ -464,6 +464,10 @@
 
 "The unit cannot be placed on grids with a fog.", "フォグのグリッドにはユニットを配置できません。"
 
+"{0} days left until the rankings ends.", "ランキング終了まで {0}日"
+"{0} hours left until the rankings ends.", "ランキング終了まで {0}時間"
+"{0} minutes left until the rankings ends.", "ランキング終了まで {0}分"
+
 "Paused", "ポーズ中"
 "Left time", "残り時間"
 "Left enemies:  {0}", "残敵の数:  {0}"
