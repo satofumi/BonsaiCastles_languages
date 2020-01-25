@@ -125,6 +125,7 @@
 
 # Game
 "No Enemy Mode", "敵が出現しない"
+"Ranking Mode", "ランキングモード"
 "Creative", "クリエイティブ"
 "Round: {0}", "{0} ラウンド"
 "Round: --", "ラウンド --"
