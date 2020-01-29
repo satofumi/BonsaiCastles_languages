@@ -54,8 +54,14 @@
 "Nickname", "ニックネーム"
 "Connect", "接続"
 "Change", "変更"
-
 "Close", "閉じる"
+
+"Ranking", "ランキング"
+"Round", "ラウンド"
+"Load save data", "ロードする"
+"View replay", "リプレイを見る"
+"Join", "参加する"
+"In progress", "進行中"
 
 "Connected.", "サーバに接続しました。"
 "Connection failure.", "サーバへの接続に失敗しました。"
