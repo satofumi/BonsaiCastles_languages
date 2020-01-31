@@ -12,6 +12,11 @@
 "Quality.Very High", "Very High"
 "Quality.Ultra", "Ultra"
 
+"RankingState.InProgress", "In progress"
+"RankingState.Ended", "Ended"
+"RankingState.Scheduled", "Scheduled"
+
+
 # Campaign
 "Campaign.Start", "Start"
 

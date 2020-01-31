@@ -61,7 +61,10 @@
 "Load save data", "ロードする"
 "View replay", "リプレイを見る"
 "Join", "参加する"
-"In progress", "進行中"
+"Period:  ", "期間:  "
+"RankingState.InProgress", "進行中"
+"RankingState.Ended", "終了"
+"RankingState.Scheduled", "開催予定"
 
 "Connected.", "サーバに接続しました。"
 "Connection failure.", "サーバへの接続に失敗しました。"
