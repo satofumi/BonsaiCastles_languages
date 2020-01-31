@@ -69,6 +69,7 @@
 "Failed to connect to Steam service.", "Steam サービスとの接続に失敗しました。"
 "The server address has not been entered.", "サーバのアドレスが入力されていません。"
 "No passphrase has been entered.", "パスフレーズが入力されていません。"
+"Unable to connect to server. Check your network settings.", "サーバに接続できません。ネットワーク設定を確認してください。"
 
 ## Title.Load
 "Delete", "削除"
