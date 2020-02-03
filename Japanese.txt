@@ -67,7 +67,7 @@
 "RankingState.Scheduled", "開催予定"
 
 "Connected.", "サーバに接続しました。"
-"Connection failure.", "サーバへの接続に失敗しました。"
+"Connection failure.", "サーバとの接続に失敗しました。"
 "Connection successful!", "接続に成功しました！"
 "Failed to connect to Steam service.", "Steam サービスとの接続に失敗しました。"
 "The server address has not been entered.", "サーバのアドレスが入力されていません。"
