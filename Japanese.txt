@@ -482,6 +482,8 @@
 "{0} minutes left until the rankings ends.", "ランキング終了まで {0}分"
 "Updated rounds reached!", "到達ラウンドを更新しました！"
 "Upload", "アップロード"
+"You can download play data after ranking.", "ランキング後にプレイデータをダウンロードできます。"
+"(The User ID is converted from Steam ID.)", "(ユーザ ID は Steam Id を変換して作られています)"
 
 "Paused", "ポーズ中"
 "Left time", "残り時間"
