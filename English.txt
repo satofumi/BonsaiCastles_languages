@@ -111,6 +111,7 @@
 
 ## Game.Build
 "FlatYagura", "Single-story yagura"
+"TamonYagura", "Tamon yagura"
 "DoubleYagura", "Two-story yagura"
 "Castle", "The keep of a castle"
 "WoodenFence", "Wooden fence"
@@ -148,6 +149,7 @@
 "House description", "General residence."
 "Palace description", "A facility suitable for government affairs."
 "FlatYagura description", "A sturdy defense facility."
+"TamonYagura description", "A sturdy defense facility."
 "DoubleYagura description", "A more sturdy defense facility."
 "Castle description", "A defense faility that symbolizes the castle."
 
@@ -236,8 +238,8 @@
 "Build_KabukiGate description", "Kabuki gate can be built."
 "Build_KouraiGate description", "Kourai gate can be build."
 "Build_YaguraGate description", "Yagura gate can be build."
-"Build_SoilWall description", "Soil wall gate can be build."
-"Build_FlatYagura description", "Single-story yagura gate can be build."
+"Build_SoilWall description", "Soil wall can be build."
+"Build_FlatYagura description", "Single-story yagura can be build."
 "Build_DoubleYagura description", "Two-story yagura can be build."
 "Build_Castle description", "The keep of castle can be build."
 "Build_Ishigaki description", "Stone wall can be build."
