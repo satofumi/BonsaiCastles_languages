@@ -514,7 +514,7 @@
 "House description", "一般的な住居。"
 "Palace description", "政務に適した施設。"
 "FlatYagura description", "頑丈な防衛施設。"
-"TamonYagura description", "頑丈な防衛施設。"
+"TamonYagura description", "頑丈な防衛施設。壁として扱われる。"
 "DoubleYagura description", "より頑丈な防衛施設。"
 "Castle description", "城郭の象徴となる防衛施設。"
 

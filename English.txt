@@ -149,7 +149,7 @@
 "House description", "General residence."
 "Palace description", "A facility suitable for government affairs."
 "FlatYagura description", "A sturdy defense facility."
-"TamonYagura description", "A sturdy defense facility."
+"TamonYagura description", "A sturdy defense facility. Treated as a wall."
 "DoubleYagura description", "A more sturdy defense facility."
 "Castle description", "A defense faility that symbolizes the castle."
 
