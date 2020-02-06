@@ -295,3 +295,4 @@
 "EndlessMode.Description", "This is a game mode in which the castle is extended to defend and compete in the rounds where the defense was successful. Various available points are set more than the normal mode."
 "SiegeMode.Description", "This is a game mode in which the saved castle and enemy units are placed to siege."
 "WatchReplay.Description", "You can see the castle being added."
+"Ranking.Description", "Start an endless mode game on the same map and compete for how many rounds you have reached. You can browse and participate in the ranking, and after the ranking, you can browse the play data of others."
