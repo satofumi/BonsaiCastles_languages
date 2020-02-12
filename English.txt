@@ -92,7 +92,7 @@
 "Help.description.Gate", "The gate functions as a fence during the defense phase and as a building that can be passed through during the gather phase."
 
 "Help.Ishigaki", "Ishigaki (Stone wall)"
-"Help.description.Ishigaki", "The ishigaki prevents the terrain from being destroyed by enemy attacks a predetermined number of times. If the terrain is destroyed, the buildings above it will also be destroyed."
+"Help.description.Ishigaki", "The ishigaki prevents the terrain from being destroyed by enemy attacks a predetermined number of times. If the terrain is destroyed, the buildings above it will also be destroyed.\nIf you hold Shift while building, the ishigaki of that grid will be built at once."
 
 "Help.Machicolation", "Machicolation"
 "Help.description.Machicolation", "The single-story yagura, two-story yagura, and the keep of a castle are equipped with machicolation. This allows these defensive facilities to attack their position even if the adjacent grid is low, unlike turrets."
