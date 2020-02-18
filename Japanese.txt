@@ -605,6 +605,9 @@
 "Worker.WorkEnd", "待機中"
 "Holding:  {0}/{1}", "運搬量:  {0} <size=14>/ {1}</size>"
 
+"working", "仕事中"
+"Walk around", "散策する"
+
 "Replay finished.", "リプレイ終了"
 
 # Title.PlayMenu
