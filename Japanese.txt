@@ -317,6 +317,7 @@
 "KomaInu", "狛犬"
 "StoneLantern", "石灯籠"
 "Archway", "鳥居"
+"StreetStall", "露店"
 
 ## Game.Research
 "Research", "研究"
@@ -559,6 +560,7 @@
 "KomaInu description", ""
 "StoneLantern description", ""
 "Archway description", ""
+"StreetStall description", ""
 
 "Your base is under attack!", "拠点が攻撃されています！"
 

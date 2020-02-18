@@ -144,6 +144,7 @@
 "KomaInu", "Gardian dog"
 "StoneLantern", "Stone lantern"
 "Archway", "Archway"
+"StreetStall", "Street stall"
 
 "Hut description", "Suitable for storing resources and ammunition."
 "House description", "General residence."
@@ -194,6 +195,7 @@
 "KomaInu description", ""
 "StoneLantern description", ""
 "Archway description", ""
+"StreetStall description", ""
 
 ## Game.Research
 "Yet", "Locked"
