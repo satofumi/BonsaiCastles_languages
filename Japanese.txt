@@ -8,6 +8,7 @@
 "Building Editor", "建物エディタ"
 "Option", "オプション"
 "Server", "サーバ"
+"Castle Seminar", "お城講座"
 "Credit", "クレジット"
 "Quit", "終了"
 
