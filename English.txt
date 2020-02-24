@@ -1,7 +1,7 @@
 "English", "English"
 
 # Title
-"Castle Seminar", "Castle Game Seminar"
+"Castle Seminar", "Fortification Seminar"
 
 "Option.VideoAndAudio", "Video, Audio"
 "Option.Control", "Control"
