@@ -99,6 +99,9 @@
 "Next Map", "次のマップ"
 "Map Code", "マップコード"
 "Normal Mode", "通常モード"
+"Normal Mode(Normal)", "通常モード（普通）"
+"Normal Mode(Difficult)", "通常モード（難しい）"
+"Normal Mode(Insane)", "通常モード（むり）"
 
 "Map Type", "マップタイプ"
 "Plain", "平野"
