@@ -325,6 +325,7 @@
 
 ## Game.Research
 "Research", "研究"
+"Nawabari", "縄張り"
 
 "Yet", "要研究"
 "Done", "研究済み"
@@ -567,7 +568,7 @@
 "StreetStall description", ""
 
 "Your base is under attack!", "拠点が攻撃されています！"
-
+"Drag the area to be registered in the blueprint.", "縄張りに登録する範囲をドラッグして下さい。"
 
 
 
