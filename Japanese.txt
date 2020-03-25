@@ -296,6 +296,8 @@
 "Grass", "草"
 "Slope", "斜面"
 "Stairs", "階段"
+"SteepSlope", "急斜面"
+"SteepIshigaki", "石垣（裾）"
 "SmallBridge", "小さな橋"
 "Bridge", "橋"
 "WaterDrain", "排水口"
@@ -555,7 +557,7 @@
 "RemoveTurret description", "タレットを撤去する。"
 
 "Flag description", ""
-"CropRow description", ""
+"CropRow description", "住民が作物の手入れを行う。"
 "Well description", ""
 "Flower description", ""
 "Bamboo description", ""
@@ -566,6 +568,8 @@
 "StoneLantern description", ""
 "Archway description", ""
 "StreetStall description", ""
+"SteepSlope description", ""
+"SteepIshigaki description", ""
 
 "Your base is under attack!", "拠点が攻撃されています！"
 "Drag the area to be registered in the blueprint.", "縄張りに登録する範囲をドラッグして下さい。"

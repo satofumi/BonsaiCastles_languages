@@ -147,6 +147,8 @@
 "StoneLantern", "Stone lantern"
 "Archway", "Archway"
 "StreetStall", "Street stall"
+"SteepSlope", "Steep slope"
+"SteepIshigaki", "Steep ishigaki"
 
 "Hut description", "Suitable for storing resources and ammunition."
 "House description", "General residence."
@@ -187,7 +189,7 @@
 "RemoveTurret description", "Remove the turret."
 
 "Flag description", ""
-"CropRow description", ""
+"CropRow description", "Residents take care of crops."
 "Well description", ""
 "Flower description", ""
 "Bamboo description", ""
@@ -198,6 +200,8 @@
 "StoneLantern description", ""
 "Archway description", ""
 "StreetStall description", ""
+"SteepSlope description", ""
+"SteepIshigaki description", ""
 
 ## Game.Research
 "Yet", "Locked"
