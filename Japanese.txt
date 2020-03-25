@@ -13,7 +13,7 @@
 "Quit", "終了"
 
 "New Game", "通常モード"
-"Load Game", "読み込み"
+"Load Game", "ロード"
 "Load Replay", "リプレイの読み込み"
 "Start a Siege", "攻城の開始"
 "Start infiltration", "潜入の開始"
@@ -173,7 +173,7 @@
 ## Game.Menu
 "Back to Game", "ゲームに戻る"
 "Restart Phase", "フェーズをやり直す"
-"Save", "保存"
+"Save", "セーブ"
 "Help", "ヘルプ"
 "Back to Title", "タイトルに戻る"
 "Play Data", "プレイデータ"
