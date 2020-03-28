@@ -485,6 +485,8 @@
 "Can not dig the soil due to object.", "建物があるため掘削を行えません。"
 
 "The unit cannot be placed on grids with a fog.", "フォグのグリッドにはユニットを配置できません。"
+"There is no nawabari targets.", "縄張り図に保存する対象がありません。"
+"There is no copy targets.", "コピー対象がありません。"
 
 "Connecting to server.", "サーバに接続しています。"
 "The ranking has ended.", "このランキングは終了しました。"
