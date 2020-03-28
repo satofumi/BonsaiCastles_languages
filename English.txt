@@ -148,6 +148,7 @@
 "StoneLantern", "Stone lantern"
 "Archway", "Archway"
 "StreetStall", "Street stall"
+"Bonfire", "Bonfire"
 "SteepSlope", "Steep slope"
 "SteepIshigaki", "Steep ishigaki"
 
@@ -202,6 +203,7 @@
 "StoneLantern description", ""
 "Archway description", ""
 "StreetStall description", ""
+"Bonfire description", ""
 "SteepSlope description", ""
 "SteepIshigaki description", ""
 

@@ -325,6 +325,7 @@
 "StoneLantern", "石灯籠"
 "Archway", "鳥居"
 "StreetStall", "露店"
+"Bonfire", "篝火"
 
 ## Game.Research
 "Research", "研究"
@@ -570,6 +571,7 @@
 "StoneLantern description", ""
 "Archway description", ""
 "StreetStall description", ""
+"Bonfire description", ""
 "SteepSlope description", ""
 "SteepIshigaki description", ""
 
