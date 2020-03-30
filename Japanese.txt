@@ -29,6 +29,7 @@
 "Option.VideoAndAudio", "ビデオ・音量"
 "Option.Control", "コントロール"
 "Option.Server", "サーバ"
+"Option.Game", "ゲーム"
 
 "Audio volume", "音量"
 "Music", "曲"
@@ -74,6 +75,11 @@
 "The server address has not been entered.", "サーバのアドレスが入力されていません。"
 "No passphrase has been entered.", "パスフレーズが入力されていません。"
 "Unable to connect to server. Check your network settings.", "サーバに接続できません。ネットワーク設定を確認してください。"
+
+"Original flag", "オリジナル旗指物"
+"Reference", "参照"
+"Select flag png image.", "旗の png 画像を選択して下さい。"
+
 
 ## Title.Load
 "Delete", "削除"

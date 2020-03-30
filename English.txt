@@ -6,6 +6,7 @@
 "Option.VideoAndAudio", "Video, Audio"
 "Option.Control", "Control"
 "Option.Server", "Server"
+"Option.Game", "Game"
 
 "Quality.Very Low", "Very Low"
 "Quality.Low", "Low"
