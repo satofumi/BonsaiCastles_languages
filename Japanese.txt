@@ -261,7 +261,7 @@
 "Help.WalkAround", "住民の散策"
 "Help.description.WalkAround", "畑など飾りの中には建築フェーズで住民が働くものがあります。働いている住民を左クリックしたときに表示される右下のパネルから「散策する」ボタンを押すと、散策を開始できます。\n\n移動: WASD\nジャンプ: Space\n走る: SHIFT\nESC: 散策を終わる"
 
-"Help.Nawabari", "縄張り図"
+"Help.Nawabari", "縄張り"
 "Help.description.Nawabari", "縄張りパネルを利用すると、選択した範囲の建築物をコピーし、他の場所や別のマップデータに建築することができます。"
 
 
@@ -647,6 +647,12 @@
 "WatchReplay.Description", "城郭が増築される様子を眺めることができます。"
 "Ranking.Description", "同じマップでエンドレスモードのゲームを開始して何ラウンドまで到達できたかを競います。ランキングの閲覧と参加が行え、ランキング後は他人のプレイデータを閲覧できます。"
 "CastleSeminar.Description", "ゲームのルールをシナリオ形式で紹介します。"
+
+
+# Workshop
+"Nawabari Added!", "縄張りを追加しました！"
+"Item successfully added.", "縄張りが正常に追加されました。"
+"Already added.", "すでに追加されています。"
 
 
 # Title
