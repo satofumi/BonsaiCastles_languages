@@ -638,6 +638,8 @@
 
 "Replay finished.", "リプレイ終了"
 
+"Get into the role", "なりきる"
+
 # Title.PlayMenu
 "NewGame.Description", "資源を集めて敵の解析を行い、最後の防衛戦に勝利することが目的の基本となるゲームモードです。"
 "Tutorial.Description", "基本的なルールと操作方法を学ぶためのゲームモードです。"
