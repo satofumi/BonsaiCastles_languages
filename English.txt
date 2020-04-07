@@ -65,7 +65,7 @@
 
 "Help.description.Keyboard_1", "ESC: Cancel, menu open / close\nLeft click: Confirm,              Right drag: Camera operation\nWheel operation: Zoom in / out camera\nWASD: Move viewpoint,    Enter: Reset viewpoint\nE: Control panel open / close,   M: Entire map open / close\nTab: Switch between build and research panel\nR: 90 degree rotation of building\nT: 45 degree rotation (wall only), change (decoration only)"
 
-"Help.description.Keyboard_2", "Q: Select the building at the cursor\nV: Select the fill\nShift: Switch to the selection of removal if the building is selected, Switch to the selection of dig when the raise is selected\nSpace: Press the enter button\nShift + Space : Press the button to end the phase and skip\nCtrl + s: Quick save\nCtrl + c: Copy of dragged range\nDelete: Remove all but the terrain within the area being dragged"
+"Help.description.Keyboard_2", "Q: Select the building at the cursor\nV: Select the fill\nShift: Switch to the selection of removal if the building is selected, Switch to the selection of dig when the soil is selected\nShift + Space : Press the button to end the phase and skip\nSpace: Press the OK button,        Ctrl + s: Quick save\nCtrl + c: Copy of dragged range,        P: Photo mode\nDelete: Remove all but the terrain within the area being dragged\nP: Enter photo mode."
 
 "Help.Build and Remove", "Build and Remove"
 "Help.description.Build and Remove", "Building and removal can be done during the construction phase. If you make a mistake, you can remove the building and the resources will be refunded."
