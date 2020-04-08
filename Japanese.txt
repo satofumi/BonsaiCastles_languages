@@ -667,3 +667,7 @@
 # BuildingData
 "Buildings", "建物"
 "Buildings set", "建物セット"
+"Main", "メイン"
+"Diagonally", "ななめ"
+"Loophole", "狭間"
+"Import", "取り込む"
