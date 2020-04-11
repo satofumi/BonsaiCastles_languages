@@ -2,10 +2,11 @@
 
 # Title
 "Continue", "再開する"
-"Play Game", "ゲームを始める"
+"Play Game", "ゲーム"
 "Map Editor", "マップエディタ"
 "Watch Replay", "リプレイを見る"
 "Building Editor", "建物エディタ"
+"Change Appearance", "外観の変更"
 "Option", "オプション"
 "Server", "サーバ"
 "Castle Seminar", "築城講座"
