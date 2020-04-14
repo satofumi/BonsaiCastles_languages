@@ -180,6 +180,7 @@
 
 "Watchtower description", "Monitor enemy intrusions."
 "Road description", "Leveled ground."
+"Grass description", "Grassland"
 "Slope description", "The ground is easier to move than steps."
 "Stairs description", "Paved for easy walking."
 "SmallBridge description", "A bridge build at a low water depth."

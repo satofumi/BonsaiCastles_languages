@@ -556,6 +556,7 @@
 
 "Watchtower description", "敵の侵入を監視できる。"
 "Road description", "整地された地面。"
+"Grass description", "草地"
 "Slope description", "段差よりも移動しやすい地面。"
 "Stairs description", "歩きやすいように舗装されている。"
 "SmallBridge description", "水深が低いところに建築する\n橋。"
