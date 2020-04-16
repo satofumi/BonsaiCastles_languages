@@ -658,7 +658,7 @@
 
 # Workshop
 "Nawabari Added!", "縄張りを追加しました！"
-"Item successfully added.", "縄張りが正常に追加されました。"
+"Item successfully added.", "アイテムが正常に追加されました。"
 "Already added.", "すでに追加されています。"
 
 
