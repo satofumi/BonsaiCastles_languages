@@ -672,4 +672,6 @@
 "Main", "メイン"
 "Diagonally", "ななめ"
 "Loophole", "狭間"
+"Closed Gate", "閉じている門"
+"Opened Gate", "開いている門"
 "Import", "取り込む"
