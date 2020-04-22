@@ -146,6 +146,8 @@
 "CannonTurret", "Cannon turret"
 "RemoveTurret", "Remove turret"
 
+"SubCore", "Altar"
+
 "Flag", "Flag"
 "CropRow", "Crop row"
 "Well", "Well"
@@ -196,6 +198,8 @@
 "Ishigaki description", "Reinforce the ground with stones."
 
 "RemoveBuilding description", "Remove the building."
+
+"SubCore description", "Target of suppression"
 
 "BowTurret description", "Fire an arrow."
 "HinawaGunTurret description", "Fire lead bullets with gunpowder."
