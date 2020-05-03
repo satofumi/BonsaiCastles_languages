@@ -2,6 +2,7 @@
 
 # Title
 "Castle Seminar", "Fortification Seminar"
+"Map Share", "Map Sharing"
 
 "Option.VideoAndAudio", "Video, Audio"
 "Option.Control", "Control"
