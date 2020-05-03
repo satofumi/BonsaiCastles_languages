@@ -204,6 +204,9 @@
 "Aono", "葵乃"
 "Chikage", "千景"
 "Ibuki", "伊吹"
+"Chinatsu", "千夏"
+"Miharu", "美春"
+"Yuika", "結華"
 
 ## Game.Help
 "Help.Keyboard (1)", "キーボード (1)"
