@@ -676,8 +676,9 @@
 "Consumed {0} resources to live.", "生活のために資源を {0} 消費しました。"
 
 
-# BuildingData
+# ChangeAppearance
 "Buildings", "建物"
+"Workers", "住民"
 "Buildings set", "建物セット"
 "Main", "メイン"
 "Diagonally", "ななめ"
