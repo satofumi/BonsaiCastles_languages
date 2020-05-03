@@ -4,6 +4,7 @@
 "Continue", "再開する"
 "Play Game", "ゲーム"
 "Map Editor", "マップエディタ"
+"Map Share", "マップ共有"
 "Watch Replay", "リプレイを見る"
 "Building Editor", "建物エディタ"
 "Change Appearance", "外観の変更"
