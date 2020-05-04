@@ -686,3 +686,4 @@
 "Closed Gate", "閉じている門"
 "Opened Gate", "開いている門"
 "Import", "取り込む"
+"Flip left and right.", "左右反転する。"
