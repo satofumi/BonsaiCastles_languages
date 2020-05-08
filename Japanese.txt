@@ -180,6 +180,7 @@
 "Cancel", "キャンセル"
 "OK", "OK"
 "Skip", "スキップ"
+"Back to Place phase", "配置フェーズに戻る"
 
 ## Game.Menu
 "Back to Game", "ゲームに戻る"
