@@ -623,6 +623,8 @@
 "Max storage capacity:  {0}", "最大貯蔵量:  {0}"
 "Last defeats:  {0}", "直前の撃破数:  {0}"
 "Total defeats:  {0}", "総撃破数:  {0}"
+"Last damage:  {0}", "直前のダメージ:  {0}"
+"Total damage:  {0}", "総ダメージ:  {0}"
 "Look around", "見渡す"
 
 "Bullets:  {0}/{1}", "残弾数:  {0} <size=14>/ {1}</size>"
