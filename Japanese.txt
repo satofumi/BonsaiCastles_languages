@@ -693,3 +693,6 @@
 "Import", "取り込む"
 "Flip left and right.", "左右反転する。"
 "Magnification power", "拡大率"
+"Open the guide.", "ガイドを開く。"
+
+"https://steamcommunity.com/sharedfiles/filedetails/?id=2093041128", "https://steamcommunity.com/sharedfiles/filedetails/?id=2069127348"
