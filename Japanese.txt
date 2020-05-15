@@ -113,6 +113,7 @@
 "Normal Mode(Difficult)", "通常モード（難しい）"
 "Normal Mode(Insane)", "通常モード（むり）"
 "Map Edit Mode", "マップエディタ用"
+"Custom Game", "カスタムゲーム"
 
 "Map Type", "マップタイプ"
 "Plain", "平野"
