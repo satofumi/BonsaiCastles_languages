@@ -684,6 +684,7 @@
 "One resident arrived from the {0}.", "{0}から住民が１人到着しました。"
 "tent", "テント"
 "boat", "ボート"
+"If you connect to the base without steps, a resident will increase at the end of the phase.", "この位置から段差なく拠点に移動できると、フェーズ終了時に住民が１人増えます。"
 
 
 # ChangeAppearance
