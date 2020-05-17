@@ -685,6 +685,7 @@
 "tent", "テント"
 "boat", "ボート"
 "If you connect to the base without steps, a resident will increase at the end of the phase.", "この位置から段差なく拠点に移動できると、フェーズ終了時に住民が１人増えます。"
+"There is no room available for residents from the {0}.", "{0}からの住人のための住居の空きがありません。"
 
 
 # ChangeAppearance
