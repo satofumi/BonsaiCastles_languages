@@ -20,6 +20,14 @@
 "RankingState.Ended", "Ended"
 "RankingState.Scheduled", "Scheduled"
 
+# Custom
+"Custom.Settings", "Settings"
+"Custom.Buildings", "Buildings"
+"Custom.Technologies", "Skills"
+"Custom.Turrets", "Turrets"
+"Custom.Enemies", "Enemies"
+"Custom.Options", "Options"
+
 
 # Campaign
 "Campaign.Start", "Start"

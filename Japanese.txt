@@ -698,6 +698,15 @@
 "There is no room available for residents from the {0}.", "{0}からの住人のための住居の空きがありません。"
 
 
+# Custom
+"Custom.Settings", "設定"
+"Custom.Buildings", "建物"
+"Custom.Technologies", "スキル"
+"Custom.Turrets", "タレット"
+"Custom.Enemies", "敵"
+"Custom.Options", "オプション"
+
+
 # ChangeAppearance
 "Buildings", "建物"
 "Workers", "住民"
