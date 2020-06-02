@@ -46,7 +46,7 @@
 "difficult description.", "Increases enemy health point per round."
 "insane description 1.", "Increase enemy defense."
 "insane description 2.", "The construction points required for restoration are now 100% instead of 50% destroyed."
-"insane description 3.", "Only bases can bring in resources."
+"insane description 3.", "Only the base can bring in resources."
 "insane description 4.", "Enemies will use the dropped resources as stairs."
 "insane description 5.", "If you can move to the base without steps, the number of residents will increase by one."
 
