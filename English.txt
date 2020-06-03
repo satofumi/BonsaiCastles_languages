@@ -23,7 +23,8 @@
 # Custom
 "Custom.Settings", "Settings"
 "Custom.Buildings", "Buildings"
-"Custom.Technologies", "Skills"
+"Custom.Research", "Decoration"
+"Custom.Research", "Research"
 "Custom.Turrets", "Turrets"
 "Custom.Enemies", "Enemies"
 "Custom.Options", "Options"

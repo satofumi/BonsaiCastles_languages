@@ -701,7 +701,8 @@
 # Custom
 "Custom.Settings", "設定"
 "Custom.Buildings", "建物"
-"Custom.Technologies", "スキル"
+"Custom.Assets", "飾り"
+"Custom.Research", "研究"
 "Custom.Turrets", "タレット"
 "Custom.Enemies", "敵"
 "Custom.Options", "オプション"
