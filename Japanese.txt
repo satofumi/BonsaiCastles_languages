@@ -82,6 +82,7 @@
 "Original flag", "オリジナル旗指物"
 "Reference", "参照"
 "Select flag png image.", "旗の png 画像を選択して下さい。"
+"Times of Day", "時刻"
 
 "Show residents in the build phase.", "建築フェーズで住民を描画する。"
 "Show focused grid values.", "フォーカスしたグリッド情報を表示する。"
@@ -696,22 +697,6 @@
 "boat", "ボート"
 "If you connect to the base without steps, a resident will increase at the end of the phase.", "この位置から段差なく拠点に移動できると、フェーズ終了時に住民が１人増えます。"
 "There is no room available for residents from the {0}.", "{0}からの住人のための住居の空きがありません。"
-
-
-# Custom
-"Custom.Settings", "設定"
-"Custom.Buildings", "建物"
-"Custom.Assets", "飾り"
-"Custom.Research", "研究"
-"Custom.Turrets", "タレット"
-"Custom.Enemies", "敵"
-"Custom.Options", "オプション"
-
-"Only the base can bring in resources.", "資源を運び込めるのが拠点だけになります。"
-"If you can move to the base without steps, the number of residents will increase by one.", "拠点まで段差なく移動できるときに住民が追加で１人増えます。"
-"Enemies will use the dropped resources as stairs.", "敵は落とした資源を階段として利用するようになります。"
-"Resources are consumed according to the number of residents.", "住民の数に応じて資源を消費します。"
-"Consumption per inhabitant.", "住民１人あたりの消費量"
 
 
 # ChangeAppearance
