@@ -14,7 +14,7 @@
 "Credit", "クレジット"
 "Quit", "終了"
 
-"New Game", "通常モード"
+"Normal Mode", "通常モード"
 "Load Game", "ロード"
 "Load Replay", "リプレイの読み込み"
 "Start a Siege", "攻城の開始"
@@ -111,7 +111,6 @@
 "Previous Map", "前のマップ"
 "Next Map", "次のマップ"
 "Map Code", "マップコード"
-"Normal Mode", "通常モード"
 "Normal Mode(Normal)", "通常モード（普通）"
 "Normal Mode(Difficult)", "通常モード（難しい）"
 "Normal Mode(Insane)", "通常モード（むり）"
@@ -155,6 +154,13 @@
 "MapEditor.Size", "マップの広さ"
 "MapEditor.Start", "開始"
 "The size must be {0} or more on one side.", "サイズの１辺は {0} 以上にしてください。"
+
+# Custom
+"New Custom Game", "新規カスタムゲーム"
+"Load Data As Custom", "既存データのロード"
+"NewCustomGame.Description", "新しい設定を作成してカスタムゲームを開始します。"
+"CustomLoadGame.Description", "既存のセーブデータを読み込み、設定を変更して続きからプレイします。"
+
 
 # Game
 "No Enemy Mode", "敵が出現しない"

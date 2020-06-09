@@ -57,6 +57,11 @@
 "MapEditor.Size", "Map size"
 "MapEditor.Start", "Start"
 
+# Custom
+"NewCustomGame.Description", "Create a new setting and start your custom game."
+"CustomLoadGame.Description", "Read the existing save data, change the settings and continue."
+
+
 # Game
 "Round: {0}", "Round {0}"
 "Phase.FirstHelp", "Help"
