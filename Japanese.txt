@@ -161,6 +161,25 @@
 "NewCustomGame.Description", "新しい設定を作成してカスタムゲームを開始します。"
 "CustomLoadGame.Description", "既存のセーブデータを読み込み、設定を変更して続きからプレイします。"
 
+"Custom.Settings", "設定"
+"Custom.Buildings", "建物"
+"Custom.Assets", "飾り"
+"Custom.Turrets", "タレット"
+"Custom.Research", "研究"
+"Custom.Enemies", "敵"
+
+# Custom.Settings
+"Only the base can bring in resources.", "資源を運び込めるのは拠点のみ。"
+"If you can move to the base without steps, the number of residents will increase by one.", "拠点までに段差がないときに、住民が追加で１人増える。"
+"Enemies will use the dropped resources as stairs.", "敵は落とした資源を足場として利用できる。"
+"Resources are consumed according to the number of residents.", "住民の数に応じた資源を消費する。"
+"Consumption per inhabitant.", "住民１人の消費資源"
+
+"Initialize Normal Game (Normal) settings.", "通常モード（普通）に初期化する。"
+"Initialize Normal Game (Difficult) settings.", "通常モード（難しい）に初期化する。"
+"Initialize Normal Game (Insane) settings.", "通常モード（むり）に初期化する。"
+"Initialize Endless mode settings.", "エンドレスモードに初期化する。"
+
 
 # Game
 "No Enemy Mode", "敵が出現しない"
