@@ -23,11 +23,10 @@
 # Custom
 "Custom.Settings", "Settings"
 "Custom.Buildings", "Buildings"
-"Custom.Research", "Decoration"
-"Custom.Research", "Research"
+"Custom.Assets", "Decoration"
 "Custom.Turrets", "Turrets"
+"Custom.Research", "Research"
 "Custom.Enemies", "Enemies"
-"Custom.Options", "Options"
 
 
 # Campaign
