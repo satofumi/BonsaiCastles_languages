@@ -174,11 +174,12 @@
 "Enemies will use the dropped resources as stairs.", "敵は落とした資源を足場として利用できる。"
 "Resources are consumed according to the number of residents.", "住民の数に応じた資源を消費する。"
 "Consumption per inhabitant.", "住民１人の消費資源"
+"Unlimited use of resources. (For debugging)", "資源を無限に利用できる。（デバッグ用）"
 
-"Initialize Normal Game (Normal) settings.", "通常モード（普通）に初期化する。"
-"Initialize Normal Game (Difficult) settings.", "通常モード（難しい）に初期化する。"
-"Initialize Normal Game (Insane) settings.", "通常モード（むり）に初期化する。"
-"Initialize Endless mode settings.", "エンドレスモードに初期化する。"
+"Initialize Normal Game (Normal) settings", "通常モード（普通）に初期化する"
+"Initialize Normal Game (Difficult) settings", "通常モード（難しい）に初期化する"
+"Initialize Normal Game (Insane) settings", "通常モード（むり）に初期化する"
+"Initialize Endless mode settings", "エンドレスモードに初期化する"
 
 
 # Game
