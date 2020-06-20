@@ -172,7 +172,9 @@
 "Only the base can bring in resources.", "資源を運び込めるのは拠点のみ。"
 "If you can move to the base without steps, the number of residents will increase by one.", "拠点までに段差がないときに、住民が追加で１人増える。"
 "Enemies will use the dropped resources as stairs.", "敵は落とした資源を足場として利用できる。"
+"Resource consumption", "資源の消費"
 "Resources are consumed according to the number of residents.", "住民の数に応じた資源を消費する。"
+"Worker Increment Gain", "住民の増加ゲイン"
 "Consumption per inhabitant.", "住民１人の消費資源"
 "Unlimited use of resources. (For debugging)", "資源を無限に利用できる。（デバッグ用）"
 
@@ -180,6 +182,12 @@
 "Initialize Normal Game (Difficult) settings", "通常モード（難しい）に初期化する"
 "Initialize Normal Game (Insane) settings", "通常モード（むり）に初期化する"
 "Initialize Endless mode settings", "エンドレスモードに初期化する"
+
+"Enemy Increment", "敵の増加"
+"Enemy Power Gain", "敵のパワーゲイン"
+"Last Battle Power Gain", "最終バトルの敵のパワーゲイン"
+"Worker Move Speed", "住民の移動速度"
+"Worker Carry Amount", "住民の運搬量"
 
 
 # Game
