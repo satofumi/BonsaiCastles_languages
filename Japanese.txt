@@ -183,7 +183,7 @@
 "Initialize Normal Game (Insane) settings", "通常モード（むり）に初期化する"
 "Initialize Endless mode settings", "エンドレスモードに初期化する"
 
-"Enemy Increment", "敵の増加"
+"Enemy Increment Rounds", "敵の出現数が増加するラウンド"
 "Enemy Power Gain", "敵のパワーゲイン"
 "Last Battle Power Gain", "最終バトルの敵のパワーゲイン"
 "Worker Move Speed", "住民の移動速度"
