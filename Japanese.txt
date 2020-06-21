@@ -255,7 +255,6 @@
 
 ## Game.MapView
 "Show blueprint image", "縄張り画像を表示する"
-"Adjust", "調整"
 
 ## Game.Help
 "Help.Keyboard (1)", "キーボード (1)"
