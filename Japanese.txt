@@ -185,7 +185,7 @@
 "Initialize Endless mode settings", "エンドレスモードに初期化する"
 
 "Enemy Base Power", "敵の強さ"
-"Settings.EnemyBasePower.Description", "敵の強さを決定します。 0:通常モード(通常), 1:通常モード(難しい), 2:通常モード(むり), 3:エンドレスモード に相当します。値が 2 のときには敵の防御力が２倍になります。"
+"Settings.EnemyBasePower.Description", "敵の強さを決定します. 1:通常モード(通常), 2:通常モード(難しい), 3:通常モード(むり), 4:エンドレスモード に相当します. 値が３のときには敵の防御力が２倍になり, ４のときには敵の研究は行なえません."
 
 "Enemy Increment Rounds", "敵の出現数が増加するラウンド"
 "Enemy Power Gain", "敵のパワーゲイン"
