@@ -172,27 +172,86 @@
 "Only the base can bring in resources.", "資源を運び込めるのは拠点のみ。"
 "If you can move to the base without steps, the number of residents will increase by one.", "拠点までに段差がないときに、住民が追加で１人増える。"
 "Enemies will use the dropped resources as stairs.", "敵は落とした資源を足場として利用できる。"
+
 "Resource consumption", "資源の消費"
-"Resources are consumed according to the number of residents.", "住民の数に応じた資源を消費する。"
-"Worker Increment Gain", "住民の増加ゲイン"
-"Consumption per inhabitant.", "住民１人の消費資源"
-"Percentage of costs required to repair the building", "建物の修理に必要なコストのパーセント"
+"Resources will be consumed at the start of the construction phase by multiplying the number of inhabitants by this value.", "住民の数とこの値を掛けただけの資源を建築フェーズの開始時に消費する。"
+
+"Repair Costs", "修理コスト"
+"What percentage of construction cost resources are consumed during repairs", "修理のときに建築コストの何パーセントの資源を消費するか"
+
 "Unlimited use of resources. (For debugging)", "資源を無限に利用できる。（デバッグ用）"
+
+"Enemy Base Power", "敵の強さ"
+"Determines the strength of the enemy. 1: Normal mode (normal), 2: Normal mode (difficult), 3: Normal mode (Muri), 4: Endless mode. Enemy defense when the value is 3 Your strength doubles, and when it is 4, you can't study the enemy.", "敵の強さを決定します. 1:通常モード(通常), 2:通常モード(難しい), 3:通常モード(むり), 4:エンドレスモード に相当します. 値が３のときには敵の防御力が２倍になり, ４のときには敵の研究は行なえません."
+
+"Enemy Increment Rounds", "敵の出現数が増加するラウンド"
+"Each time the round specified here elapses, the number of added enemies will increase by one.", "ここで指定したラウンドが経過するたびに、追加される敵の数が１体増えます。"
+
+"Enemy Health Gain", "敵の体力ゲイン"
+"The bigger this is, the more the enemy's physical strength increases.", "この大きいほど敵の体力が増えます。"
+
+"Last Battle Power Gain", "最終バトルの敵のパワーゲイン"
+"'Enemy Power Gain' value used in the last defense battle.", "最後の防衛戦で利用される '敵の体力ゲイン' の値です。"
+
+"Worker Increment Gain", "住民の増加ゲイン"
+"It is the increase coefficient of the residents.", "住民の増加係数です。"
+
+"Worker Move Speed", "住民の移動速度"
+"Worker Carry Amount", "住民の運搬量"
+"Basic transport amount of resources", "資源の基本運搬量"
 
 "Initialize Normal Game (Normal) settings", "通常モード（普通）に初期化する"
 "Initialize Normal Game (Difficult) settings", "通常モード（難しい）に初期化する"
 "Initialize Normal Game (Insane) settings", "通常モード（むり）に初期化する"
 "Initialize Endless mode settings", "エンドレスモードに初期化する"
 
-"Enemy Base Power", "敵の強さ"
-"Settings.EnemyBasePower.Description", "敵の強さを決定します. 1:通常モード(通常), 2:通常モード(難しい), 3:通常モード(むり), 4:エンドレスモード に相当します. 値が３のときには敵の防御力が２倍になり, ４のときには敵の研究は行なえません."
+"Build Point (Cost)", "建築ポイント(コスト)"
+"Spirit Point (Cost)", "霊力(コスト)"
+"Resources (Cost)", "資源(コスト)"
+"Durability", "耐久力"
+"Max Resources", "格納できる資源"
+"Max Population", "住める住民の数"
+"Vision Range", "視野の半径"
 
-"Enemy Increment Rounds", "敵の出現数が増加するラウンド"
-"Enemy Power Gain", "敵のパワーゲイン"
-"Last Battle Power Gain", "最終バトルの敵のパワーゲイン"
-"Worker Move Speed", "住民の移動速度"
-"Worker Carry Amount", "住民の運搬量"
+"Attack Range", "射程"
+"Attack Damage", "攻撃力"
+"Attack Interval", "攻撃間隔"
+"Bullets", "装弾数"
+"How much additional damage does the bow and matchlock do when hitting from behind? The number of seconds to throw for large cylinders.", "弓と火縄銃は後ろから攻撃したときに敵体力の何パーセントの追加ダメージを与えるか。大筒のときはスローの秒数。"
 
+"Rounds", "ラウンド数"
+"The meaning is different depending on the amount of increase in spirit power, the amount of damage of attacking skills, the amount of shielding of defense skills, etc.", "霊力の増加量、攻撃スキルのダメージ量、防衛スキルのシールド量、などそれぞれで意味合いが異なる。"
+
+"Health Point", "体力"
+"Move Speed", "移動速度"
+"Climb Ratio", "登りやすさ"
+"If this value is large, the wall will climb faster.", "この値が大きいと壁を早く登ります。"
+"Swim Ratio", "泳ぎやすさ"
+"The smaller this value, the more the water will move without being affected.", "この値が小さいほど水の影響を受けずに移動します。"
+
+"DPS Ratio", "攻撃しやすさ"
+"The higher this value, the easier it is to break the building and move.", "この値が大きいほど建物を壊して移動しやすくなります。"
+
+"Block Percent (Front)", "防御パーセント(前)"
+"Block Percent (Side)", "防御パーセント(横)"
+"Block Percent (Back)", "防御パーセント(後ろ)"
+
+"Drop Resources", "落とす資源"
+"The total amount of resources determined for each round is distributed according to the size of this value.", "ラウンドごとに決められた資源の総量を、この値の大きさ応じて分配します。"
+
+"Spawn Interval", "出現間隔"
+"Interval (seconds) when enemy appears from one nest", "１つの巣から敵が出現するときの間隔(秒)"
+
+"Appearance Min Rounds", "出現し始めるラウンド数"
+
+"Appearance Value", "出現割合"
+"The larger this value, the higher the appearance rate.", "この値が大きいほど出現割合が増す。"
+
+"Occupancy Rate", "占有率"
+"If there are 1/this number of enemies on the same grid, movement will be slow. This value is evaluated for each enemy type.", "1/この値、の数の敵が同じグリッドにいると移動が遅くなる。この値は敵の種類ごとに評価される。"
+
+"Spirit Cost", "霊力"
+"Spirit power used in siege mode", "攻城モードで使われる霊力量"
 
 # Game
 "No Enemy Mode", "敵が出現しない"
