@@ -181,8 +181,8 @@
 
 "Unlimited use of resources. (For debugging)", "資源を無限に利用できる。（デバッグ用）"
 
-"Enemy Base Power", "敵の強さ"
-"Determines the strength of the enemy. 1: Normal mode (normal), 2: Normal mode (difficult), 3: Normal mode (Muri), 4: Endless mode. Enemy defense when the value is 3 Your strength doubles, and when it is 4, you can't study the enemy.", "敵の強さを決定します. 1:通常モード(通常), 2:通常モード(難しい), 3:通常モード(むり), 4:エンドレスモード に相当します. 値が３のときには敵の防御力が２倍になり, ４のときには敵の研究は行なえません."
+"Game Mode", "ゲームモード"
+"1: Normal mode (normal), 2: Normal mode (difficult), 3: Normal mode (Muri), 4: Endless mode. Enemy defense when the value is 3 Your strength doubles, and when it is 4, you can't study the enemy.", "1:通常モード(通常), 2:通常モード(難しい), 3:通常モード(むり), 4:エンドレスモード に相当します. 値が３のときには敵の防御力が２倍になり, ４のときには敵の研究は行なえません."
 
 "Enemy Increment Rounds", "敵の出現数が増加するラウンド"
 "Each time the round specified here elapses, the number of added enemies will increase by one.", "ここで指定したラウンドが経過するたびに、追加される敵の数が１体増えます。"
