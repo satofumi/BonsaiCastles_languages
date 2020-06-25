@@ -176,12 +176,16 @@
 "Resources are consumed according to the number of residents.", "住民の数に応じた資源を消費する。"
 "Worker Increment Gain", "住民の増加ゲイン"
 "Consumption per inhabitant.", "住民１人の消費資源"
+"Percentage of costs required to repair the building", "建物の修理に必要なコストのパーセント"
 "Unlimited use of resources. (For debugging)", "資源を無限に利用できる。（デバッグ用）"
 
 "Initialize Normal Game (Normal) settings", "通常モード（普通）に初期化する"
 "Initialize Normal Game (Difficult) settings", "通常モード（難しい）に初期化する"
 "Initialize Normal Game (Insane) settings", "通常モード（むり）に初期化する"
 "Initialize Endless mode settings", "エンドレスモードに初期化する"
+
+"Enemy Base Power", "敵の強さ"
+"Settings.EnemyBasePower.Description", "敵の強さを決定します。 0:通常モード(通常), 1:通常モード(難しい), 2:通常モード(むり), 3:エンドレスモード に相当します。値が 2 のときには敵の防御力が２倍になります。"
 
 "Enemy Increment Rounds", "敵の出現数が増加するラウンド"
 "Enemy Power Gain", "敵のパワーゲイン"
