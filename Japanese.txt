@@ -156,6 +156,8 @@
 "The size must be {0} or more on one side.", "サイズの１辺は {0} 以上にしてください。"
 
 # Custom
+"The setting have been loaded.", "設定が読み込まれました。"
+
 "New Custom Game", "新規カスタムゲーム"
 "Load Data As Custom", "既存データのロード"
 "NewCustomGame.Description", "新しい設定を作成してカスタムゲームを開始します。"
