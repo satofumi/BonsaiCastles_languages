@@ -1,0 +1,348 @@
+"Portuguese", "Português"
+
+# Title
+"Castle Seminar", "Fortification Seminar"
+"Map Share", "Map Sharing"
+
+"Option.VideoAndAudio", "Video, Audio"
+"Option.Control", "Control"
+"Option.Server", "Server"
+"Option.Game", "Game"
+
+"Quality.Very Low", "Very Low"
+"Quality.Low", "Low"
+"Quality.Medium", "Medium"
+"Quality.High", "High"
+"Quality.Very High", "Very High"
+"Quality.Ultra", "Ultra"
+
+"RankingState.InProgress", "In progress"
+"RankingState.Ended", "Ended"
+"RankingState.Scheduled", "Scheduled"
+
+# Custom
+"Custom.Settings", "Settings"
+"Custom.Buildings", "Buildings"
+"Custom.Assets", "Decoration"
+"Custom.Turrets", "Turrets"
+"Custom.Research", "Research"
+"Custom.Enemies", "Enemies"
+
+
+# Campaign
+"Campaign.Start", "Start"
+
+# Credit
+"Credit.Model", "Model"
+"Credit.Sound", "Sound"
+"Credit.Image", "Image"
+"Credit.Font", "Font"
+"Credit.Library", "Library"
+
+# MapSelect
+"No enemies", "No enemies (Creative mode)"
+"Shield direction", "Barrier direction"
+
+"difficult description.", "Increases enemy health point per round."
+"insane description 1.", "Increase enemy defense."
+"insane description 2.", "The construction points required for restoration are now 100% instead of 50% destroyed."
+"insane description 3.", "Only the base can bring in resources."
+"insane description 4.", "Enemies will use the dropped resources as stairs."
+"insane description 5.", "If you can move to the base without steps, the number of residents will increase by one."
+
+"shield description.", "Enemy nests will no longer be placed in directions with a defensive barrier."
+
+# MapEditor
+"MapEditor.Size", "Map size"
+"MapEditor.Start", "Start"
+
+# Custom
+"NewCustomGame.Description", "Create a new setting and start your custom game."
+"CustomLoadGame.Description", "Read the existing save data, change the settings and continue."
+
+
+# Game
+"Round: {0}", "Round {0}"
+"Phase.FirstHelp", "Help"
+"Phase.Build", "Build phase"
+"Phase.BeforeBuild", "Build phase"
+"Phase.Defense", "Defense phase"
+"Phase.Siege", "Siege phase"
+"Phase.BeforeDefense", "Defense phase"
+"Phase.AfterDefense", "Defense phase"
+"Phase.BeforeGather", "Gather phase"
+"Phase.BeforeSiege", "Place phase"
+"Phase.Gather", "Gather phase"
+"Phase.GameOver", "Defeat"
+"Phase.GameClear", "Victory"
+"Phase.Replay", "Replay"
+
+## Game.Help
+"Help.Keyboard (1)", "Keyboard (1)"
+"Help.Keyboard (2)", "Keyboard (2)"
+
+"Help.description.Keyboard_1", "ESC: Cancel, menu open / close\nLeft click: Confirm,              Right drag: Camera operation\nWheel operation: Zoom in / out camera\nWASD: Move viewpoint,    Enter: Reset viewpoint\nE: Control panel open / close,   M: Entire map open / close\nTab: Switch between build and research panel\nR: 90 degree rotation of building\nT: 45 degree rotation (wall only), change (decoration only)"
+
+"Help.description.Keyboard_2", "Q: Select the building at the cursor\nV: Select the fill\nShift: Switch to the selection of removal if the building is selected, Switch to the selection of dig when the soil is selected\nShift + Space : Press the button to end the phase and skip\nSpace: Press the OK button,        Ctrl + s: Quick save\nCtrl + c: Copy of dragged range,        P: Photo mode\nDelete: Remove all but the terrain within the area being dragged\nP: Enter photo mode."
+
+"Help.Build and Remove", "Build and Remove"
+"Help.description.Build and Remove", "Building and removal can be done during the construction phase. If you make a mistake, you can remove the building and the resources will be refunded."
+
+"Help.Enemy Research", "Enemy Research"
+"Help.description.Enemy Research", "The game is complete when you have completed all of the “Enemy Research” on the research panel. Defeat enemies in the defense phase, collect resources in the gather phase, and research using resources in the research phase."
+
+"Help.Base", "Base"
+"Help.description.Base", "The first residence will be the base, and if the base is destroyed, the game will be over. Buildings and turrets that cannot be moved from the base will not function properly.\nTo change the location, left-click on the new residence and click the 'Set as a base' button in the lower right panel."
+
+"Help.Turret", "Turret"
+"Help.description.Turret", "Turrets include bows, rope guns, and large tubes. Each turret has a range, and the range is limited if the ray is blocked by buildings or terrain. The bow and line guns have a straight line, and the large tube has a parabola."
+
+"Help.Reload", "Ammunition supply"
+"Help.description.Reload", "Turret bullets are supplied by supply units that come out of the house. The number of supply units that appear at the same time is the same as the number of turrets that can be placed in the residence. Supply units will not appear from residences that are not in contact with the base."
+
+"Help.Vision and Range", "Vision and Range"
+"Help.description.Vision and Range", "The enemy moves to the turret range or the sight of the spectator at the beginning of the defense phase."
+
+"Help.Enemies defense", "Enemies defense"
+"Help.description.Enemies defense", "Enemies are defensive in every direction and reduce turret damage. By placing turrets where you can attack enemies from the side or from behind, you can gain an advantage in defense."
+
+"Help.Wall", "Wall"
+"Help.description.Wall", "The spider prevents enemy attacks until it is destroyed. If you place a bow turret and matchlock turret at the same position as the wall, a space will be created on the wall and you can attack the enemy behind the wall."
+
+"Help.Gate", "Gate"
+"Help.description.Gate", "The gate functions as a fence during the defense phase and as a building that can be passed through during the gather phase."
+
+"Help.Ishigaki", "Ishigaki (Stone wall)"
+"Help.description.Ishigaki", "The ishigaki prevents the terrain from being destroyed by enemy attacks a predetermined number of times. If the terrain is destroyed, the buildings above it will also be destroyed.\nIf you hold Shift while building, the ishigaki of that grid will be built at once."
+
+"Help.Machicolation", "Machicolation"
+"Help.description.Machicolation", "The single-story yagura, two-story yagura, and the keep of a castle are equipped with machicolation. This allows these defensive facilities to attack their position even if the adjacent grid is low, unlike turrets."
+
+"Help.Skill", "Skill"
+"Help.description.Skill", "By studying, you will be able to use attack and defense skills. Attack skills damage enemies within range and slow down their movement speed. Defense skills grant shields to buildings within range. Spirit power is consumed to activate skills."
+
+"Help.Enemy and Resources", "Enemy and Resources"
+"Help.description.Enemy and Resources", "If you defeat the enemy in the defense phase, the enemy will drop resources. Resources can be collected by the residents in the gather phase, bringing them to their homes. Enemies attacking buildings are halved in defense."
+
+"Help.Enemy vision", "Enemy vision"
+"Help.description.Enemy vision", "You can experience the enemy point of view by pressing the "Get into the role" button from the lower right panel that appears when you click on the enemy in the defense phase. Press the ESC key to quit."
+
+"Help.Evolved enemy", "Evolved enemy"
+"Help.description.Evolved enemy", "When there are three or more enemies in a nest, the third enemy from that nest will appear evolved. Evolved enemies have increased physical strength and a much higher ability to climb walls. Evolved enemies have slightly different colors."
+
+"Help.Resource type", "Resource type"
+"Help.description.Resource type", "Population: Increase before the build phase. The upper limit is determined by the number of residences.\nBuild points: Consumed when building, filling and excavating. Restored before the build phase.\nSpirit points: Necessary for turret placement and skill activation. Temporarily increases over time during the defense phase.\nResources: Used when conducting research and building some buildings. The upper limit is determined by the base building."
+
+"Help.Worker", "Worker"
+"Help.description.Worker", "Build points and Spirit power increase in proportion to population. Worker also collect resources during the gather phase. Worker can only climb up to one step above and below and are evacuated to the base during the defense phase."
+
+"Help.WalkAround", "Walk around"
+"Help.description.WalkAround", "Some decorations, such as crop fields, are used by residents during the build phase. You can start a walk by pressing the "Walk around" button from the lower right panel that appears when you left-click a working resident.\n\nMove: WASD\nJump: Space\nRun: SHIFT\nESC: Quit"
+
+"Help.Nawabari", "Nawabari"
+"Help.description.Nawabari", "With Nawabari panels, you can copy selected areas of the building and build them elsewhere or on different map data."
+
+
+## Game.Build
+"FlatYagura", "Single-story yagura"
+"TamonYagura", "Tamon yagura"
+"DoubleYagura", "Two-story yagura"
+"Castle", "The keep of a castle"
+"WoodenFence", "Wooden fence"
+"WoodenWall", "Wooden wall"
+"SoilWall", "Soil wall"
+"DoubleSoilWall", "Soil wall"
+"KabukiGate", "Kabuki gate"
+"KouraiGate", "Kourai gate"
+"YaguraGate", "Yagura gate"
+"SmallBridge", "Small bridge"
+"OneWaySign", "One way sign"
+"WaterDrain", "Water drain"
+"WaterSource", "Water source"
+"Ishigaki", "Stone wall"
+"RemoveBuilding", "Remove building"
+
+"BowTurret", "Bow turret"
+"HinawaGunTurret", "Matchlock turret"
+"CannonTurret", "Cannon turret"
+"RemoveTurret", "Remove turret"
+
+"SubCore", "Altar"
+
+"Flag", "Flag"
+"CropRow", "Crop row"
+"Well", "Well"
+"Flower", "Flower"
+"Bamboo", "Bamboo"
+"CherryTree", "Cherry tree"
+"PineTree", "Pine tree"
+"Rock", "Rock"
+"Jizo", "Stone statue"
+"KomaInu", "Gardian dog"
+"StoneLantern", "Stone lantern"
+"Archway", "Archway"
+"StreetStall", "Street stall"
+"Bonfire", "Bonfire"
+"SteepSlope", "Steep slope"
+"SteepIshigaki", "Steep ishigaki"
+
+"Hut description", "Suitable for storing resources and ammunition."
+"House description", "General residence."
+"Palace description", "A facility suitable for government affairs."
+"FlatYagura description", "A sturdy defense facility."
+"TamonYagura description", "A sturdy defense facility. Treated as a wall."
+"DoubleYagura description", "A more sturdy defense facility."
+"Castle description", "A defense faility that symbolizes the castle."
+
+"WoodenFence description", "Inhibits movement. Does not interfere with the ranged attack."
+"WoodenWall description", "A wall that prevents movement and ammunition. A loophole can be set up."
+"SoilWall description", "A sturdy wall that prevents movement and ammunition. A loophole can be set up."
+"KabukiGate description", "Basic gate."
+"KouraiGate description", "A sturdy gate with a roof."
+"YaguraGate description", "A sturdy gate with a yagura."
+
+"Watchtower description", "Monitor enemy intrusions."
+"Road description", "Leveled ground."
+"Grass description", "Grassland"
+"Slope description", "The ground is easier to move than steps."
+"Stairs description", "Paved for easy walking."
+"SmallBridge description", "A bridge build at a low water depth."
+"Bridge description", "A bridge build at a deep water."
+
+"OneWaySign description", "Cannot enter from the direction of the arrow."
+"WaterDrain description", "Drain the water on this block."
+"WaterSource description", "One block of water rises."
+"TerrainWaterSource description", ""
+
+"DigSoil description", "Dig a block of ground."
+"FillSoil description", "Raise a block of ground."
+"Ishigaki description", "Reinforce the ground with stones."
+
+"RemoveBuilding description", "Remove the building."
+
+"SubCore description", "Target of suppression"
+
+"BowTurret description", "Fire an arrow."
+"HinawaGunTurret description", "Fire lead bullets with gunpowder."
+"CannonTurret description", "Inflict additional damage not only on the hit enemy but also on all enemies at the landing position."
+"RemoveTurret description", "Remove the turret."
+
+"Flag description", ""
+"CropRow description", "Residents take care of crops."
+"Well description", ""
+"Flower description", ""
+"Bamboo description", ""
+"CherryTree description", ""
+"PineTree description", ""
+"Rock description", ""
+"Jizo description", ""
+"KomaInu description", ""
+"StoneLantern description", ""
+"Archway description", ""
+"StreetStall description", ""
+"Bonfire description", ""
+"SteepSlope description", ""
+"SteepIshigaki description", ""
+
+## Game.Research
+"Yet", "Locked"
+"Done", "Unlocked"
+
+"Build_Palace", "Palace"
+"Build_FlatYagura", "Single-story yagura"
+"Build_DoubleYagura", "Two-story yagura"
+"Build_Castle", "The keep of castle"
+"Build_SoilWall", "Soil wall"
+"Build_KabukiGate", "Kabuki gate"
+"Build_KouraiGate", "Kourai gate"
+"Build_YaguraGate", "Yagura gate"
+"Build_Ishigaki", "Stone wall"
+"Build_Bridge", "Bridge"
+"Build_Waters", "Water source, Water drain"
+"Build_HinawaGunTurret", "Matchlock turret"
+"Build_CannonTurret", "Cannon turret"
+
+"Tech_Spirit_0", "Mediation 1"
+"Tech_Spirit_1", "Mediation 2"
+"Tech_Spirit_2", "Mediation 3"
+"Tech_Spirit_3", "Mediation 4"
+"Tech_Spirit_4", "Mediation 5"
+"Tech_Damage_0", "Attack skill 1"
+"Tech_Shield_0", "Defense skill 1"
+"Tech_Damage_1", "Attack skill 2"
+"Tech_Shield_1", "Defense skill 2"
+"Tech_Enemy_0", "Enemy research 1"
+"Tech_Enemy_1", "Enemy research 2"
+"Tech_Enemy_2", "Enemy research 3"
+"Tech_Enemy_3", "Enemy research 4"
+"Tech_Enemy_4", "Enemy research 5"
+"Tech_Enemy_5", "Enemy research 6"
+"Tech_Enemy_last", "Enemy research 7"
+"Tech_Weaken_0", "Weaken enemies 1"
+"Tech_Weaken_1", "Weaken enemies 2"
+"Tech_Weaken_2", "Weaken enemies 3"
+"Tech_Weaken_3", "Weaken enemies 4"
+"Tech_Weaken_4", "Weaken enemies 5"
+
+"Build_KabukiGate description", "Kabuki gate can be built."
+"Build_KouraiGate description", "Kourai gate can be build."
+"Build_YaguraGate description", "Yagura gate can be build."
+"Build_SoilWall description", "Soil wall can be build."
+"Build_FlatYagura description", "Single-story yagura can be build."
+"Build_DoubleYagura description", "Two-story yagura can be build."
+"Build_Castle description", "The keep of castle can be build."
+"Build_Ishigaki description", "Stone wall can be build."
+"Build_Bridge description", "Bridge can be build."
+"Build_Waters description", "Water drain and Water source can be build."
+"Build_HinawaGunTurret description", "Matchlock turret can be build."
+"Build_CannonTurret description", "Cannon turret can be build."
+
+"Tech_Spirit_0 description", "Gain additional {0} spirits."
+"Tech_Spirit_1 description", "Gain additional {0} spirits."
+"Tech_Spirit_2 description", "Gain additional {0} spirits."
+"Tech_Spirit_3 description", "Gain additional {0} spirits."
+"Tech_Spirit_4 description", "Gain additional {0} spirits."
+"Tech_Spirit_5 description", "Gain additional {0} spirits."
+
+"Tech_Damage_0 description", "Attack skills that deal {0} damage to all enemies within range are now available."
+"Tech_Damage_1 description", "Attack skill now deals {0}% additional damage to enemy health point."
+"Tech_Shield_0 description", "Defensive skill that grants {0} shield to buildings in range is now available."
+"Tech_Shield_1 description", "Defense skill now grant an additional {0}% of the building's endurance shield."
+
+"Tech_Enemy_0 description", "Process with enemy analysis."
+"Tech_Enemy_1 description", "Process with enemy analysis."
+"Tech_Enemy_2 description", "Process with enemy analysis."
+"Tech_Enemy_3 description", "Process with enemy analysis."
+"Tech_Enemy_4 description", "Process with enemy analysis."
+"Tech_Enemy_5 description", "Process with enemy analysis."
+"Tech_Enemy_last description", "Complete the enemy analysis. When you start researching this skill, the 'last defense' begins."
+
+"Tech_Weaken_0 description", "Reduces enemy defense by 10%."
+"Tech_Weaken_1 description", "Reduces enemy movement speed by {0}%."
+"Tech_Weaken_2 description", "Reduces enemy attack power by {0}%."
+"Tech_Weaken_3 description", "Reduces enemy health point by {0}%."
+"Tech_Weaken_4 description", "Reduces enemy health point by {0}%."
+
+## Game.Messages
+"Collected resources:  {0}/{1}", "Collected resources:  {0} <size=14>/ {1}</size>"
+
+## Game.Information
+"Last durability:  {0}/{1}", "Last durability:  {0} <size=14>/ {1}</size>"
+"Durability:  {0}/{1}", "Durability:  {0} <size=14>/ {1}</size>"
+"Health point:  {0}/{1}", "Health point:  {0} <size=14>/ {1}</size>"
+"Bullets:  {0}/{1}", "Bullets:  {0} <size=14>/ {1}</size>"
+
+"  Front: {0} %", "  Front: {0} <size=12>%</size>"
+"  Side: {0} %", "  Side: {0} <size=12>%</size>"
+"  Back: {0} %", "  Back: {0} <size=12>%</size>"
+"Holding:  {0}/{1}", "Holding:  {0} <size=14>/ {1}</size>"
+
+# Title.PlayMenu
+"NewGame.Description", "This is the basic game mode whose purpose is to collect resources, analyze enemies, and win the final defense battle."
+"Tutorial.Description", "A game mode for learning basic rules and operation methods."
+"CreativeMode.Description", "This is a game mode where resources can be used indefinitely in order to build a castle freely. You can also spawn a specified number of enemies to attack the castle."
+"EndlessMode.Description", "This is a game mode in which the castle is extended to defend and compete in the rounds where the defense was successful. Various available points are set more than the normal mode."
+"SiegeMode.Description", "This is a game mode in which the saved castle and enemy units are placed to siege."
+"WatchReplay.Description", "You can see the castle being added."
+"Ranking.Description", "Start an endless mode game on the same map and compete for how many rounds you have reached. You can browse and participate in the ranking, and after the ranking, you can browse the play data of others."
+"CastleSeminar.Description", "Introduce the rules of the game in scenario format."
