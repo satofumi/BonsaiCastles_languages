@@ -104,7 +104,7 @@
 "Help.description.Vision and Range", "The enemy moves to the turret range or the sight of the spectator at the beginning of the defense phase."
 
 "Help.Enemies defense", "Enemies defense"
-"Help.description.Enemies defense", "Enemies are defensive in every direction and reduce turret damage. By placing turrets where you can attack enemies from the side or from behind, you can gain an advantage in defense."
+"Help.description.Enemies defense", "Enemies are defensive in every direction and reduce turret damage. By placing turrets where you can attack enemies from the side or from behind, you can gain an advantage in defense. Enemies attacking the building will have their defense strength reduced, and their damage will be increased by 1.5 times."
 
 "Help.Wall", "Wall"
 "Help.description.Wall", "The spider prevents enemy attacks until it is destroyed. If you place a bow turret and matchlock turret at the same position as the wall, a space will be created on the wall and you can attack the enemy behind the wall."
@@ -122,7 +122,7 @@
 "Help.description.Skill", "By studying, you will be able to use attack and defense skills. Attack skills damage enemies within range and slow down their movement speed. Defense skills grant shields to buildings within range. Spirit power is consumed to activate skills."
 
 "Help.Enemy and Resources", "Enemy and Resources"
-"Help.description.Enemy and Resources", "If you defeat the enemy in the defense phase, the enemy will drop resources. Resources can be collected by the residents in the gather phase, bringing them to their homes. Enemies attacking buildings are halved in defense."
+"Help.description.Enemy and Resources", "If you defeat the enemy in the defense phase, the enemy will drop resources. Resources can be collected by the residents in the gather phase, bringing them to their homes."
 
 "Help.Enemy vision", "Enemy vision"
 "Help.description.Enemy vision", "You can experience the enemy point of view by pressing the "Get into the role" button from the lower right panel that appears when you click on the enemy in the defense phase. Press the ESC key to quit."
