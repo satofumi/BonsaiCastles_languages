@@ -794,6 +794,7 @@
 # Title
 "Consumed {0} resources to live.", "生活のために資源を {0} 消費しました。"
 "There is a step on the route between the base and the {0}.", "拠点と{0}との経路に段差があります。"
+"There is no route from the {0} to the base.", "{0}から拠点までの経路がありません。"
 "One resident arrived from the {0}.", "{0}から住民が１人到着しました。"
 "tent", "テント"
 "boat", "ボート"
