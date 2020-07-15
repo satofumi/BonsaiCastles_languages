@@ -451,7 +451,8 @@
 "CannonTurret", "大筒タレット"
 "RemoveTurret", "タレットの撤去"
 
-"SubCore", "祭壇"
+"AlterAlly", "祭壇（味方）"
+"AlterEnemy", "祭壇（敵）"
 
 "Flag", "旗指し物"
 "CropRow", "畑"
@@ -698,7 +699,8 @@
 
 "RemoveBuilding description", "建物を撤去する。"
 
-"SubCore description", "制圧対象"
+"AlterAlly description", "防衛対象"
+"AlterEnemy description", "制圧対象"
 
 "BowTurret description", "矢を発射する。"
 "HinawaGunTurret description", "火薬で鉛弾を発射する。"

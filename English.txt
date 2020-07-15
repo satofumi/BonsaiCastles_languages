@@ -167,7 +167,8 @@
 "CannonTurret", "Cannon turret"
 "RemoveTurret", "Remove turret"
 
-"SubCore", "Altar"
+"AlterAlly", "Alter(ally)"
+"AlterEnemy", "Alter(enemy)"
 
 "Flag", "Flag"
 "CropRow", "Crop row"
@@ -220,7 +221,8 @@
 
 "RemoveBuilding description", "Remove the building."
 
-"SubCore description", "Target of suppression"
+"AlterAlly description", "Defense target"
+"AlterEnemy description", "Target of suppression"
 
 "BowTurret description", "Fire an arrow."
 "HinawaGunTurret description", "Fire lead bullets with gunpowder."
