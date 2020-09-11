@@ -320,6 +320,9 @@
 
 ## Game.MapView
 "Show blueprint image", "縄張り画像を表示する"
+"Attack range", "攻撃範囲"
+"Sight range", "視野"
+"Damaged buildings", "攻撃された建物"
 
 ## Game.Help
 "Help.Keyboard (1)", "キーボード (1)"
