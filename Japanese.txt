@@ -86,6 +86,7 @@
 
 "Show residents in the build phase.", "建築フェーズで住民を描画する。"
 "Show focused grid values.", "フォーカスしたグリッド情報を表示する。"
+"Show key assignments.", "キー割り当てを表示する。"
 
 
 ## Title.Load
@@ -309,6 +310,17 @@
 "Total damage skill used:", "攻撃スキル使用回数"
 "Total shield skill used:", "防御スキル使用回数"
 "Enemy weaken stage:", "敵弱体化の段階"
+
+## Game.KeyHelp
+"Complete phase", "フェーズ終了"
+"Menu", "メニュー"
+"Toggle control panel", "操作パネルの開閉"
+"Pickup focused object", "フォーカス対象を選ぶ"
+"Select the fill soil", "盛り土"
+"Rotate 90 degree", "90度回転"
+"Rotate 45 degree", "45度回転"
+"Next decoration", "次の飾り"
+"Toggle selected object", "選択を切り替える"
 
 ## Game.Worker
 "Aono", "葵乃"

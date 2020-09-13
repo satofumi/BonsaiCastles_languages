@@ -84,7 +84,7 @@
 
 "Help.description.Keyboard_1", "ESC: Cancel, menu open / close\nWASD: Move viewpoint\nLeft click: Confirm\nRight drag: Camera operation\nMiddle drag: Move viewpoint\nWheel operation: Zoom in / out camera\nEnter: Reset viewpoint\nM: Entire map open / close"
 
-"Help.description.Keyboard_2", "E: Control panel open / close\nTab: Switch between build and research panel\nR: 90 degree rotation of building\nT: 45 degree rotation (wall only), change (decoration only)\nQ: Select the building at the cursor\nV: Select the fill\nShift: Switch to the selection of removal if the building is selected, Switch to the selection of dig when the soil is selected"
+"Help.description.Keyboard_2", "E: Control panel open / close\nTab: Switch between build and research panel\nR: 90 degree rotation of building\nT: 45 degree rotation (wall only), change (decoration only)\nQ: Select the building at the cursor\nV: Select the fill soil\nShift: Switch to the selection of removal if the building is selected, Switch to the selection of dig when the soil is selected"
 
 "Help.description.Keyboard_3", "Alt + Enter: Toggle between Full Screen Mode and Windows Mode\nSpace: Press the OK button\nShift + Space : Press the button to end the phase and skip\nCtrl + s: Quick save\nCtrl + c: Copy of dragged range\nDelete: Remove all but the terrain within the area being dragged\nP: Enter photo mode."
 
