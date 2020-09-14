@@ -321,6 +321,18 @@
 "Rotate 45 degree", "45度回転"
 "Next decoration", "次の飾り"
 "Toggle selected object", "選択を切り替える"
+"Build to the top", "一番上まで建築する"
+"Place", "配置する"
+"Dig soil", "掘削する"
+"Fill soil", "盛り土する"
+"Remove", "撤去する"
+"Remove objects in the drag area", "ドラッグ領域内を削除する"
+"Copy the drag area", "ドラッグ領域のコピー"
+"Quick save", "クイックセーブ"
+"Select", "決定"
+"Photo mode", "フォトモード"
+"Pause and Resume", "一時停止と再開"
+"Entire map", "全体マップ"
 
 ## Game.Worker
 "Aono", "葵乃"
