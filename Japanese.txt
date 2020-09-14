@@ -805,6 +805,7 @@
 "Walk around", "散策する"
 
 "Replay finished.", "リプレイ終了"
+"GIF Recording", "GIF 保存中"
 
 "Get into the role", "なりきる"
 
