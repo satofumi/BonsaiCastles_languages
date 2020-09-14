@@ -231,7 +231,7 @@
 
 "BowTurret description", "Fire an arrow."
 "HinawaGunTurret description", "Fire lead bullets with gunpowder."
-"CannonTurret description", "Inflict additional damage not only on the hit enemy but also on all enemies at the landing position."
+"CannonTurret description", "Not only does it deal damage to the enemy it hits, but it also grants a slow to all enemies in the landing position."
 "RemoveTurret description", "Remove the turret."
 
 "Flag description", ""

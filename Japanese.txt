@@ -737,7 +737,7 @@
 
 "BowTurret description", "矢を発射する。"
 "HinawaGunTurret description", "火薬で鉛弾を発射する。"
-"CannonTurret description", "命中した敵だけでなく着弾位置の全ての敵に追加ダメージを与える。"
+"CannonTurret description", "命中した敵にダメージを与えるだけでなく、着弾位置の全ての敵にスローを付与する。"
 "RemoveTurret description", "タレットを撤去する。"
 
 "Flag description", ""
