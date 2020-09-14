@@ -333,6 +333,7 @@
 "Photo mode", "フォトモード"
 "Pause and Resume", "一時停止と再開"
 "Entire map", "全体マップ"
+"Change the time", "時刻を変更する"
 
 ## Game.Worker
 "Aono", "葵乃"
@@ -357,7 +358,7 @@
 
 "Help.description.Keyboard_2", "E: 建築・研究パネルの開閉\nTab: タブの切り替え\nR: 建築物の 90度回転\nT: 45度回転（壁のみ）、飾りの種類変更\nQ: カーソル先の建物を選択\nV: 盛り土を選択\nShift: 建物の選択中なら撤去の選択に切り替える\n　　   盛り土の選択中なら掘削の選択に切り替える"
 
-"Help.description.Keyboard_3", "Alt + Enter: フルスクリーンとウィンドウモードのトグル\nSpace: 決定ボタンの押下\nShift + Space: フェーズ終了およびスキップのボタンの押下\nCtrl + s: クイックセーブ\nCtrl + c: ドラッグされている範囲のコピー\nDelete: ドラッグされている範囲内の地形以外を削除\nP: フォトモードに入る"
+"Help.description.Keyboard_3", "Alt + Enter: フルスクリーンとウィンドウモードのトグル\nSpace: 決定ボタンの押下\nShift + Space: フェーズ終了およびスキップのボタンの押下\nCtrl + s: クイックセーブ\nCtrl + c: ドラッグされている範囲のコピー\nDelete: ドラッグされている範囲内の地形以外を削除\nP: フォトモードに入る\n<, >: 時刻を変更する。"
 
 "Help.Joystick", "ジョイスティック"
 "Help.description.Joystick", "Lスティック、方向ボタン: 視点の移動、ボタン選択の移動\nRスティック: カメラ操作、Rスティック押下: 視点リセット\nRトリガー + Rスティック: 拡大縮小\nB: 決定、A: キャンセル、Back: メニューを開く\nY: 建築・研究パネルを開く、X: カーソル先の建物を選択\nLボタン: 盛り土を選択、Start: 全体マップ\nL, Rボタン: 建築・研究パネルの切り替え\nRトリガー: 建築物の 90度回転、Rボタン: 45度回転\nLトリガー: 建築と撤去のトグル\nLトリガー + Back: クイックセーブ"
