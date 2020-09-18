@@ -99,7 +99,7 @@
 
 # Credit
 "Credit.Model", "モデル"
-"Credit.Sound", "音楽"
+"Credit.Sound", "音楽・効果音"
 "Credit.Image", "画像"
 "Credit.Font", "フォント"
 "Credit.Library", "ライブラリ"
@@ -107,6 +107,7 @@
 "Music Atelier Amacha", "甘茶の音楽工房"
 "Pipoya", "ぴぽや"
 "KUUSOU-KYOKUSEN", "空想曲線"
+"Nature Sound Effect: miduno", "自然音レコーディング: miduno"
 
 # MapSelect
 "Previous Map", "前のマップ"

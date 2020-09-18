@@ -34,7 +34,7 @@
 
 # Credit
 "Credit.Model", "Model"
-"Credit.Sound", "Sound"
+"Credit.Sound", "Music, Sound effect"
 "Credit.Image", "Image"
 "Credit.Font", "Font"
 "Credit.Library", "Library"
