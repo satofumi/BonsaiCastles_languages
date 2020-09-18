@@ -47,6 +47,7 @@
 
 "Mouse", "マウス"
 "Wheel", "ホイール"
+"Sensitivity", "移動感度"
 "Reverse the direction of movement with middle drag.", "ミドルドラッグでの移動方向を反転する。"
 
 "Key config", "キーコンフィグ"
