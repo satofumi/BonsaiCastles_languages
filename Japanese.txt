@@ -222,6 +222,8 @@
 "Attack Damage", "攻撃力"
 "Attack Interval", "攻撃間隔"
 "Bullets", "装弾数"
+
+"How many times will the stone wall withstand the explosion?", "石垣が爆発に何回耐えるか。"
 "How much additional damage does the bow and matchlock do when hitting from behind? The number of seconds to throw for large cylinders.", "弓と火縄銃は後ろから攻撃したときに敵体力の何パーセントの追加ダメージを与えるか。大筒のときはスローの秒数。"
 
 "Rounds", "ラウンド数"
@@ -336,6 +338,7 @@
 "Pause and Resume", "一時停止と再開"
 "Entire map", "全体マップ"
 "Change the time", "時刻を変更する"
+"Toggle custom panel", "カスタムパネルの開閉"
 
 ## Game.Worker
 "Aono", "葵乃"
