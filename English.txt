@@ -332,6 +332,7 @@
 
 ## Game.Messages
 "Collected resources:  {0}/{1}", "Collected resources:  {0} <size=14>/ {1}</size>"
+"The population is reduced to <color=red>{0}</color>.", "Due to the lack of housing, the population drops to <color=red>{0}</color> people."
 
 ## Game.Information
 "Last durability:  {0}/{1}", "Last durability:  {0} <size=14>/ {1}</size>"
