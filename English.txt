@@ -236,7 +236,7 @@
 
 "Flag description", ""
 "CropRow description", "Residents take care of crops."
-"Well description", ""
+"Well description", "Residents fetch water and carry it to the house."
 "Flower description", ""
 "Bamboo description", ""
 "CherryTree description", ""

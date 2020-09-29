@@ -747,7 +747,7 @@
 
 "Flag description", ""
 "CropRow description", "住民が作物の手入れを行う。"
-"Well description", ""
+"Well description", "住民が水を汲んで邸宅に運ぶ。"
 "Flower description", ""
 "Bamboo description", ""
 "CherryTree description", ""
