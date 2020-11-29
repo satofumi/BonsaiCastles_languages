@@ -598,7 +598,7 @@
 "Tech_Weaken_4 description", "敵の耐久値がさらに {0}% 減る。"
 
 ## Game.Campaign
-"Survive to round {0}.", "{0} ラウンドほど拠点を防衛せよ。"
+"Survive to round {0}. ({1} round left)", "{0} ラウンドほど拠点を防衛せよ。（残り {1} ラウンド）"
 "Research '{0}'.", "「{0}」を研究せよ。"
 "Research '{0}'. (Done!)", "「{0}」を研究せよ（完了）"
 
