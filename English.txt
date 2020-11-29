@@ -171,8 +171,8 @@
 "CannonTurret", "Cannon turret"
 "RemoveTurret", "Remove turret"
 
-"AlterAlly", "Alter(ally)"
-"AlterEnemy", "Alter(enemy)"
+"AltarAlly", "Altar(ally)"
+"AltarEnemy", "Altar(enemy)"
 
 "Flag", "Flag"
 "CampCurtain", "Camp Curtain"
@@ -227,8 +227,8 @@
 
 "RemoveBuilding description", "Remove the building."
 
-"AlterAlly description", "Defense target"
-"AlterEnemy description", "Target of suppression"
+"AltarAlly description", "Defense target"
+"AltarEnemy description", "Target of suppression"
 
 "BowTurret description", "Fire an arrow."
 "HinawaGunTurret description", "Fire lead bullets with gunpowder."
