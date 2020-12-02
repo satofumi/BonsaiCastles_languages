@@ -490,6 +490,8 @@
 
 "AltarAlly", "祭壇（味方）"
 "AltarEnemy", "祭壇（敵）"
+"MainCamp", "本陣"
+"CampTent", "幕舎"
 
 "Flag", "旗指し物"
 "CampCurtain", "陣幕"
@@ -742,6 +744,8 @@
 
 "AltarAlly description", "防衛対象"
 "AltarEnemy description", "制圧対象"
+"MainCamp description", ""
+"CampTent description", "仮設住居"
 
 "BowTurret description", "矢を発射する。"
 "HinawaGunTurret description", "火薬で鉛弾を発射する。"

@@ -173,6 +173,8 @@
 
 "AltarAlly", "Altar(ally)"
 "AltarEnemy", "Altar(enemy)"
+"MainCamp", "Main Camp"
+"CampTent", "Tent"
 
 "Flag", "Flag"
 "CampCurtain", "Camp Curtain"
@@ -229,6 +231,8 @@
 
 "AltarAlly description", "Defense target"
 "AltarEnemy description", "Target of suppression"
+"MainCamp description", ""
+"CampTent description", "Temporary Tent"
 
 "BowTurret description", "Fire an arrow."
 "HinawaGunTurret description", "Fire lead bullets with gunpowder."
