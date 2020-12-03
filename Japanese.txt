@@ -449,6 +449,7 @@
 "Remove building", "建物の撤去"
 "Turrets", "タレット"
 "Remove turret", "タレットの撤去"
+"Field Warfare", "野戦"
 "Decoration", "飾り"
 "For campaign", "キャンペーン用"
 
@@ -647,7 +648,7 @@
 "Can not build because there are other turret.", "他のタレットがあるため建築できません。"
 "Can not build because of water.", "水位が高いため建築できません。"
 "Can not build the wall because there are the wall.", "そこにはすでに壁があるため建築できません。"
-"You cannot build on contaminated ground.", "汚染された地面には建築できません。"
+"Can not build on contaminated ground.", "汚染された地面には建築できません。"
 "Can not fill the soil higher than this.", "これ以上は盛り土を行えません。"
 "Can not dig the soil deeper than this.", "これ以上は掘削できません。"
 "Can not build because the height is not aligned.", "地面の高さが同じでないため建築できません。"
@@ -659,6 +660,8 @@
 "Can not dig the soil because there are building.", "建物があるため掘削できません。"
 "Fill the soil first to build the ishigaki.", "石垣にするための盛り土を行ってください。"
 "Can not build the ishigaki deeper than this.", "これ以上深い位置には石垣を作成できません。"
+"Can not fill the soil on contaminated ground.", "汚染された地面には盛り土できません。"
+"Can not dig the soil on contaminated ground.", "汚染された地面は掘削できません。"
 
 "Can not build because the building is too close to the boundary.", "境界に近いため建築できません。"
 "Can not fill the soil because the grid is too close to the boundary.", "境界に近いため盛り土を行えません。"
