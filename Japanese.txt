@@ -664,6 +664,7 @@
 "Can not dig the soil on contaminated ground.", "汚染された地面は掘削できません。"
 
 "Can not build because the building is too close to the boundary.", "境界に近いため建築できません。"
+"Can not remove because the building is too close to the boundary.", "境界に近いため撤去できません。"
 "Can not fill the soil because the grid is too close to the boundary.", "境界に近いため盛り土を行えません。"
 "Can not dig the soil because the grid is too close to the boundary.", "境界に近いため掘削できません。"
 "Can not level the ground because the grid is too close to the boundary.", "境界に近いため整地できません。"
