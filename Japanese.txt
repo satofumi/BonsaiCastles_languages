@@ -693,6 +693,8 @@
 "Collected resources:  {0}/{1}", "収集した資源:  {0} <size=14>/ {1}</size>"
 "Back to Build phase", "建築フェーズに戻る"
 "Back to Place units", "ユニットの配置に戻る"
+"Next stage", "次のステージへ"
+"Back to stage select", "ステージ選択に戻る"
 
 "Research period: {0} months.", "研究期間:  {0} ラウンド"
 "Researching: {0}", "{0} の研究を開始しました。"
