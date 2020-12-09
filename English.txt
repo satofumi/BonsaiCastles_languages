@@ -380,11 +380,17 @@
 
 
 # Title.PlayMenu
-"NewGame.Description", "This is the basic game mode whose purpose is to collect resources, analyze enemies, and win the final defense battle."
-"Tutorial.Description", "A game mode for learning basic rules and operation methods."
+"MapEditor.Description", "You can create maps for custom games and map sharing."
+"MapShare.Description", "You can share the map via the workshop. The mode of the map can also be changed."
+"ChangeAppearance.Description", "Residents and buildings can change the look and feel of the building."
+
+"Tutorial.Description", "It is a game scenario where you can learn the basic rules and operations."
+"CustomGame.Description", "It is a game mode of play in which you can freely change the parameters of the turrets, buildings, and enemies."
+"WatchReplay.Description", "You can watch the castle being built and output as a GIF."
+"Ranking.Description", "Start an endless mode game on the same map and compete for how many rounds you have reached. You can browse and participate in the ranking, and after the ranking, you can browse the play data of others."
+"CastleSeminar.Description", "Introduce the rules of the game in scenario format."
+
+"NormalMode.Description", "This is the basic game mode whose purpose is to collect resources, analyze enemies, and win the final defense battle."
 "CreativeMode.Description", "This is a game mode where resources can be used indefinitely in order to build a castle freely. You can also spawn a specified number of enemies to attack the castle."
 "EndlessMode.Description", "This is a game mode in which the castle is extended to defend and compete in the rounds where the defense was successful. Various available points are set more than the normal mode."
 "SiegeMode.Description", "This is a game mode in which the saved castle and enemy units are placed to siege."
-"WatchReplay.Description", "You can see the castle being added."
-"Ranking.Description", "Start an endless mode game on the same map and compete for how many rounds you have reached. You can browse and participate in the ranking, and after the ranking, you can browse the play data of others."
-"CastleSeminar.Description", "Introduce the rules of the game in scenario format."

@@ -2,7 +2,7 @@
 
 # Title
 "Continue", "再開する"
-"Play Game", "ゲーム"
+"Play Game", "ゲームを始める"
 "Map Editor", "マップエディタ"
 "Map Share", "マップ共有"
 "Watch Replay", "リプレイを見る"
@@ -16,6 +16,7 @@
 
 "Normal Mode", "通常モード"
 "Load Game", "ロード"
+"New Game", "新しく始める"
 "Load Replay", "リプレイの読み込み"
 "Start a Siege", "攻城の開始"
 "Start infiltration", "潜入の開始"
@@ -857,14 +858,20 @@
 
 
 # Title.PlayMenu
-"NewGame.Description", "資源を集めて敵の解析を行い、最後の防衛戦に勝利することが目的の基本となるゲームモードです。"
-"Tutorial.Description", "基本的なルールと操作方法を学ぶためのゲームモードです。"
+"MapEditor.Description", "カスタムゲームやマップ共有のためのマップを作成できます。"
+"MapShare.Description", "マップをワークショップ経由で共有します。マップのモードも変更できます。"
+"ChangeAppearance.Description", "住民や建物の見た目を変更できます。"
+
+"Tutorial.Description", "基本的なルールと操作方法を学べるゲームシナリオです。"
+"CustomGame.Description", "タレット、建物、敵のパラメータを自由に変更して遊ぶゲームモードです。"
+"WatchReplay.Description", "城郭が増築される様子を眺めたり、GIF 出力したりできます。"
+"Ranking.Description", "同じマップでエンドレスモードのゲームを開始して何ラウンドまで到達できたかを競います。ランキングの閲覧と参加が行え、ランキング後は他人のプレイデータを閲覧できます。"
+"CastleSeminar.Description", "ゲームのルールをノベルゲーム風に紹介します。"
+
+"NormalMode.Description", "資源を集めて敵の解析を行い、最後の防衛戦に勝利することが目的の基本となるゲームモードです。"
 "CreativeMode.Description", "築城を自由に行うために資源が無限に使えるゲームモードです。指定した数の敵を出現させて城を攻撃させることもできます。"
 "EndlessMode.Description", "城郭を拡張して防衛を行い、防衛できたラウンドを競うゲームモードです。入手できる各種ポイントは通常モードより多めです。"
 "SiegeMode.Description", "保存されている城郭データを読み込み、敵側のユニットを配置して攻城を行うゲームモードです。"
-"WatchReplay.Description", "城郭が増築される様子を眺めることができます。"
-"Ranking.Description", "同じマップでエンドレスモードのゲームを開始して何ラウンドまで到達できたかを競います。ランキングの閲覧と参加が行え、ランキング後は他人のプレイデータを閲覧できます。"
-"CastleSeminar.Description", "ゲームのルールをシナリオ形式で紹介します。"
 
 
 # Workshop
