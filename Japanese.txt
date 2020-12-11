@@ -606,6 +606,8 @@
 "Research '{0}'.", "「{0}」を研究せよ。"
 "Research '{0}'. (Done!)", "「{0}」を研究せよ（完了）"
 "Take away the contaminated altar. ({0} altars left)", "汚染された祭壇を奪取せよ（残り {0}）"
+"The building above the contaminated area has been destroyed.", "汚染エリアの上の建物が破壊されました。"
+"The turret above the contaminated area has been destroyed.", "汚染エリアの上のタレットが破壊されました。"
 
 ## Game.Messages
 "- ", "・"
