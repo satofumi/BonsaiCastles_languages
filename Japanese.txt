@@ -801,7 +801,7 @@
 "Bullets:  {0}/{1}", "残弾数:  {0} <size=14>/ {1}</size>"
 "Max Turrets:  {0}", "設置可能タレット数:  {0}"
 "<color=red>Lack of Spirits</color>", "<color=red>霊力不足</color>"
-"<color=red>No route to base</color>", "<color=red>拠点への経路なし</color>"
+"<color=red>No route to base, so it will be fed.</color>", "<color=red>拠点への経路がないため 給弾されません。</color>"
 
 "Enemy.Counts:  {0}", "出現数:  {0}"
 
