@@ -92,7 +92,7 @@
 "Help.description.Build and Remove", "Building and removal can be done during the construction phase. If you make a mistake, you can remove the building and the resources will be refunded."
 
 "Help.Enemy Research", "Enemy Research"
-"Help.description.Enemy Research", "The game is complete when you have completed all of the “Enemy Research” on the research panel. Defeat enemies in the defense phase, collect resources in the gather phase, and research using resources in the research phase."
+"Help.description.Enemy Research", "In normal mode, the game is complete when you have completed all of the \"Enemy Research\" on the research panel. Defeat enemies in the defense phase, collect resources in the gather phase, and research using resources in the research phase."
 
 "Help.Base", "Base"
 "Help.description.Base", "The first residence will be the base, and if the base is destroyed, the game will be over. Buildings and turrets that cannot be moved from the base will not function properly.\nTo change the location, left-click on the new residence and click the 'Set as a base' button in the lower right panel."
@@ -104,7 +104,7 @@
 "Help.description.Reload", "Turret bullets are supplied by supply units that come out of the house. The number of supply units that appear at the same time is the same as the number of turrets that can be placed in the residence. Supply units will not appear from residences that are not in contact with the base."
 
 "Help.Vision and Range", "Vision and Range"
-"Help.description.Vision and Range", "The enemy moves to the turret range or the sight of the spectator at the beginning of the defense phase."
+"Help.description.Vision and Range", "The enemy moves to the turret sight or the sight of the spectator at the beginning of the defense phase."
 
 "Help.Enemies defense", "Enemies defense"
 "Help.description.Enemies defense", "Enemies are defensive in every direction and reduce turret damage. By placing turrets where you can attack enemies from the side or from behind, you can gain an advantage in defense. Enemies attacking the building will have their defense strength reduced, and their damage will be increased by 1.5 times."

@@ -49,7 +49,7 @@
 "Mouse", "マウス"
 "Wheel", "ホイール"
 "Sensitivity", "移動感度"
-"Reverse the direction of movement with middle drag.", "ミドルドラッグでの移動方向を反転する。"
+"Reverse the direction of movement with middle drag.", "中ボタンドラッグでの移動方向を反転する。"
 
 "Key config", "キーコンフィグ"
 "Game controller", "コントローラ"
@@ -360,9 +360,9 @@
 "Help.Keyboard (2)", "キーボード (2)"
 "Help.Keyboard (3)", "キーボード (3)"
 
-"Help.description.Keyboard_1", "ESC: キャンセル、メニューの開閉\nWASD: 視点の移動\n左クリック: 決定\n右ドラッグ: カメラ操作\nミドルドラッグ： 視点の移動\nホイール操作: カメラのズームイン・アウト\nEnter: 視点リセット\nM: 全体マップの開閉"
+"Help.description.Keyboard_1", "ESC: キャンセル、メニューの開閉\nWASD: 視点の移動\n左クリック: 決定\n右ドラッグ: カメラ操作\n中ボタンドラッグ： 視点の移動\nホイール操作: カメラのズームイン・アウト\nEnter: 視点リセット\nM: 全体マップの開閉"
 
-"Help.description.Keyboard_2", "E: 建築・研究パネルの開閉\nTab: タブの切り替え\nR: 建築物の 90度回転\nT: 45度回転（壁のみ）、飾りの種類変更\nQ: カーソル先の建物を選択\nV: 盛り土を選択\nShift: 建物の選択中なら撤去の選択に切り替える\n　　   盛り土の選択中なら掘削の選択に切り替える"
+"Help.description.Keyboard_2", "E: 建築・研究パネルの開閉\nTab: タブの切り替え\nR: 建築物の 90度回転\nT: 45度回転（壁のみ）、飾りの種類変更\nQ: フォーカス対象を選ぶ\nV: 盛り土を選択\nShift: 建物の選択中なら撤去の選択に切り替える\n　　   盛り土の選択中なら掘削の選択に切り替える"
 
 "Help.description.Keyboard_3", "Alt + Enter: フルスクリーンとウィンドウモードのトグル\nSpace: 決定ボタンの押下\nShift + Space: フェーズ終了およびスキップのボタンの押下\nCtrl + s: クイックセーブ\nCtrl + c: ドラッグされている範囲のコピー\nDelete: ドラッグされている範囲内の地形以外を削除\nP: フォトモードに入る\n<, >: 時刻を変更する。"
 
@@ -373,7 +373,7 @@
 "Help.description.Build and Remove", "建物の建築と撤去は建築フェーズで行えます。\n間違って建築を行った場合、その建物を撤去すれば資源は払い戻されます。"
 
 "Help.Enemy Research", "敵の研究"
-"Help.description.Enemy Research", "研究パネルにある「敵の研究」を全て終えるとゲームクリアです。防衛フェーズで敵を倒し、収集フェーズで資源を集め、研究フェーズで資源を使って研究を行いましょう。"
+"Help.description.Enemy Research", "通常モードでは、研究パネルにある「敵の研究」を全て終えるとゲームクリアです。防衛フェーズで敵を倒し、収集フェーズで資源を集め、研究フェーズで資源を使って研究を行いましょう。"
 
 "Help.Base", "拠点"
 "Help.description.Base", "最初に建てた住居が拠点になり、拠点を壊されるとゲームオーバーになります。拠点から移動できない位置にある建物やタレットは適切に機能しません。\n拠点を変更するには変更先の住居を左クリックして、右下のパネルの「拠点に設定する」ボタンを押します。"
@@ -385,7 +385,7 @@
 "Help.description.Reload", "タレットの弾の補給は住居から出てくる補給ユニットが行います。同時に出現する補給ユニット数は住居に配置できるタレット数と同じです。拠点と連絡されていない住居からは補給ユニットは出現しません。"
 
 "Help.Vision and Range", "視野と敵の初期位置"
-"Help.description.Vision and Range", "敵は防衛フェーズの開始時にタレットの射程か物見櫓の視野まで移動してきます。"
+"Help.description.Vision and Range", "敵は防衛フェーズの開始時にタレットによる視野か物見櫓の視野まで移動してきます。"
 
 "Help.Enemies defense", "敵の向きと防御力"
 "Help.description.Enemies defense", "敵は向きごとに防御力がありタレットによるダメージを減らします。横や後ろから敵を攻撃できる位置にタレットを配置することで防衛を有利に行なえます。建物を攻撃中の敵は防御力が減少し、さらにダメージ量が 1.5 倍になります。"
