@@ -384,7 +384,7 @@
 "MapShare.Description", "You can share the map via the workshop. The mode of the map can also be changed."
 "ChangeAppearance.Description", "Residents and buildings can change the look and feel of the building."
 
-"Tutorial.Description", "It is a game scenario where you can learn the basic rules and operations."
+"Campaign.Description", "It is a game scenario where you can learn the basic rules and operations."
 "CustomGame.Description", "It is a game mode of play in which you can freely change the parameters of the turrets, buildings, and enemies."
 "WatchReplay.Description", "You can watch the castle being built and output as a GIF."
 "Ranking.Description", "Start an endless mode game on the same map and compete for how many rounds you have reached. You can browse and participate in the ranking, and after the ranking, you can browse the play data of others."

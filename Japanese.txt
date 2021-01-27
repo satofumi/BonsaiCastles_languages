@@ -20,7 +20,6 @@
 "Load Replay", "リプレイの読み込み"
 "Start a Siege", "攻城の開始"
 "Start infiltration", "潜入の開始"
-"Tutorial", "チュートリアル"
 "Campaign", "キャンペーン"
 "Creative Mode", "クリエイティブモード"
 "Endless Mode", "エンドレスモード"
@@ -865,7 +864,7 @@
 "MapShare.Description", "マップをワークショップ経由で共有します。マップのモードも変更できます。"
 "ChangeAppearance.Description", "住民や建物の見た目を変更できます。"
 
-"Tutorial.Description", "基本的なルールと操作方法を学べるゲームシナリオです。"
+"Campaign.Description", "基本的なルールと操作方法を学べるゲームシナリオです。"
 "CustomGame.Description", "タレット、建物、敵のパラメータを自由に変更して遊ぶゲームモードです。"
 "WatchReplay.Description", "城郭が増築される様子を眺めたり、GIF 出力したりできます。"
 "Ranking.Description", "同じマップでエンドレスモードのゲームを開始して何ラウンドまで到達できたかを競います。ランキングの閲覧と参加が行え、ランキング後は他人のプレイデータを閲覧できます。"
