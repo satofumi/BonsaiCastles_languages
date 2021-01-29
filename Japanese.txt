@@ -109,6 +109,7 @@
 "Pipoya", "ぴぽや"
 "KUUSOU-KYOKUSEN", "空想曲線"
 "Nature Sound Effect: miduno", "自然音レコーディング: miduno"
+"Free stock Asobi", "フリー素材あそび"
 
 # MapSelect
 "Previous Map", "前のマップ"
