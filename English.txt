@@ -16,6 +16,12 @@
 "Quality.Very High", "Very High"
 "Quality.Ultra", "Ultra"
 
+"Weather.Default", "Fine"
+"Weather.Rain", "Rain"
+"Weather.Mist", "Mist"
+"Weather.Petals", "Petals"
+
+
 "RankingState.InProgress", "In progress"
 "RankingState.Ended", "Ended"
 "RankingState.Scheduled", "Scheduled"

@@ -90,6 +90,12 @@
 "Show key assignments.", "キー割り当てを表示する。"
 "Show the panel for blueprint image.", "縄張り画像のパネルを表示する。"
 
+"Weather", "天候"
+"Weather.Default", "晴れ"
+"Weather.Rain", "雨"
+"Weather.Mist", "濃霧"
+"Weather.Petals", "桜吹雪"
+
 
 ## Title.Load
 "Delete", "削除"
