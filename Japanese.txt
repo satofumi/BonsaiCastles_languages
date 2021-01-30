@@ -86,8 +86,9 @@
 "Times of Day", "時刻"
 
 "Show residents in the build phase.", "建築フェーズで住民を描画する。"
-"Show focused grid values.", "フォーカスしたグリッド情報を表示する。"
+"Show focused grid position values.", "フォーカスしたグリッド座標の値を表示する。"
 "Show key assignments.", "キー割り当てを表示する。"
+"Show the panel for blueprint image.", "縄張り画像のパネルを表示する。"
 
 
 ## Title.Load
