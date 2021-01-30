@@ -343,6 +343,7 @@
 "Quick save", "クイックセーブ"
 "Select", "決定"
 "Photo mode", "フォトモード"
+"Show option panel", "オプションパネルを開く"
 "Pause and Resume", "一時停止と再開"
 "Entire map", "全体マップ"
 "Change the time", "時刻を変更する"
