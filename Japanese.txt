@@ -873,6 +873,9 @@
 "MapShare.Description", "マップをワークショップ経由で共有します。マップのモードも変更できます。"
 "ChangeAppearance.Description", "住民や建物の見た目を変更できます。"
 
+
+"It is available after clearing the second stage of the campaign.", "キャンペーンの２つ目のステージのクリア後から利用できます。"
+
 "Campaign.Description", "基本的なルールと操作方法を学べるゲームシナリオです。"
 "CustomGame.Description", "タレット、建物、敵のパラメータを自由に変更して遊ぶゲームモードです。"
 "WatchReplay.Description", "城郭が増築される様子を眺めたり、GIF 出力したりできます。"
