@@ -349,6 +349,10 @@
 "Change the time", "時刻を変更する"
 "Toggle custom panel", "カスタムパネルの開閉"
 
+"Move", "移動"
+"Jump", "ジャンプ"
+"Movement speed up", "移動速度アップ"
+
 ## Game.Worker
 "Aono", "葵乃"
 "Chikage", "千景"
