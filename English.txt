@@ -97,6 +97,9 @@
 "Help.Build and Remove", "Build and Remove"
 "Help.description.Build and Remove", "Building and removal can be done during the construction phase. If you make a mistake, you can remove the building and the resources will be refunded."
 
+"Help.Fill and Dig", "Fill soil and Dig soil"
+"Help.description.Fill and Dig", "Filling and Digging of the ground can be done in the construction phase. You can change the height of the ground by performing these operations. \If you accidentally fill or dig soil, you can restore the height of the ground and the resources will be refunded. \nYou can change the height of the ground at once by filling or digging the area you dragged to the left."
+
 "Help.Enemy Research", "Enemy Research"
 "Help.description.Enemy Research", "In normal mode, the game is complete when you have completed all of the \"Enemy Research\" on the research panel. Defeat enemies in the defense phase, collect resources in the gather phase, and research using resources in the research phase."
 
@@ -104,7 +107,7 @@
 "Help.description.Base", "The first residence will be the base, and if the base is destroyed, the game will be over. Buildings and turrets that cannot be moved from the base will not function properly.\nTo change the location, left-click on the new residence and click the 'Set as a base' button in the lower right panel."
 
 "Help.Turret", "Turret"
-"Help.description.Turret", "Turrets include bows, rope guns, and large tubes. Each turret has a range, and the range is limited if the ray is blocked by buildings or terrain. The bow and line guns have a straight line, and the large tube has a parabola."
+"Help.description.Turret", "Turrets include bows, matchlock, and cannon. Each turret has a range, and the range is limited if the ray is blocked by buildings or terrain. The bow and matchlock turret have a straight line, and the cannon turret has a parabola.\nThe field of view of the cannon turret is narrower than the maximum range, so you need to secure your field of view with a watchtower to attack at maximum range."
 
 "Help.Reload", "Ammunition supply"
 "Help.description.Reload", "Turret bullets are supplied by supply units that come out of the house. The number of supply units that appear at the same time is the same as the number of turrets that can be placed in the residence. Supply units will not appear from residences that are not in contact with the base."
