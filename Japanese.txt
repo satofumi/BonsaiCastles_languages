@@ -113,6 +113,7 @@
 "Credit.Library", "ライブラリ"
 
 "Music Atelier Amacha", "甘茶の音楽工房"
+"Otowabi", "おとわび"
 "Pipoya", "ぴぽや"
 "KUUSOU-KYOKUSEN", "空想曲線"
 "Nature Sound Effect: miduno", "自然音レコーディング: miduno"
