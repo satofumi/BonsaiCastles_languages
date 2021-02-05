@@ -445,6 +445,12 @@
 "Help.Nawabari", "縄張り"
 "Help.description.Nawabari", "縄張りパネルを利用すると、選択した範囲の建築物をコピーし、他の場所や別のマップデータに建築することができます。"
 
+"Help.Altar", "祭壇"
+"Help.description.Altar", "祭壇のあるステージでは、敵の祭壇を攻撃すると味方の祭壇にできます。敵の祭壇から一定範囲は汚染エリアになり建築も侵入もできません。また敵の祭壇からは一定数の敵が出現します。"
+
+"Help.MainCamp", "本陣"
+"Help.description.MainCamp", "野戦をテーマにしたステージでは、住居を建築できない代わりに、本陣と陣幕が用意されています。本陣の位置は変更できません。"
+
 
 ## Game.Save
 "Save Game", "ゲームの保存"
@@ -469,7 +475,6 @@
 "Remove building", "建物の撤去"
 "Turrets", "タレット"
 "Remove turret", "タレットの撤去"
-"Field Warfare", "野戦"
 "Decoration", "飾り"
 "For campaign", "キャンペーン用"
 

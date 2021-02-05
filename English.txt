@@ -154,6 +154,12 @@
 "Help.Nawabari", "Nawabari"
 "Help.description.Nawabari", "With Nawabari panels, you can copy selected areas of the building and build them elsewhere or on different map data."
 
+"Help.Altar", "Altar"
+"Help.description.Altar", "In stages with altars, you can turn an enemy altar into a friendly altar by attacking it. A certain area from the enemy altar will become a contaminated area that cannot be built or invaded. A certain number of enemies will also appear from enemy altars."
+
+"Help.MainCamp", "Main camp"
+"Help.description.MainCamp", "In the field-themed stages, you cannot build houses, but instead have a main camp and a camp curtain. The location of the main camp cannot be changed."
+
 
 ## Game.Build
 "FlatYagura", "Single-story yagura"
