@@ -167,6 +167,17 @@
 "MapEditor.Start", "開始"
 "The size must be {0} or more on one side.", "サイズの１辺は {0} 以上にしてください。"
 
+# MapShare
+"Load Data", "データの読み込み"
+"Save to PC", "PC に保存する"
+"Load from PC", "PC から読み込む"
+"Save as", "保存フォーマット"
+"UploadPanel.Title", "タイトル"
+"UploadPanel.Description", "説明"
+"Add replay file.", "リプレイファイルを追加する。"
+"Download & Save", "ダウンロード & 保存"
+"Load & Upload", "読み込み & アップロード"
+
 # Custom
 "The setting have been loaded.", "設定が読み込まれました。"
 

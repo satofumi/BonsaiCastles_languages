@@ -62,6 +62,10 @@
 "MapEditor.Size", "Map size"
 "MapEditor.Start", "Start"
 
+# MapShare
+"UploadPanel.Title", "Title"
+"UploadPanel.Description", "Description"
+
 # Custom
 "NewCustomGame.Description", "Create a new setting and start your custom game."
 "CustomLoadGame.Description", "Read the existing save data, change the settings and continue."
