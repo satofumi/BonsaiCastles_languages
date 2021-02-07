@@ -168,15 +168,17 @@
 "The size must be {0} or more on one side.", "サイズの１辺は {0} 以上にしてください。"
 
 # MapShare
+"Steam Workshop Browser", "Workshop ブラウザ"
 "Load Data", "データの読み込み"
 "Save to PC", "PC に保存する"
 "Load from PC", "PC から読み込む"
 "Save as", "保存フォーマット"
-"UploadPanel.Title", "タイトル"
-"UploadPanel.Description", "説明"
 "Add replay file.", "リプレイファイルを追加する。"
 "Download & Save", "ダウンロード & 保存"
 "Load & Upload", "読み込み & アップロード"
+"Title", "タイトル"
+"Description", "説明"
+"File name", "ファイル名"
 
 # Custom
 "The setting have been loaded.", "設定が読み込まれました。"
@@ -916,6 +918,9 @@
 
 
 # Workshop
+"Steam Workshop Upload", "Workshop へのアップロード"
+"Enter name here...", "タイトル"
+"Enter description here...", "説明"
 "Nawabari Added!", "縄張りを追加しました！"
 "Item successfully added.", "アイテムが正常に追加されました。"
 "Already added.", "すでに追加されています。"
@@ -945,6 +950,7 @@
 "Flip left and right.", "左右反転する。"
 "Magnification power", "拡大率"
 "Open the guide.", "ガイドを開く。"
+"Voxel file upload", "Voxel ファイルのアップロード"
 "The Voxel file has not been registered.", "Voxel ファイルが登録されていません。"
 
 "https://steamcommunity.com/sharedfiles/filedetails/?id=2093041128", "https://steamcommunity.com/sharedfiles/filedetails/?id=2069127348"
