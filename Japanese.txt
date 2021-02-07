@@ -954,3 +954,8 @@
 "The Voxel file has not been registered.", "Voxel ファイルが登録されていません。"
 
 "https://steamcommunity.com/sharedfiles/filedetails/?id=2093041128", "https://steamcommunity.com/sharedfiles/filedetails/?id=2069127348"
+
+
+# Traial
+"Trial Version", "体験版"
+"--- This is not available in the trial version. ---", "--- 体験版では利用できません ---"
