@@ -67,6 +67,7 @@
 "Like", "いいね"
 "Load save data", "ロードする"
 "View replay", "リプレイを見る"
+"View save data", "閲覧する"
 "Join", "参加する"
 "Period:  ", "期間:  "
 "RankingState.InProgress", "進行中"
