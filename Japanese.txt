@@ -64,6 +64,7 @@
 
 "Ranking", "ランキング"
 "Round", "ラウンド"
+"Like", "いいね"
 "Load save data", "ロードする"
 "View replay", "リプレイを見る"
 "Join", "参加する"
