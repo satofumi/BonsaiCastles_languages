@@ -816,6 +816,7 @@
 "KomaInu description", ""
 "StoneLantern description", ""
 "Archway description", ""
+"Shrine description", "住民がお参りをします。"
 "StreetStall description", "住民が野菜を売る。"
 "Bonfire description", "夜には火がくべられる。"
 "SteepSlope description", ""
