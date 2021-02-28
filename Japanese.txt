@@ -73,6 +73,7 @@
 "RankingState.InProgress", "進行中"
 "RankingState.Ended", "終了"
 "RankingState.Scheduled", "開催予定"
+"Build castles, get likes, and aim for the top of the rankings!", "城郭を作って「いいね」をもらってランキング上位を目指そう！"
 
 "Connected.", "サーバに接続しました。"
 "Connection failure.", "サーバとの接続に失敗しました。"
@@ -547,6 +548,7 @@
 "KomaInu", "狛犬"
 "StoneLantern", "石灯籠"
 "Archway", "鳥居"
+"Shrine", "神社"
 "StreetStall", "露店"
 "Bonfire", "篝火"
 
