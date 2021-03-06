@@ -837,8 +837,8 @@
 "Last defeats:  {0}", "直前の撃破数:  {0}"
 "Defeats:  {0}", "撃破数:  {0}"
 "Total defeats:  {0}", "総撃破数:  {0}"
-"Damage:  {0}", "ダメージ:  {0}"
-"Current damage:  {0}", "今回のダメージ:  {0}"
+"Last damage:  {0}", "直前のダメージ:  {0}"
+"Current damage:  {0}", "ダメージ:  {0}"
 "Total damage:  {0}", "総ダメージ:  {0}"
 "Look around", "見渡す"
 

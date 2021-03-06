@@ -371,6 +371,7 @@
 "  Side: {0} %", "  Side: {0} <size=12>%</size>"
 "  Back: {0} %", "  Back: {0} <size=12>%</size>"
 "Holding:  {0}/{1}", "Holding:  {0} <size=14>/ {1}</size>"
+"Current damage:  {0}", "Damage:  {0}"
 
 
 ## Game.ClockPanel
