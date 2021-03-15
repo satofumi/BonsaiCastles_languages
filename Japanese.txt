@@ -234,6 +234,9 @@
 "Initialize Normal Game (Difficult) settings", "通常モード（難しい）に初期化する"
 "Initialize Normal Game (Insane) settings", "通常モード（むり）に初期化する"
 "Initialize Endless mode settings", "エンドレスモードに初期化する"
+"Reset to round 1", "ラウンド１にリセットする"
+"Remove all buildings and decorations", "全ての建物と飾りを取り除く"
+"Remove all turrets", "全てのタレットを取り除く"
 
 "Build Point (Cost)", "建築ポイント(コスト)"
 "Spirit Point (Cost)", "霊力(コスト)"
