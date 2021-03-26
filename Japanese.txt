@@ -110,6 +110,7 @@
 
 # Credit
 "Credit.Model", "モデル"
+"Credit.Illust", "イラスト"
 "Credit.Sound", "音楽・効果音"
 "Credit.Image", "画像"
 "Credit.Font", "フォント"

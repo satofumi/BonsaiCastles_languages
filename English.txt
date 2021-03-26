@@ -40,6 +40,7 @@
 
 # Credit
 "Credit.Model", "Model"
+"Credit.Illust", "Illust"
 "Credit.Sound", "Music, Sound effect"
 "Credit.Image", "Image"
 "Credit.Font", "Font"
