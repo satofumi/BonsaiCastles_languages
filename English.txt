@@ -100,13 +100,13 @@
 "Help.description.Keyboard_3", "Alt + Enter: Toggle between Full Screen Mode and Windows Mode\nSpace: Press the OK button\nShift + Space : Press the button to end the phase and skip\nCtrl + s: Quick save\nCtrl + c: Copy of dragged range\nDelete: Remove all but the terrain within the area being dragged\nP: Enter photo mode.\n<, >: Change the time."
 
 "Help.Build and Remove", "Build and Remove"
-"Help.description.Build and Remove", "Building and removal can be done during the construction phase. If you make a mistake, you can remove the building and the resources will be refunded."
+"Help.description.BuildAndRemove", "Building and removal can be done during the construction phase. If you make a mistake, you can remove the building and the resources will be refunded."
 
 "Help.Fill and Dig", "Fill soil and Dig soil"
-"Help.description.Fill and Dig", "Filling and Digging of the ground can be done in the construction phase. You can change the height of the ground by performing these operations. \If you accidentally fill or dig soil, you can restore the height of the ground and the resources will be refunded. \nYou can change the height of the ground at once by filling or digging the area you dragged to the left."
+"Help.description.FillAndDig", "Filling and Digging of the ground can be done in the construction phase. You can change the height of the ground by performing these operations. \If you accidentally fill or dig soil, you can restore the height of the ground and the resources will be refunded. \nYou can change the height of the ground at once by filling or digging the area you dragged to the left."
 
 "Help.Enemy Research", "Enemy Research"
-"Help.description.Enemy Research", "In normal mode, the game is complete when you have completed all of the \"Enemy Research\" on the research panel. Defeat enemies in the defense phase, collect resources in the gather phase, and research using resources in the research phase."
+"Help.description.EnemyResearch", "In normal mode, the game is complete when you have completed all of the \"Enemy Research\" on the research panel. Defeat enemies in the defense phase, collect resources in the gather phase, and research using resources in the research phase."
 
 "Help.Base", "Base"
 "Help.description.Base", "The first residence will be the base, and if the base is destroyed, the game will be over. Buildings and turrets that cannot be moved from the base will not function properly.\nTo change the location, left-click on the new residence and click the 'Set as a base' button in the lower right panel."
@@ -118,10 +118,10 @@
 "Help.description.Reload", "Turret bullets are supplied by supply units that come out of the house. The number of supply units that appear at the same time is the same as the number of turrets that can be placed in the residence. Supply units will not appear from residences that are not in contact with the base."
 
 "Help.Vision and Range", "Vision and Range"
-"Help.description.Vision and Range", "The enemy moves to the turret sight or the sight of the spectator at the beginning of the defense phase."
+"Help.description.VisionAndRange", "The enemy moves to the turret sight or the sight of the spectator at the beginning of the defense phase."
 
 "Help.Enemies defense", "Enemies defense"
-"Help.description.Enemies defense", "Enemies are defensive in every direction and reduce turret damage. By placing turrets where you can attack enemies from the side or from behind, you can gain an advantage in defense. Enemies attacking the building will have their defense strength reduced, and their damage will be increased by 1.5 times."
+"Help.description.EnemiesDefense", "Enemies are defensive in every direction and reduce turret damage. By placing turrets where you can attack enemies from the side or from behind, you can gain an advantage in defense. Enemies attacking the building will have their defense strength reduced, and their damage will be increased by 1.5 times."
 
 "Help.Wall", "Wall"
 "Help.description.Wall", "The spider prevents enemy attacks until it is destroyed. If you place a bow turret and matchlock turret at the same position as the wall, a space will be created on the wall and you can attack the enemy behind the wall."
@@ -139,16 +139,19 @@
 "Help.description.Skill", "By studying, you will be able to use attack and defense skills. Attack skills damage enemies within range and slow down their movement speed. Defense skills grant shields to buildings within range. Spirit power is consumed to activate skills."
 
 "Help.Enemy and Resources", "Enemy and Resources"
-"Help.description.Enemy and Resources", "If you defeat the enemy in the defense phase, the enemy will drop resources. Resources can be collected by the residents in the gather phase, bringing them to their homes."
+"Help.description.EnemyAndResources", "If you defeat the enemy in the defense phase, the enemy will drop resources. Resources can be collected by the residents in the gather phase, bringing them to their homes."
 
 "Help.Enemy vision", "Enemy vision"
-"Help.description.Enemy vision", "You can experience the enemy point of view by pressing the "Get into the role" button from the lower right panel that appears when you click on the enemy in the defense phase. Press the ESC key to quit."
+"Help.description.EnemyVision", "You can experience the enemy point of view by pressing the "Get into the role" button from the lower right panel that appears when you click on the enemy in the defense phase. Press the ESC key to quit."
+
+"Help.Enemy route", "Enemy attack route"
+"Help.description.EnemyRoute", "Enemies will attack your base by routes that are easy to travel. Build moats and walls to guide the enemy, and place turrets where you can attack them from the side or behind.\nSince turrets cannot pass through, make sure you don't block the enemy's attack routes by placing them in a row."
 
 "Help.Evolved enemy", "Evolved enemy"
-"Help.description.Evolved enemy", "When there are three or more enemies in a nest, the third enemy from that nest will appear evolved. Evolved enemies have increased physical strength and a much higher ability to climb walls. Evolved enemies have slightly different colors."
+"Help.description.EvolvedEnemy", "When there are three or more enemies in a nest, the third enemy from that nest will appear evolved. Evolved enemies have increased physical strength and a much higher ability to climb walls. Evolved enemies have slightly different colors."
 
 "Help.Resource type", "Resource type"
-"Help.description.Resource type", "Population: Increase before the build phase. The upper limit is determined by the number of residences.\nBuild points: Consumed when building, filling and excavating. Restored before the build phase.\nSpirit points: Necessary for turret placement and skill activation. Temporarily increases over time during the defense phase.\nResources: Used when conducting research and building some buildings. The upper limit is determined by the base building."
+"Help.description.ResourceType", "Population: Increase before the build phase. The upper limit is determined by the number of residences.\nBuild points: Consumed when building, filling and excavating. Restored before the build phase.\nSpirit points: Necessary for turret placement and skill activation. Temporarily increases over time during the defense phase.\nResources: Used when conducting research and building some buildings. The upper limit is determined by the base building."
 
 "Help.Worker", "Worker"
 "Help.description.Worker", "Build points and Spirit power increase in proportion to population. Worker also collect resources during the gather phase. Worker can only climb up to one step above and below and are evacuated to the base during the defense phase."
