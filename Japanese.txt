@@ -500,6 +500,7 @@
 "Remove turret", "タレットの撤去"
 "Decoration", "飾り"
 "For campaign", "キャンペーン用"
+"Field Warfare", "野戦"
 
 "Hut", "小屋"
 "House", "邸宅"
