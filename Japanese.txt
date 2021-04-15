@@ -25,6 +25,7 @@
 "Endless Mode", "エンドレスモード"
 "Steal Into Mode", "隠密モード"
 "Siege Mode", "攻城モード"
+"Custom Mode", "カスタムモード"
 "Back", "戻る"
 
 ## Title.Option
