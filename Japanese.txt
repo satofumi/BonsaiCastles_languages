@@ -1,4 +1,4 @@
-"Japanese", "日本語"
+"Japanese", "Japanese"
 
 # Title
 "Continue", "再開する"
