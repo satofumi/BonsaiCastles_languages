@@ -975,3 +975,51 @@
 # Traial
 "Trial Version", "体験版"
 "--- This is not available in the trial version. ---", "--- 体験版では利用できません ---"
+
+
+# Campaign
+"MainCampaign.Title", "キャンペーン"
+
+"Campaign\00000000.Title.prologue", "プロローグ"
+
+"Campaign\00000000.Title.training_area", "1. 修行場"
+"Campaign\00000000.Title.first_toride", "2. 丘の砦"
+
+"Campaign\00000000.Title.scene_spirit_description", "守り巫女"
+
+"Campaign\00000000.Title.soil_tutorial", "3. 川沿いの砦"
+"Campaign\00000000.Title.climb_tutorial", "4. 山の砦"
+"Campaign\00000000.Title.damage_tutorial", "5. 平城"
+
+"Campaign\00000000.Title.encounter", "再会"
+
+"Campaign\00000000.Title.watchtower_tutorial", "6. 湿地帯の砦"
+"Campaign\00000000.Title.bomb_tutorial", "7. 山城"
+"Campaign\00000000.Title.yagura_tutorial", "8. 平山城"
+
+"Campaign\00000000.Title.leave", "告白"
+"Campaign\00000000.Title.strategy_meeting", "戦略"
+
+"Campaign\00000000.Title.altars_tutorial", "9. 山の祭壇"
+"Campaign\00000000.Title.wetlands_altars", "10. 湖上の祭壇"
+"Campaign\00000000.Title.seaside_altars", "11. 海辺の祭壇"
+
+"Campaign\00000000.Title.inhibit_movement", "12. 足止め"
+"Campaign\00000000.Title.last_defense", "13. 最終戦"
+
+"Campaign\00000000.Title.epilogue", "エピローグ"
+
+
+"training_area.Narration.Enter", "WASD キーの操作で敵の出現位置を探しましょう。\n弓タレットを建築して防御を固めましょう。"
+"first_toride.Narration.Enter", "資源を入手して研究を行いましょう。"
+"soil_tutorial.Narration.Enter", "地面を掘削し、空掘に水を流し込んで水堀を作りましょう。"
+"climb_tutorial.Narration.Enter", "攻め登ってくる敵を撃退しましょう。"
+"damage_tutorial.Narration.Enter", "敵を横や後ろから攻撃して、効率よく撃退しましょう。"
+"watchtower_tutorial.Narration.Enter", "物見櫓を建てて敵の進行を遅らせましょう。"
+"bomb_tutorial.Narration.Enter", "タレットを配置して敵の猛攻を耐え抜きましょう。"
+"yagura_tutorial.Narration.Enter", "櫓にタレットを配置して守りを固めましょう。"
+"altars_tutorial.Narration.Enter", "大筒タレットで敵の祭壇を攻撃しましょう。"
+"wetlands_altars.Narration.Enter", "敵の祭壇を攻撃しましょう。"
+"seaside_altars.Narration.Enter", "敵の祭壇を攻撃しましょう。"
+"inhibit_movement.Narration.Enter", "増築して敵の大群を防ぎましょう。"
+"last_defense.Narration.Enter", "敵の研究を進め、最後の防衛戦に勝利しましょう。"

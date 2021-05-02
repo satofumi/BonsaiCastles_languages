@@ -420,3 +420,382 @@
 "CreativeMode.Description", "This is a game mode where resources can be used indefinitely in order to build a castle freely. You can also spawn a specified number of enemies to attack the castle."
 "EndlessMode.Description", "This is a game mode in which the castle is extended to defend and compete in the rounds where the defense was successful. Various available points are set more than the normal mode."
 "SiegeMode.Description", "This is a game mode in which the saved castle and enemy units are placed to siege."
+
+
+# Campaign
+"MainCampaign.Title", "Campaign"
+
+"Campaign\00000000.Title.prologue", "Prologue"
+
+"Campaign\00000000.Title.training_area", "1. Training grounds"
+"Campaign\00000000.Title.first_toride", "2. Defending the Fort"
+
+"Campaign\00000000.Title.scene_spirit_description", "Shrine maiden"
+
+"Campaign\00000000.Title.soil_tutorial", "3. Fort by the River"
+"Campaign\00000000.Title.climb_tutorial", "4. Fort on the Mountain"
+"Campaign\00000000.Title.damage_tutorial", "5. Castle on the plains"
+
+"Campaign\00000000.Title.encounter", "Reunion"
+
+"Campaign\00000000.Title.watchtower_tutorial", "6. Swamp Fort"
+"Campaign\00000000.Title.bomb_tutorial", "7. Mountain castle"
+"Campaign\00000000.Title.yagura_tutorial", "8. Flatland-mountain castle"
+
+"Campaign\00000000.Title.leave", "Confession"
+"Campaign\00000000.Title.strategy_meeting", "Strategy meeting"
+
+"Campaign\00000000.Title.altars_tutorial", "9. Altars in the Mountains"
+"Campaign\00000000.Title.wetlands_altars", "10. Altars on the lake"
+"Campaign\00000000.Title.seaside_altars", "11. Altars by the Sea"
+
+"Campaign\00000000.Title.inhibit_movement", "12. Inducement to stay"
+"Campaign\00000000.Title.last_defense", "13. Final battle"
+
+"Campaign\00000000.Title.sister_recollect", "Scene: Reminiscence"
+"Campaign\00000000.Title.epilogue", "Epilogue"
+
+
+"prologue.Narration.Enter", "The castle town was attacked by a monster that suddenly appeared and destroyed it.\nYou escaped to the training grounds with everyone else in tow."
+
+"training_area.Narration.Enter", "Use the WASD key to find the enemy's location.\nBuild the Bow Turret and fortify the defenses."
+
+"first_toride.Narration.Enter", "Get resources and do your research."
+"soil_tutorial.Narration.Enter", "Excavate the ground and pour water into the empty excavation to create a water moat."
+"climb_tutorial.Narration.Enter", "Fight off the enemies that are attacking and climbing."
+"damage_tutorial.Narration.Enter", "Attack enemies from the side or behind to fight them off efficiently."
+"watchtower_tutorial.Narration.Enter", "Build a watchtower to slow down the enemy's progress."
+"bomb_tutorial.Narration.Enter", "Place turrets to survive the onslaught of the enemy."
+"yagura_tutorial.Narration.Enter", "Place turrets on the turrets to fortify your defense."
+"altars_tutorial.Narration.Enter", "Use the cannon turret to attack the enemy altar."
+"wetlands_altars.Narration.Enter", "Attack the enemy altar."
+"seaside_altars.Narration.Enter", "Attack the enemy altar."
+"inhibit_movement.Narration.Enter", "Prevent the enemy hordes."
+"last_defense.Narration.Enter", "Research enemies and win the final battle."
+
+
+
+"みこ", "Miko"
+"ねねこ", "Neneko"
+"あおの", "Aono"
+"ちかげ", "Chikage"
+"いぶき", "Ibuki"
+
+
+# prologue
+"明け方", "Dawn"
+"………", "......"
+"目が覚めちゃった。", "I'm awake."
+"なんだろう？ すごく嫌な気が漂ってるし、外から物音がするんだけど…", "What is it? There's a really nasty feeling in the air, and there's a noise outside..."
+"見てこよう。", "Let's go check it out."
+"人じゃない何かが屋敷を囲もうとしてる、よね。", "Something non-human is trying to surround the compound, right?"
+"これは、かなりまずい気がする。", "I have a feeling this is a very bad idea."
+"うん、みんなを起こして逃げよう。", "Yeah, let's wake everyone up and get out of here."
+"みこさん、こんな刻限にどうしたんですか？", "Miko-san, what are you doing here at this hour?"
+"あのね！ なんか化け物に囲まれてて、ちょーやばいの！ 逃げた方がいいと思う！", "Hey! We're surrounded by some kind of monsters, and it's really bad! I think we'd better run!"
+"まだ眠いよ～、みこちゃん、寝ぼけてるの？", "I'm still sleepy~ Miko-chan, are you sleepwalking?"
+"本当だって、信じられないなら自分で見てきてよ。", "It's true. If you don't believe me, go see for yourself."
+"もー、しょうがないなぁ。", "I can't help it."
+"本当だった！ なんか囲まれてる！", "It's true! We're surrounded!"
+"急いで逃げるよ！ ついてきて！", "We have to get out of here! Follow me!"
+
+
+# training area
+"みこの修行場", "Miko's training grounds"
+"逃げてきたのはいいけど、これからどうするの？", "You've escaped, but what do you do now?"
+"まかせて！", "I got it!"
+"ここには私が修行に使ってるタレットがあってね、これで化け物を撃退するよ！", "Here's the turret I'm using for training, I'll fight off the monsters with it!"
+"みこちゃん大丈夫？ 混乱してる？", "Miko-chan, are you okay? Are you confused?"
+"本当だって。離れた場所から操作できるんだから。", "It's true. You can control it from a distance."
+"こうやって…", "Like this..."
+"うわっ！ 本当に動いた！", "Oh, my God! It really works!"
+"このタレットで建物を守るよ。", "I'll use this turret to protect the building."
+"さぁ、化け物を撃退しよー！", "Come on, let's fight off those monsters!"
+
+
+# first toride
+"とりあえず撃退できたね。", "At least you were able to fight them off."
+"今のうちに この先の砦に避難しようと思うの。\nみんな、ついてきて！", "I think we should evacuate to the fort up ahead while we still can. Everyone, follow me!"
+"丘の砦", "Hill Forts"
+"守備の人がいないですね…", "There's no one on defense..."
+"小さな砦とはいえ誰もいないのはおかしいね。", "Even though it's a small fort, it's odd that no one's there."
+"それなんだけど、本城が化け物に攻められてて、そっちを守りに行ったって避難してきた人が話してたよ。", "But the main castle was being attacked by monsters, and the evacuees said they went to defend it."
+"この砦にも化け物が迫ってるのに…", "There's a monster closing in on this fort..."
+"これはつまり、私達でこの砦を守らないといけないってことね。", "This means we'll have to defend this fort ourselves."
+"あ、みんなにお願いがあるんだけど。", "Oh, I have a favor to ask you all."
+"どうしたの？ みこちゃん。", "What's wrong? Miko-chan."
+"この化け物は土や植物に霊力を込めて作られてるみたいなの。", "It seems that this monster is made of soil and plants with spiritual power."
+"詳しく調べようと思うから、倒した化け物の残骸集めを手伝ってくれない？", "I'm going to examine it in detail, so why don't you help me collect the remains of the monster we killed?"
+"いいよー。", "It's okay."
+"ありがとー。\nがんばって弱点とか見つけるね。", "Thank you. I'll do my best to find my weaknesses."
+
+
+# scene spirit description
+"やっと撃退できたね。", "You finally managed to fight them off."
+"ところで、このタレットはどういう仕組みで動いてるの？", "By the way, how does this turret work?"
+"うーん、なるべく秘密にするよう言われてるんだけど…", "Hmm, I've been told to keep this as confidential as possible, but..."
+"見られちゃったし、もういいよね。実は…", "I've been seen. I'm done. Actually..."
+"みこは話した。", "Miko spoke."
+"霊力でタレットに式神を宿して動かしていること。", "To have a shikigami in the turret and move it with spiritual power."
+"少し前まで守り巫女（もりみこ）の流派を継ぐための修行をしていたこと。", "Not long ago, she had been training to become a shrine maiden."
+"守り巫女の流派は姉弟子が継いだため、みこは次席家老さまに預けられたこと。", "My sister's apprentice had become a shrine maiden, so Miko was left in the care of the 2nd retainer."
+"巫女さんだとは思ってたんだけど、普通の巫女さんじゃなかったんだ！", "I knew she was a shrine maiden, but she wasn't just shrine maiden!"
+"うん、流派は継がなかったけど修行は続けてたんだ。\n姉さまにも修行は続けておくよう言われてたし。", "Yes, I didn't had become a shrine maiden, but I continued my training. My sister also told me to continue my training."
+"これだけの能力を秘密にしてたなんて、今まで自慢したいとか思わなかったんですか？", "Didn't you ever feel like bragging or something, that you kept this much ability a secret?"
+"んー、別に思わなかったよ。\n自慢してもしなくても私は私だから。", "Hmm, I didn't think otherwise. I'm still me, whether I'm proud of it or not."
+"それに、守り巫女が悪いことをすると、山から鬼がきて食べられちゃうっていうお話があるんだよ。", "There is also a story that if a shrine maiden does something wrong, a demon will come from the mountain and eat her."
+"なんかこわいよね。", "It's kind of scary."
+"こわいというか、私は今朝からいろんなことがありすぎて疲れちゃった。", "It's not that I'm scared, but I've had so much going on this morning that I'm exhausted."
+"それでね、これからのことなんだけど。", "So, you know, that's what we're going to do."
+"私、守り巫女の力でみんなを守りに行こうと思う。ここ以外のお城に逃げてきた人も守ってあげたいの。", "I'm going to use my power as a shrine maiden to protect everyone. I also want to protect those who have escaped to castles other than this one."
+"しょうがないなぁ、じゃぁ、行こっか。", "I can't help it. Let's go, then."
+"ついてきてくれるの？", "Are you going to follow me?"
+"うん、みこちゃん１人だとなんだか心配だしね。", "Yeah, I'm kind of worried about you if you're on your own, Miko-chan."
+"心配されちゃった…\nそれじゃぁ一緒に行こっか。", "She's worried about me... Let's go together then."
+"よーし、みんなを助けにいっくよー！", "Alright, I'm going to save everyone!"
+
+
+# soil tutorial
+"川沿いの砦", "Fort by the River"
+"よーし、化け物からの攻撃に耐えるために、お城の防衛能力を上げていこう！", "Alright, let's improve the castle's defensive capabilities to withstand the attacks from the monsters!"
+"おー！", "Yeah!"
+"お城の防御の基本は「掘削と盛り土」なの。", "The basis of a castle's defense is \"dill and dig\"."
+"掘削したり盛り土をして地面に高低差をつけて移動しにくくするの。そうして移動に時間がかかっている間に攻撃しちゃおう、ってことね。", "They fill and dig the ground to make it more difficult to move. The idea is to attack them while they're taking time to move."
+"詳しいんだね。", "You know a lot about it."
+"うん。適切なタレット位置を知るために築城術も学んだからね。", "Yeah. I've also learned how to build castles to know where the right turrets are."
+"このお城なら ここを掘って水を流し込めば水堀が作れそう。", "This castle could make a water moat by digging here and pouring water into it."
+"水があると移動が遅くなるから、その間に攻撃できるよ。", "The water will slow down your movement, so you can attack while it's still there."
+"それじゃぁ防衛よ！", "It's defense, then!"
+
+
+# climb tutorial
+"山の砦", "Fort on the Mountain"
+"ここは山城（やまじろ）ね。", "This is a mountain castle."
+"坂道ばっかりで疲れちゃった。", "I was so tired from all the hills."
+"おつかれさま。", "It's exhausting."
+"でも道以外の場所を登ってこようとすると、もっと大変なんだよ。", "But it's much harder when you're trying to climb somewhere other than the path."
+"例えば山城には、尾根伝いに移動されないように尾根を掘った「堀切（ほりきり）」が作ってあったり、斜面に沿って移動しにくくするための「竪堀（たてぼり）」なんかがあるんだ。", "For example, in mountain castles, there are moats dug into the ridge to prevent people from moving along the ridge, and vertical moats, to make it difficult for people to move along the slope."
+"化け物は道を通ってくるはずだから、それを意識して道沿いにタレットを配置すればこのお城も守れそう。", "The monster should come through the road, so if we place turrets along the road with that in mind, we can protect this castle."
+"それじゃぁ、みんなで立て籠もりましょう！", "Well then, let's all hunker down!"
+
+
+# damage tutorial
+"平城", "Castle on the plains"
+"ここは平城（ひらじろ）ね。", "This is castle on the plains."
+"そして、私達がいる場所は「馬出（うまだし）」と呼ばれる場所よ。", "And we're at the defensive gateway barrier of castles."
+"化け物は横や後ろからの攻撃には弱いみたい。だから馬出の内側にタレットを並べれば、侵入してきた化け物を側面から攻撃できて効果ばつぐんだよ！", "Monsters seem to be vulnerable to attacks from the side or behind. That's why it's best to line up turrets on the inside of the stalls, so you can flank the invading monsters!"
+"それからこういう門と塀の配置を「枡形虎口（ますがたこぐち）」って言うんだけど、こういう建て方をして２つ目の門を攻撃している化け物を後ろから攻撃するのも効果的かな。", "Then I think it would be effective to build it this way and attack the monster attacking the second gate from behind."
+"さぁ、立て籠もるわよ！", "Come on, let's hunker down!"
+
+
+# encounter
+"お城への道にて", "On the road to the castle"
+"あら、そこにいるのは みこではないの？！", "Oh, isn't that Miko in there?"
+"ねね姉さま！？", "Sister Neneko!"
+"また会えてうれしいわ。", "It's good to see you again."
+"私もです。ねね姉さま。", "Me too. Sister Neneko."
+"あ、みんなは はじめましてだよね。", "Oh, this is the first time we've all met, right?"
+"じゃーん！ 守り巫女継承者のねね姉さまです！", "Ta-da! It's Sister Neneko, the heiress to the shrine maiden!"
+"じゃーん！\nねねこです。", "Ta-da! I'm Neneko."
+"それより、こんなところでどうしたの？\nあなたは家老さまの屋敷にいるものだと思っていたのだけれど。", "What are you doing here? I thought you were at the 2nd retainer's residence."
+"それはですね…", "It's..."
+"屋敷が襲われたこと。", "That the mansion was attacked."
+"守り巫女として各地の支城を強化していること。", "Strengthening the branch castles around the country as a shrine maiden."
+"そう、あなたはちゃんとお役目を果たしているのね、えらいわ。", "You're doing your part, good for you."
+"えへへ。", "Hehe."
+"みこ、私は大殿様から守り巫女として支城の強化を命じられたのだけど…", "Miko, I have been ordered by the Great Lord to strengthen the branch castle as a shrine maiden..."
+"実は、よどんだ気にあてられて本調子ではないの。", "Actually, I'm not in the best of shape because of the stagnant spiritual energy."
+"私と一緒に支城を強化する手伝いをしてもらえないかしら？", "I was wondering if you could come with me to help strengthen the fortress."
+"はい！", "Yeah!"
+
+
+# watchtower tutorial
+"湿地帯の砦", "Swamp Fort"
+"ここは沼に囲まれてて守りやすい良い砦ね、みこ。", "This is a good fort surrounded by swamps and easy to defend, Miko."
+"はい、ねね姉さま。", "Yeah, Sister Neneko."
+"だけど、化け物はこれくらいの沼地は移動してくるから警戒しましょう。", "However, monsters can move through swamps like this, so be careful."
+"ここに物見櫓を建てて火縄銃タレットを配備しようと思うんだけど、どうかしら？", "I'm thinking of building a watchtower here and deploying a matchlock turret, what do you think?"
+"はい、良いお考えです。", "Yeah, good idea."
+"うふふ。", "Mmm-hmm."
+
+
+# bomb tutorial
+"山城", "Mountain castle"
+"みこ、あれを見てごらん？", "Miko, would you look at that?"
+"紫の化け物がたくさんいますね。", "There are a lot of purple monsters."
+"あの化け物は爆発して、土の崖くらいなら破壊してしまいます。", "That monster will explode and destroy at least a cliff of dirt."
+"城にとりつかれる前に倒すか、石垣を作るのがよいでしょうね。", "It would be better to knock them down or build a stone wall before they haunt the castle."
+"それから、敵が登りそうな崖を攻撃できる位置へのタレット配置も有効です。", "Then, placing turrets in positions where you can attack cliffs that enemies are likely to climb is also effective."
+"敵の出現位置を確認してちゃんと対応すれば守りきれるわ。", "If you know where the enemy is and react properly, you can protect yourself."
+"がんばりましょうね。", "Let's do our best."
+
+
+# yagura tutorial
+"平山城", "Flatland-mountain castle"
+"ねね姉さま、このお城はたくさんの化け物に囲まれていますね。", "Sister Neneko, this castle is surrounded by a lot of monsters."
+"大丈夫よ、ここは堅城なだけあって、ちゃんと守れば持ちこたえられるわ。", "Don't worry, this is a solid castle, and it can hold its own if we defend it properly."
+"私達は櫓（やぐら）へのタレット配備を重点的に行いましょう。", "We should focus on deploying turrets to the yagura."
+"ここが最後のお城だから、防衛が終わったら二人で少し話をしましょうね。", "This is the last castle, so when the defense is over, we'll have a little talk together."
+"はい。", "Yeah."
+
+
+# leave
+"城外の山林にて", "In the mountain forest outside the castle"
+"やっと落ち着いて話ができます。", "We can finally talk calmly."
+"ここは守り巫女の修行をしていた場所になんだか似ていますね。", "This place is somewhat similar to the place where the guardian priestesses were trained."
+"修行は厳しかったけれど、あなたと過ごした日々は良い思い出です。", "The training was tough, but I have good memories of the days I spent with you."
+"はい。私もです、ねね姉さま。", "Yes. Me too, sister Neneko."
+"修行を終え、あなたが次席家老さまに、私が主席家老さまに預けられてもう１年近くになるでしょうか。月日の流れは早いものですね。", "It's been almost a year since you finished your training and were entrusted to the 1st retainer and 2nd retainer. The days pass quickly, don't they?"
+"それでね、みこ。\n少し言いにくいんだけど、あなたに話さないといけないことがあります。", "So, Miko. I know this is a little hard to say, but there's something I need to tell you."
+"………………", "............"
+"こういうことは、いざとなると言い出しにくいものですね。", "It's hard to talk about these things when it comes down to it."
+"ねね姉さま。", "Sister neneko."
+"今から ねね姉さまが話そうとしていることは、化け物を召喚したのが ねね姉さまということですか？", "What you're about to tell me is that it was you who summoned the monster?"
+"どうして、私が化け物を呼び出したと思うのですか？", "Why do you think I summoned the monster?"
+"倒した化け物の核に残っていた霊気は ねね姉さまのものでした。", "The spiritual energy that remained in the core of the defeated monster was Neneko's."
+"そうでしたね…", "Yes, it was..."
+"あなたは霊力を読み解く能力は ずば抜けていましたね。", "You had an uncanny ability to decipher spiritual power."
+"もっと気をつけるべきでした。", "I should have been more careful."
+"そうです。化け物は私が召喚しました。", "That's right. The monster was summoned by me."
+"今までの騒動は主席家老さまの起こす反乱のための陽動にすぎません。", "The commotion up until now has been nothing more than a diversion for the rebellion that the 1st retainer has started."
+"数日後には化け物の大群が攻めてくることになっています。", "In a few days, a horde of monsters is supposed to attack us."
+"この国にいては、私達はより大きな戦いに巻き込まれてしまうでしょう。", "If we stay in this country, we will be involved in a much bigger battle."
+"みこ、だから私と一緒に この国から逃げてくれないかしら？", "Miko, so will you please come with me and flee this country?"
+"逃げるのは構わないのですが、", "I don't mind if you run."
+"ねね姉さまはそれで良いのですか？\n逃げた先で笑って過ごせるのですか？", "Are you okay with that, Sister Neneko? Will you be able to smile and live in the place you escaped to?"
+"少なくとも、ここ数日の ねね姉さまは心から笑っていませんでした。", "At least for the past few days, sister Neneko has not been smiling sincerely."
+"ねね姉さま、どうしてこうなったのか話してもらえませんか？", "Sister Neneko, could you please tell me how this happened?"
+"ねねこは静かに話し始めた。", "Neneko began to speak quietly."
+"従わないと、みこを害すると脅されて主席家老に手を貸してしまったこと。", "The threat of harming Miko if she didn't obey, and the fact that she helped the 1st retainer."
+"主席家老から渡された呪具を用いて、化け物を召喚させられたこと。", "Being forced to summon a monster using a spell tool given to me by the 1st retainer."
+"裏切らないよう、ねねこの体には霊力を抑える呪いがかけられていること。", "To prevent betrayal, a curse has been placed on Neneko's body to suppress her spiritual power."
+"屋敷を襲撃し、みこを捕らえると聞いていたので再会できて驚いたこと。", "Neneko had heard that they were going to attack the 2nd retainer's residence and capture Miko, so Neneko was surprised to see her again."
+"姉さま、お話を聞いて確信したんですけど、", "Sister, I'm convinced by your story."
+"主席家老さま、めっちゃ許しがたいですね、まじで。", "The 1st Chief retainer, it's so unforgivable, seriously."
+"みこ、口調が変よ？ 怒ってるの？", "Miko, what's with the tone? Are you angry?"
+"当然です。姉さまを苦しめるなんて許せません！", "Of course. I can't allow you to torment my sister!"
+"姉さま、決めました。", "Sister, I've made up my mind."
+"私は逃げたりしません。", "I'm not going to escape."
+"これ以上の争いを起こさせないために、そしてなにより姉さまの苦しみの元凶をぶっつぶすために戦います！", "I will fight to prevent further conflict, and above all, to destroy the source of sister's suffering!"
+"だけど、戦うと命を狙われることになるのよ？", "But if you fight them, they'll try to kill you, okay?"
+"大丈夫です！ 自分の身は自分で守りますし、姉さまのことも私が守ります！", "Don't worry! I'll protect myself and I'll protect my sister!"
+"それに、姉さまも私と一緒に戦ってくれますよね？", "Besides, your sister will fight with me, won't she?"
+"そうね、なんだか私も戦えそうな気がしてきたわ。", "Yeah, I'm starting to feel like I can fight."
+"みこ、私達の戦いを始めましょう。", "Miko, let us begin our fight."
+
+
+# strategy meeting
+"では勝つための作戦を確認していきましょう。", "Now let's check out the strategy for winning."
+"まず化け物ですが、これは主席家老さまの持つ呪具で操ることができ、地脈に築いた祭壇から今も生まれ続けています。", "First of all, there is the monster, which can be controlled by the 1st retainer's spell tool and continues to be born from the altar he built in the earth's veins."
+"今までの騒動は化け物の数が増えるまでの時間を稼ぐ意味もありました。", "The commotion so far has been meant to buy time until the number of monsters increases."
+"ただ、化け物の数が呪具で操れる上限に達するまでは攻めてきません。", "However, they won't attack until the number of monsters reaches the limit of what they can control with their spell tool."
+"それは確かなんですか？", "Are you sure about that?"
+"はい。軍配に霊力を込めたのも、化け物を呼び出す祭壇を作ったのも、攻めるべき時期を進言したのも私です。間違いないでしょう。", "Yes, I did. I'm the one who put the spiritual power into the battle array, built the altar that summoned the monster, and advised the time to attack. There can be no doubt about it."
+"（ねね姉さまの真面目な性格が裏目に！）", "The seriousness of my sister Neneko's character has backfired!"
+"そして、化け物の軍勢は大群であるため、二手に分かれて本城の北東、鬼門の方角にある寺院に攻め寄せてきます。", "And since the army of monsters is a large group, they split into two groups and attacked the temple located in the northeast direction of the main castle."
+"この地には、よどんだ気が満ちています。ここに陣取れば化け物の維持と召喚が容易になるため、拠点にするには最適の場所なのです。", "This place is filled with stagnant air. It's a great place to make a base, because it's easy to maintain and summon monsters if you set up here."
+"これも私が進言した策です。", "This is also a measure I have advised."
+"言い換えれば、今ある祭壇を壊して北東の地を守り切ることができれば、呪具の霊力が尽きて化け物を維持できなり、私達の勝ちです。", "In other words, if we can destroy the current altar and protect the northeastern land, the spiritual power of the spell tool will run out and the monster will be able to maintain itself, and we will win."
+"問題は私の霊力が呪いで制限されていることと、現時点での化け物の数も膨大なことです。", "The problem is that my spiritual power is limited by the curse, and the number of monsters at the moment is also huge."
+"ですが、みこ と皆さんが手伝ってくれるなら勝機はあります。", "However, we have a chance to win if Miko and everyone will help us."
+"はい。勝ちにいきましょう。", "Yeah. Let's go for the win."
+"みこちゃん燃えてるなぁ。", "Miko-chan is very motivated."
+
+
+# altars tutorial
+"山の祭壇", "Altars in the Mountains"
+"あそこに見えるのが呪具の力を宿した祭壇です。", "What you see over there is the altar that holds the power of the spell."
+"あの祭壇は地脈の力を利用して化け物を召喚する仕組みです。", "That altar is a mechanism that uses the power of the earth's veins to summon monsters."
+"みこは大筒タレットを操って呪いの祭壇を壊してもらえるかしら？", "Miko, can you manipulate the cannon turret to break the cursed altar?"
+"壊してもらえれば、祭壇の浄化は私が行います。", "If you destroy it, I will cleanse the altar for you."
+"ということなので、まずは物見櫓を建てて大筒タレットの射程を確保するよー。", "So, I'll build a watchtower first to secure the range of the cannon turret."
+"わかりました。", "I understand."
+"そして壊した祭壇は敵から守る必要があるよ。そうしないと祭壇はまた呪われちゃうからね。", "And we need to protect the altar from your enemies. If we don't, the altar will be cursed again."
+"わかった！", "Okay!"
+
+
+# wetlands altars
+"湖上の祭壇", "Altars on the lake"
+"ここの祭壇は浮島の中にあるから、ちょっと攻めにくそう。", "The altar here is in a floating island, so it looks a little hard to attack."
+"攻められるだけの霊力が貯まるまでは、守りに徹した方がいいね。", "I'd better stay on the defensive until I've accumulated enough spiritual power to attack."
+"でも、なるべく早く壊さないといけないんでしょう？", "But we have to destroy it as soon as possible, right?"
+"そうなんだよね。", "That's right."
+"だから、大筒タレットを配置できるようになったら一気に攻勢に転じよう！", "So when we can place the cannon turrets, let's go on the offensive at once!"
+"１つでも祭壇を壊したら化け物の注意はそっちに向くはずだから、そうしたら本陣を守るタレットを攻撃に使うのがいいと思う。", "If you break one of the altars, the monster's attention will turn to it, and then you can use the turrets guarding the main camp to attack."
+"わかった！ がんばろうね。", "All right! I'll do my best."
+
+
+# seaside altars
+"海辺の祭壇", "Altars by the Sea"
+"ここは祭壇が互いに離れた位置にあるけど、一気に攻めちゃおう。", "The altars are located far away from each other, but let's attack them all at once."
+"素早くタレットを展開して一気に制圧だよ！", "Quickly deploy the turrets and take control at once!"
+"設置した祭壇はここにあるものが最後です。ここを浄化すれば化け物がこれ以上増えることはありません。みなさん、がんばりましょうね。", "The altar here is the last one we have set up. If we purify this place, there will be no more monsters. Let's all do our best."
+"やるぞー！", "Let's do this!"
+
+
+# inhibit movement
+"街道沿いの砦", "Forts along the road"
+"ここからが本当の戦いです。", "From here, the hard fight begins."
+"この地では、攻めてくる敵の第２部隊の足止めを行います。", "In this area, you will stall the enemy's second force that is attacking you."
+"直接指揮されてない化け物は予め命令されたことしか行なえません。\nつまり、この砦を強化して攻め落とせないようにしてしまえば足止めできます。", "Monsters that are not directly commanded can only do what they are ordered to do in advance. In other words, if you strengthen this fort so that it cannot be attacked down, you can stop it."
+"本来なら短期間での大改築など無理な話ですが、", "Normally, it would be impossible to do a major renovation in a short period of time, but..."
+"私達ならそれが可能です。", "We can do that."
+"はい、ねね姉さま。守り巫女の力を見せつけてやりましょう！", "Yeah, Sister Neneko. Let's show them the power of the shrine maiden!"
+"がんばろうね！", "Let's go for it!"
+
+
+# last defense
+"本城から北東にある寺院", "A temple northeast of the main castle"
+"さぁ、最後の戦いです。", "Now for the final battle."
+"勝ちましょう。", "Let's win."
+"勝って私達の生活を取り戻すのです。", "We must win and take back our lives."
+"はい。勝ちましょう。", "Yeah, Let's win."
+"それじゃぁ防衛していくよー。", "So let's defend it."
+"流れている川を防衛線にして守るか、今の拠点を増築していくか、むつかしいところね。", "It's hard to decide whether to use the flowing river as a defense line or to expand the current base."
+"いっそ拠点を移してもいいかも。", "I might as well move my base."
+"厳しい戦いになりそうだね。", "It's going to be a tough fight."
+"そうだね。", "That's right."
+"でも勝つよ。", "But we'll win."
+"勝ってここで終わらせよう。", "Let's win and end this here."
+"みんな、いくよ！", "Let's go!"
+
+
+# epilogue
+"主席家老による反乱は鎮圧された。", "The rebellion by the 1st retainer was put down."
+"ねねこは反乱に加担として処刑されるところを、次席家老の助命により幽閉となった。", "Neneko was about to be executed for her part in the rebellion, but was imprisoned with the help of the 2nd retainer."
+"呪具は逃亡した家老とともに行方不明であり、ねねこにかけられた呪いは消えていない。", "The spell is missing along with the escaped 1st retainer, and the curse placed on Neneko has not been erased."
+"そしてみこは、", "And Miko..."
+"みこさん、本当に旅立ってしまうのですか？", "Miko-san, are you sure you're leaving?"
+"うん。呪いにかかったままだと、ねね姉さまがかわいそうだから。", "Yes. If you are still under the curse, I feel sorry for your sister Neneko."
+"それに呪具の残穢（ざんえ）をたどって探し出すなんてこと、私にしかできないからね。", "And I'm the only one who can trace the residue of the spell tool to find it."
+"ねね姉さまに会えないなら、せめて今私にできることをしようと思うの。", "If I can't see my sister Neneko, I'll at least do what I can do now."
+"うぅぅ、絶対帰ってきてね。", "Boohoo, you have to come back."
+"うん。待っててね、ちかげちゃん。", "Yeah. Wait for me, chikage-chan."
+"みこちゃん、旅先でも元気でね。", "Miko-chan, be well on your journey."
+"うん。いぶきちゃんも元気でね。", "Yeah. Take care, Ibuki-chan."
+"みこさん、道中気をつけて下さいね。あまり無駄づかいしてはだめですよ。", "Miko-san, please be careful on the road. Don't waste too much of it."
+"うん。今までありがとね、あおのちゃん。", "Yeah. Thank you for everything, Aono-chan."
+"みんな、またねー。", "See you, everyone!"
+"国境（くにざかい）", "National border"
+"やっと来たのね、みこ。", "You've arrived, Miko."
+"ねえさま？！", "Sister?!"
+"どうしてここに？ 幽閉されてたんじゃなかったの？", "Why are you here? I thought you were imprisoned."
+"それなんだけど…", "That's it, but..."
+"あなたが旅に出るって聞いたら、居ても立っても居られなくて、", "When I heard you were going on a trip, I just couldn't resist..."
+"逃げてきちゃった。", "I've broken out of jail."
+"えぇぇぇーー！", "No way!"
+"心配しないで。", "Don't worry about it."
+"逃げてきたといっても、今日に限って見張りの人もいなかったし、金子（きんす）も置いてあったし、あれは絶対に「見てない振りをするから今のうちに逃げろ」ってやつだと思うの。", "Even though I escaped, there were no guards today, and the money was still there. I'm pretty sure that was a \"I'll pretend I didn't see you, so get out while you can\" kind of thing."
+
+"似たようなお話を以前に物語で読んだことがあるわ。\n私、そういうことには詳しいのよ？", "I've read a similar story before. I know a lot about that kind of thing, don't I?"
+"えぇ…", "Oh..."
+"いいのかな、これで。", "I'm not sure if that's okay."
+"いいのよ。", "It's okay."
+"それに何か大変なことになっても、私のことは みこが守ってくれるんでしょう？", "And if something serious happens, Miko will protect me, right?"
+"確かにそう言ったけど…", "I did say that, but..."
+"うーん、そうだよね、きっと大丈夫だよね！", "Hmmm, yeah, I'm sure it'll be fine!"
+"みこは深く考えるのをやめた。姉の行動が予測できないのは、今に始まったことではなかったからだ。", "Miko stopped to think deeply. It wasn't the first time that her sister's behavior had been unpredictable."
+"ねね姉さま、これからよろしくお願いしますね。", "Sister Neneko, Let's make it a good trip."
+"ふふふ、こちらこそよろしくね。", "Let's do that."
+"守り巫女２人の波乱に満ちた旅が、今始まろうとしていた。", "The tumultuous journey of the two shrine maidens is about to begin."
+"おしまい", "THE END"
