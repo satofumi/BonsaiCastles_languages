@@ -228,8 +228,8 @@
 "OneWaySign", "One-Way Sign"
 "WaterDrain", "Water Drain"
 "WaterSource", "Water Source"
-"DigSoil", "Dig Soil"
-"FillSoil", "Fill Soil"
+"DigSoil", "Lower Terrain"
+"FillSoil", "Raise Terrain"
 "Ishigaki", "Ishigaki"
 "RemoveBuilding", "Remove Building"
 
@@ -291,7 +291,7 @@
 "WaterSource description", "Raise the water on this tile."
 "TerrainWaterSource description", ""
 
-"DigSoil description", "Dig away a block of ground."
+"DigSoil description", "Dig away a block of the ground."
 "FillSoil description", "Raise a block of ground."
 "Ishigaki description", "Reinforce the ground with a stone wall."
 
