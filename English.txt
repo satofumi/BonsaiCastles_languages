@@ -44,6 +44,7 @@
 "Campaign.Start", "Start"
 
 # Credit
+"Credit.Localization", "Localization"
 "Credit.Model", "Model"
 "Credit.Illust", "Illustration"
 "Credit.Sound", "Music and Sound Effects"

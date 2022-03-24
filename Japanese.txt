@@ -110,6 +110,7 @@
 "Campaign.Start", "開始"
 
 # Credit
+"Credit.Localization", "多言語対応"
 "Credit.Model", "モデル"
 "Credit.Illust", "イラスト"
 "Credit.Sound", "音楽・効果音"
