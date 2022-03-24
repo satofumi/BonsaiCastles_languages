@@ -155,7 +155,7 @@
 "Help.description.Reload", "Standalone Turrets need ammunition supplied by supply units that come out of residences. The number of supply units that a residence can provide at the same time is the same as the number of Turrets that can be placed within it.\nSupply units will not appear from residences that do not have a route to the Base."
 
 "Help.Vision and Range", "Vision and Range"
-"Help.description.VisionAndRange", "At the beginning of the Defense Phase enemies will advance to your Turrents' and residences' sight range.\nAll residences (except for the tenshukaku) have a shorter sight range than a Bow Turret (Houses) or Arquebus Turret (Yagura). Watchtowers have exceptional sight range."
+"Help.description.VisionAndRange", "At the beginning of the Defense Phase enemies will advance to your Turrents' and residences' sight range.\nAll residences (except for the tenshukaku) have a shorter sight range than a Bow Turret (Houses) or Arquebus Turret (Yagura).\nWatchtowers have exceptional sight range."
 
 "Help.Enemies defense", "Enemy Defense"
 "Help.description.EnemiesDefense", "Enemies have various defense values depending on the direction of attack. Use turret placement to your advantage to ambush enemies.\nEnemies attacking a building will have their defense values reduced; they will take 1.5 times more damage."
@@ -179,16 +179,16 @@
 "Help.description.EnemyAndResources", "Enemies defeated during the Defense Phase will drop resources. Resources will be collected by the residents in the gather phase, and brought to their homes for you to use during the Build Phase."
 
 "Help.Enemy vision", "Enemy Vision"
-"Help.description.EnemyVision", "You can switch into an enemy's point of view by pressing the "Get into the role" button from the lower right panel that appears when you click on an enemy during the Defense Phase. Press the ESC key to return to the normal view."
+"Help.description.EnemyVision", "You can switch into an enemy's point of view by pressing the Get into the role button from the lower right panel that appears when you click on an enemy during the Defense Phase. Press the ESC key to return to the normal view."
 
 "Help.Enemy route", "Enemy Attack Route"
-"Help.description.EnemyRoute", "Enemies will attack your base along the path of least resistance. Build moats and Walls to guide them, and place Turrets where you can attack them from the side or behind.\nSince turrets cannot pass through, make sure you don't block the enemy's attack routes by placing them in a row."
+"Help.description.EnemyRoute", "Enemies will attack your base along the path of least resistance. Build moats and Walls to guide them, and place Turrets where you can attack them from the side or behind.\nSince turrets cannot be passed through, make sure you don't block the enemy's attack routes by placing them in a row on your planned path."
 
 "Help.Evolved enemy", "Evolved Enemies"
 "Help.description.EvolvedEnemy", "When three or more enemies appear from a nest, every third enemy from that nest will be evolved. Evolved enemies are stronger and a they have a much higher ability to climb. Evolved enemies also have slightly different colors."
 
 "Help.Resource type", "Resource Types"
-"Help.description.ResourceType", "Population: Increases before the Build Phase. The upper limit is determined by your of residences.\nConstruction Points: Consumed when building, and editing terrain. Gained before the Build Phase.\nSpirit Points: Necessary for Turret placement and skill activation. Each enemy defeated during the Defense Phase will temporarily grant you one point to use for skills.\nResources: Used when conducting research and building some buildings. The upper limit is determined by your Base building."
+"Help.description.ResourceType", "Population: Increases before the Build Phase. The upper limit is determined by your of residences.\nConstruction Points: Consumed when building, and editing terrain. Gained before the Build Phase.\nSpirit Points: Necessary for Turret placement and skill activation. Each enemy defeated during the Defense Phase will temporarily grant a point to use for skills.\nResources: Used when conducting research and building some buildings. The upper limit is determined by your Base."
 
 "Help.Worker", "Worker"
 "Help.description.Worker", "Construction and Spirit Points are gained depending on your population. They also collect resources during the Gather Phase. Workers can only climb up a single step up and down.\nDuring the Defense Phase all your workers evacuate to your Base."
@@ -200,7 +200,7 @@
 "Help.description.Nawabari", "With Nawabari panels, you can selected an area of buildings and save them to build elsewhere or on a different map or save game."
 
 "Help.Altar", "Altar"
-"Help.description.Altar", "In stages with altars, you can turn an enemy altar into a friendly altar by attacking it. A certain area around am enemy altar will become contaminated, keeping you from building there.\nEnemy altars also act as camps."
+"Help.description.Altar", "In stages with altars, you can turn an enemy altar into a friendly altar by attacking it. A certain area around an enemy altar will become contaminated, keeping you from building there.\nEnemy altars also act as camps."
 
 "Help.MainCamp", "Main Camp"
 "Help.description.MainCamp", "In field-themed stages, you cannot build houses, but instead have a Main Camp and a Camp Screen. The location of the Main Camp cannot be changed."
