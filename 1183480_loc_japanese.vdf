@@ -33,7 +33,9 @@
 		"NEW_ACHIEVEMENT_1_13_DESC"	"100体以上の敵を倒す。（通常モードのみ）"
 		"NEW_ACHIEVEMENT_1_14_NAME"	"古強者"
 		"NEW_ACHIEVEMENT_1_14_DESC"	"1000体以上の敵を倒す。（通常モードのみ）"
-		"NEW_ACHIEVEMENT_1_15_NAME"	"征服者"
-		"NEW_ACHIEVEMENT_1_15_DESC"	"全ての実績を達成する。"
+		"NEW_ACHIEVEMENT_1_15_NAME"	"ある物語"
+		"NEW_ACHIEVEMENT_1_15_DESC"	"キャンペーンをクリアする。"
+		"NEW_ACHIEVEMENT_1_16_NAME"	"征服者"
+		"NEW_ACHIEVEMENT_1_16_DESC"	"全ての実績を達成する。"
 	}
 }

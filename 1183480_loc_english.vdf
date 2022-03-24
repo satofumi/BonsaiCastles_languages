@@ -33,7 +33,9 @@
 		"NEW_ACHIEVEMENT_1_13_DESC"	"Defeat a total of 100 enemies. (Normal Mode only)"
 		"NEW_ACHIEVEMENT_1_14_NAME"	"Hero"
 		"NEW_ACHIEVEMENT_1_14_DESC"	"Defeat a total of 1000 enemies. (Normal Mode only)"
-		"NEW_ACHIEVEMENT_1_15_NAME"	"Conqueror"
-		"NEW_ACHIEVEMENT_1_15_DESC"	"Get all other achievements."
+		"NEW_ACHIEVEMENT_1_15_NAME"	"One story"
+		"NEW_ACHIEVEMENT_1_15_DESC"	"Complete all campaign missions."
+		"NEW_ACHIEVEMENT_1_16_NAME"	"Conqueror"
+		"NEW_ACHIEVEMENT_1_16_DESC"	"Get all achievements."
 	}
 }
