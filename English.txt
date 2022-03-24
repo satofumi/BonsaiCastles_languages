@@ -304,7 +304,7 @@
 
 "BowTurret description", "Fires arrows at enemies."
 "HinawaGunTurret description", "Fires lead bullets with gunpowder."
-"CannonTurret description", "Fires shells that deal splash damage to enemies knocks them back. Fires in a parabola, but requires line of sight."
+"CannonTurret description", "Fires shells that deal splash damage to enemies and knocks them back.\nFires in a parabola, but requires line of sight."
 "RemoveTurret description", "Remove Turrets"
 
 "Flag description", "A flag to show your castle's allegiance."
@@ -315,7 +315,7 @@
 "Bamboo description", "A bunch of a beautiful species of thick grass."
 "CherryTree description", "A beautiful sakura tree. Your residents love to sit under it and watch its' pink petals fall in the wind."
 "PineTree description", "A dark, evergreen pine tree"
-"Rock description", ""
+"Rock description", "Not a boulder."
 "Jizo description", "A handcrafted statue to honor Ojizō-sama."
 "KomaInu description", "A lion-like dog statue, commonly placed in pairs to protect shrines."
 "StoneLantern description", ""
