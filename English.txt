@@ -200,10 +200,10 @@
 "Help.description.Nawabari", "With Nawabari panels, you can selected an area of buildings and save them to build elsewhere or on a different map or save game."
 
 "Help.Altar", "Altar"
-"Help.description.Altar", "In stages with altars, you can turn an enemy altar into a friendly altar by attacking it. A certain area around an enemy altar will become contaminated, keeping you from building there.\nEnemy altars also act as camps."
+"Help.description.Altar", "In stages with altars, you can turn an enemy altar into a friendly altar by attacking it with a turret. A certain area around enemy altars will be contaminated, preventing you from building there.\nEnemy altars also act as camps, and enemies may attempt taking back altars you have turned to your side."
 
 "Help.MainCamp", "Main Camp"
-"Help.description.MainCamp", "In field-themed stages, you cannot build houses, but instead have a Main Camp and a Camp Screen. The location of the Main Camp cannot be changed."
+"Help.description.MainCamp", "In field-themed stages, you cannot build houses, but instead have a Main Camp with screens. The location of the Main Camp or Base building cannot be changed."
 
 
 ## Game.Build
