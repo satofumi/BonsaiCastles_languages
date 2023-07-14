@@ -294,6 +294,7 @@
 
 "Spirit Cost", "霊力"
 "Spirit power used in siege mode", "攻城モードで使われる霊力量"
+"For boar enemies: the number of seconds between turning around and putting up the shield.", "イノシシの敵のとき： 向きを変えてからシールドを張るまでの秒数。"
 
 # Game
 "No Enemy Mode", "敵が出現しない"
