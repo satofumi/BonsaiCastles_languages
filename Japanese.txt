@@ -75,6 +75,7 @@
 "RankingState.Ended", "終了"
 "RankingState.Scheduled", "開催予定"
 "Build castles, get likes, and aim for the top of the rankings!", "城郭を作って「いいね」をもらってランキング上位を目指そう！"
+"Open in Browser", "ブラウザで開く"
 
 "Connected.", "サーバに接続しました。"
 "Connection failure.", "サーバとの接続に失敗しました。"
