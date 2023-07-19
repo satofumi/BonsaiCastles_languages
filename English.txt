@@ -361,6 +361,7 @@
 "Tech_Spirit_2", "Mediation III"
 "Tech_Spirit_3", "Mediation IV"
 "Tech_Spirit_4", "Mediation V"
+"Tech_Spirit_5", "The Art of Manipulating Spirits"
 "Tech_Damage_0", "Attack Skill I"
 "Tech_Shield_0", "Defense Skill I"
 "Tech_Damage_1", "Attack Skill II"
@@ -396,7 +397,7 @@
 "Tech_Spirit_2 description", "Gain additional {0} spirits."
 "Tech_Spirit_3 description", "Gain additional {0} spirits."
 "Tech_Spirit_4 description", "Gain additional {0} spirits."
-"Tech_Spirit_5 description", "Gain additional {0} spirits."
+"Tech_Spirit_5 description", "The concept of maintenance power is introduced for turrets, and the power requirement for setting up a turret is reduced to {0}%.\nThe number of turrets that can be installed at the same time does not change with or without this skill, but the number of turrets that can be installed increases. The turrets that are closest to the base are given priority."
 
 "Tech_Damage_0 description", "Unlocks an offensive skill that deals {0} damage to, and stuns all enemies within the selected range."
 "Tech_Damage_1 description", "Attack skill now deals {0}% of their HP as additional damage to enemies."

@@ -602,6 +602,7 @@
 "Tech_Spirit_2", "研鑽３"
 "Tech_Spirit_3", "研鑽４"
 "Tech_Spirit_4", "研鑽５"
+"Tech_Spirit_5", "操霊の極意"
 "Tech_Damage_0", "攻撃スキル１"
 "Tech_Shield_0", "防御スキル１"
 "Tech_Damage_1", "攻撃スキル２"
@@ -637,7 +638,7 @@
 "Tech_Spirit_2 description", "追加の霊力を {0} 得る。"
 "Tech_Spirit_3 description", "追加の霊力を {0} 得る。"
 "Tech_Spirit_4 description", "追加の霊力を {0} 得る。"
-"Tech_Spirit_5 description", "追加の霊力を {0} 得る。"
+"Tech_Spirit_5 description", "タレットに維持霊力の概念が導入され、タレットを設置するときの必要霊力が {0}% に減る。\n同時に稼働できるタレット数はこのスキルの有無で変わらないが、設置できるタレット数は増える。タレットは拠点に近いものが優先的に稼働する。"
 
 "Tech_Damage_0 description", "範囲内の全敵に {0} ダメージを\n与える攻撃スキルが使えるようになる。"
 "Tech_Damage_1 description", "攻撃スキルが敵体力の {0}% の\nダメージを追加で与えるようになる。"
