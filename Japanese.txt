@@ -868,6 +868,8 @@
 
 "Damage:  {0}", "攻撃力:  {0}"
 "Range:  {0}", "射程:  {0}"
+"Maintaining spirit points:  {0}", "維持霊力:  {0}"
+"Working spirit points:  {0}", "稼働霊力:  {0}"
 
 "DPS:  {0}", "DPS:  {0}"
 "Defense", "防御"
