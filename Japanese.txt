@@ -381,6 +381,9 @@
 "Change the time", "時刻を変更する"
 "Toggle custom panel", "カスタムパネルの開閉"
 
+"Copy turret assignments", "タレット割り当てのコピー"
+"Paste turret assignments", "タレット割り当てのペースト"
+
 "Move", "移動"
 "Jump", "ジャンプ"
 "Movement speed up", "移動速度アップ"
